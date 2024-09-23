@@ -1,7 +1,7 @@
 ---
-title: Browse
+title: Colección
 layout: browse
 permalink: /browse.html
 ---
 
-## Browse Items
+## Ver documentos de la colección

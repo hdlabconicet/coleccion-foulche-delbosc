@@ -1,11 +1,11 @@
 ---
-title: Data
+title: Metadatos
 layout: data
 permalink: /data.html
 ---
 
-## Collection Metadata
+## Metadatos de la colección
 
-The table below provides sorting and basic search of the collection contents. 
-Use the "CSV" button below to download the filtered metadata you see on the page. 
-Alternatively, click the "Download" button at the top right to view the full collection metadata in various formats. 
+Esta tabla permite ordenar y buscar de manera básica el contenido de la colección en csv o Excel. La opción "Descargar metadatos" ofrece la descarga en otros formatos. 
+<br/>
+<br/>

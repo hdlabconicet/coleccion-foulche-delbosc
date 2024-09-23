@@ -1,13 +1,12 @@
 ---
-# layout for "multiple" display template
+# layout for "obra" display template
 # creates large images with a gallery feature
 layout: item/item-page-base
 gallery: true
 ---
 {% assign children = site.data[site.metadata] | where_exp: 'item','item.parentid == page.objectid' %}
 
-<div class="row">
-    <div class="col-md-6">
+    <div>
 
         <br/>
     {% for child in children %}
@@ -19,20 +18,18 @@ gallery: true
     </div>
     {% endfor %}
 </div>
-<div class="col-md-6">
+<div>
 
         {% include item/child/compound-item-download-buttons.html %}
-        {% if page.object_multiple %}
-        {% assign transcripciones_type = page.object_multiple | slice: 0,1 %}
+        {% if page.object_obra %}
+        {% assign transcripciones_type = page.object_obra | slice: 0,1 %}
         {% if transcripciones_type == '/' %}
-        {% assign transcripciones_location = page.object_multiple | remove_first: '/' %}
+        {% assign transcripciones_location = page.object_obra | remove_first: '/' %}
         {% assign transcripciones = site.pages | where: 'path', transcripciones_location | first %}
         {{ transcripciones.content | markdownify }}
         {% else %}
-        {{ page.object_multiple | markdownify }}
+        {{ page.object_obra | markdownify }}
         {% endif %}
         {% endif %} 
 
     </div>
-
-</div>
