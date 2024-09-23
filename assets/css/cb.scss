@@ -64,7 +64,7 @@ margin-bottom: 24px;
 }
 
 .info {
-  display: none;
+  // display: none;
   font-size: 18px;
 font-weight: bold;
 
@@ -81,11 +81,18 @@ color: #7b241c
   margin-bottom:40px;
   }
 
-  .rima{
+.rima{
     font-weight: bold;
     }
 
-    
+.speaker{
+  font-weight: bold;
+  }
+
+h1 {
+  margin-bottom:40px;
+  }
+
   .pop-annotation {
-    cursor: pointer;
-}  
+      cursor: pointer;
+  }
