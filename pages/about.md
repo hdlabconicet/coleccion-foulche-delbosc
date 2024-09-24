@@ -10,32 +10,36 @@ credits: true
 
 <!-- {% include feature/jumbotron.html objectid="https://github.com/gabrielcalarco/cartas_busa/blob/main/objects/folleto.jpg" %}  -->
 
-{% include feature/nav-menu.html sections="Sobre las cartas de Busa;Breves recuerdos de mi relación con el Padre Busa" %}
+{% include feature/nav-menu.html sections="Sobre el seminario;" %}
 
-## Sobre las cartas de Busa
+## Sobre el seminario
 
-Con justa razón, el jesuita Roberto Busa es considerado el Padre de las Humanidades Digitales: su Index Thomisticus y los proyectos que surgieron de él siguen siendo, más de setenta años después, buenos ejemplos de las formas en las que se puede hacer investigación en Humanidades con herramientas digitales.
+<p class="prosa">La colección bibliográfica reunida por el erudito Raymond Foulché-Delbosc (1864-1929) a lo largo de
+décadas de trabajo intelectual fue subastada a su muerte y adquirida por la Biblioteca Nacional Mariano
+Moreno (BNMM) en 1936. Se trata de una de las colecciones más importantes de la Sala del Tesoro.
+Reúne 1281 obras, tanto impresas como manuscritas, de renombrados autores de la literatura española
+tales como Pedro Calderón de la Barca, Luis de Góngora, o Francisco de Quevedo. Presenta también
+diversos cancioneros tanto literarios como ejemplos de música escrita, entre otros materiales
+documentales. Durante casi todo el siglo XX, la colección se consideró "perdida" por parte de académicos
+hispanistas. A mediados de la década de 1990, dos medievalistas y bibliógrafos norteamericanos
+consultaron ejemplares en la BNMM e identificaron estas obras como parte de la colección Foulché-
+Delbosc. A partir de ese "hallazgo", se propuso el relevamiento, microfilmación y temprana
+digitalización de una parte de la colección, en un proyecto bilateral financiado por la Agencia Española
+de Cooperación Internacional para el Desarrollo (AECID), a cargo del Dr. Francisco Marcos Marín
+(Universidad Autónoma de Madrid). Estos procesos permitieron la elaboración de un catálogo
+electrónico, aunque parcial, de obras presentes en la colección. En este último proyecto colaboraron
+especialistas de nuestro país. Posteriormente, se realizaron algunas digitalizaciones de algunos de los
+materiales del fondo. El seminario apunta entonces a recuperar críticamente estos procesos de
+descripción, valoración y gestión, así como trazar nuevos recorridos posibles en relación al conocimiento
+de esta colección bibliográfica y su difusión en el siglo XXI.</p>
+<p class="prosa">La metodología de trabajo que se propone en este seminario se basa en el enfoque pedagógico del
+aprendizaje por la práctica, “aprender haciendo” (learning by doing), a partir del cual se desarrollan
+competencias y habilidades vinculadas a las experiencias que permiten poner en práctica los
+conocimientos adquiridos teóricamente en las distintas carreras. Los procesos de enseñanza y aprendizaje
+se desarrollan tanto desde saberes en contextos específicos como basados en la observación, la reflexión
+metacognitiva y la conceptualización, que configuran así un terreno fértil para la puesta en acto de los
+estudios universitarios en un entorno concreto. La perspectiva multidisciplinar de este seminario apunta
+a emular equipos de trabajo e investigación que intervienen en la descripción, valoración y gestión de
+bienes culturales custodiados por una institución pública nacional.</p>
 
-En la historia recibida de las Humanidades Digitales, Italia y los Estados Unidos son hitos obligados al hablar del Index Thomisticus de Busa. No sucede lo mismo con Argentina, aunque el padre de las Humanidades Digitales visitó nuestro país asiduamente entre finales de la década de 1980 y principios de dos mil, y habló de sus [proyectos de hermenéutica informática](https://drive.google.com/file/d/1POyTjtksVGGugQk3zOU_mRUaNhSg_dJQ/view?usp=sharing) u ofició de consejero de [iniciativas locales](https://www.aacademica.org/mela.bosch/2.pdf).
-
-El jesuita era asiduo expositor de las Semanas Tomistas, evento organizado por la prestigiosa [Sociedad Tomista Argentina](http://www.sta.org.ar/cms/index.php/eventos/semana-tomista) en la Universidad Católica de Buenos Aires, como lo señalan algunas [crónicas](https://drive.google.com/file/d/1JoS2rkJy-oQ_PHA6HkChMZUwsUifTga4/view?usp=sharing) y [noticias](https://drive.google.com/file/d/1lEXmSjhDhE_DvfBNBRgMtCUSeaWj5k5N/view?usp=sharing) de la época.
-
-Las cartas que aquí editamos son parte de las conversaciones privadas que Busa mantuvo con el investigador argentino Sergio Castaño, cuando este era aún un joven estudiante. En estos textos se nos desvela un Busa comprensivo y cariñoso, que hace todo lo posible por escribir en español y aconsejar a Castaño en posibles visitas a Gallarate, y en los temas y posibles directores de su tesis. También leemos los problemas que todos quienes hacemos Filología Digital sufrimos: financiar y difundir la investigación (la quinta carta en latin). Los folletos promocionales de las Escuela de Lexicografía y Hermenéutica tomística computarizada, de la segunda edición de las obras completas de Tomás de Aquino en CD-Rom, la Newsletter del CAEL y las tradicionales postales de Navidad completan el perfil de un Padre Busa que de tan humano resulta casi divino.
-
-## Breves recuerdos de mi relación con el Padre Busa
-
-He tenido el honor y el privilegio de haber tratado y de haber entablado una amical relación personal y académica con el insigne Roberto Busa. Esto fue hace más de treinta años, y debo reconocer que en ese momento yo no llegaba a aquilatar enteramente la envergadura y relevancia científica del afectuoso y cordial estudioso que se dignaba a cartearse conmigo y a llamarme por teléfono a mi casa. A mis amigos y a mí nos hacía gracia cuando a veces me decía “Raoul” -en francés.
-Nos conocimos y trabamos contacto en 1992. Recuerdo que a través de él accedí a la edición de la extraordinaria Opera Omnia del Aquinate, en 8 tomos. Se trataba –también materialmente- de una magnífica edición en papel ilustración, que hice encuadernar con el Sr. Garino, un verdadero artesano encuadernador de la ciudad de Palomar. Esa obra me ha acompañado hasta ahora, y la he usado con gran provecho, dada la calidad científica y confiabilidad del texto. Además, por su exhaustividad, contiene una serie de escritos tomistas menos estudiados que, sobre todo en aquel momento, no eran fácilmente asequibles. 
-Di la buena nueva de esa edición completa de la obra de Tomás de Aquino a mis maestros y colegas, varios de los cuales mostraron gran interés en ella. El Padre Busa me envió entonces muchos ejemplares de la Opera Omnia, que adquirieron, entre otros, el Prof. Roberto J. Brie y el Prof. Félix A. Lamas. Recuerdo que fui a la aduana a retirarlos. Yo, con gusto, vendía los ejemplares y luego le enviaba el dinero a Italia. Con gusto, digo: porque era bueno para el Padre Busa que su obra se difundiera; porque era bueno para mis maestros y amigos tenerla; y principalmente porque los frutos resultantes, en términos de conocimiento, serían muy buenos. 
-Unos años más tarde, mi esposa Beatriz Reyes Oribe y yo accedimos al extraordinario “cd rom” con la Opera Omnia del Aquinate, brillante logro de Busa, que también nos fue de invalorable ayuda en nuestras investigaciones.
-Con toda su estatura académica y su inmenso prestigio, era hombre afable, humilde y generoso, el Padre Busa. Hacia fines de ese año 1992 –era becario de iniciación de CONICET y docente de la UBA-, tuve el inmerecido honor de que me invitara a dar conferencias en Italia. También para la misma época surgió en mí la inquietud de hacer el Doctorado en Italia, y le pedí consejo y ayuda. Como siempre, la respuesta suya fue solícita y expedita. Finalmente estos proyectos no se concretaron, pero por motivos ajenos al Padre Busa, y que tuvieron que ver con nuestra situación de recién casados y las preocupaciones y apuros laborales y habitacionales propios de esa etapa de la vida.
-Sé que su motivación para difundir su obra en Argentina se explica en razón del humus científico, cultural e intelectual que distingue a nuestro país en todo el orbe hispánico; y –last but not least- en razón de la lozanía de su esclarecida tradición tomista, que lo señala especialmente en el orden internacional ya desde hace casi un siglo. Hago votos para que este patrimonio espiritual, parte cimera del bien común político, no se vea desbaratado y se agoste por obra de quienes no conducen hacia el bien común.
-Recuerdo con sincero afecto y emoción al Dr. Roberto Busa, S. J. Que el homenaje de mis colegas, encabezados por la Dra. Gimena del Rio, cumpla con rendirle el tributo de reconocimiento que la academia le debe.
-
-Prof. Dr. Dr. Sergio Raúl Castaño
-Investigador Principal del CONICET
-Catedrático de Teoría del Estado (Universidad Nacional del Comahue)
-Director del Centro de Estudios Políticos (Universidad del Norte Santo Tomás de Aquino)
-
-<!-- {% include feature/image.html objectid="folleto.jpg" width="75" %}  -->
 
