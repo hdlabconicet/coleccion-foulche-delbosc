@@ -6,6 +6,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
+            
+            
             <titleStmt>
                 <title type="incipit">Como Deus é comprida Trîidade</title>
                 <author>Alfonso X</author>
@@ -14,12 +16,18 @@
                 <editor resp="contrafactum">Eleonora Wachsmann</editor>
                 <editor resp="TEI">Gabriel Calarco</editor>
             </titleStmt>
+
+
+
             <publicationStmt>
                 <publisher>Reis Trobadors</publisher>
                 <availability>
                     <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
                 </availability>
             </publicationStmt>
+
+
+
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
@@ -37,8 +45,13 @@
                     </msContents>
                 </msDesc>
             </sourceDesc>
+
+
         </fileDesc>
     </teiHeader>
+
+
+    
     <text>
         <body>
             <lg type="cantiga" subtype="maestría" style="mariana" met="8x10" rhyme="abbaccda">
