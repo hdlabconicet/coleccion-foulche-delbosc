@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            
+            
+            <titleStmt>
+                <title xml:id="verso" type="principal">Como Deus é comprida Trîidade</title>
+                <title type="alternativo">Cantiga de Santa María 414</title>
+                <author>Alfonso X</author>
+                <editor>Gimena del Rio</editor>
+                <editor>Germán Rossi</editor>
+                <editor>Eleonora Wachsmann</editor>
+                <editor>Gabriel Calarco</editor>
+                <!-- La idea es que los integrantes del grupo que hicieron la edición se coloquen como editores aquí -->
+            </titleStmt>
+
+
+
+            <publicationStmt>
+                <publisher>Seminario: La colección Foulché-Delbosc, de la Historia del Libro y la Edición a las Humanidades Digitales</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+
+
+
+            <sourceDesc>
+
+                <msDesc>
+                    <msIdentifier>
+                    <institution>BN</institution>
+                    <repository>Colección Foulché Delbosc</repository>
+                        <idno>nro de catálogo BN</idno>
+                        <idno>nro de inventario FD</idno>
+                    <msName>Nombre del manuscrito (si lo tiene)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>33-44</locus>
+                            <idno>nro de catálogo BN</idno>
+                        </msItem>
+                    </msContents>
+                    <history>
+                    <origin>Lugar de origen y fecha de composición, si se cuentan con los datos</origin>
+                    </history>
+                </msDesc>
+
+                <bibl>
+                <title>Título del libro</title>
+                <author>Autor del libro</author>
+                <publisher>Editorial o imprenta</publisher>
+                <date>1648</date>
+                <pubPlace></pubPlace>
+                <edition>4ta</edition>
+                <objectIdentifier>
+                    <institution>BN</institution>
+                    <repository>Colección Foulché Delbosc</repository>
+                    <idno>nro de catálogo BN</idno>
+                    <idno>nro de inventario FD</idno>   
+                </objectIdentifier>
+                </bibl>
+
+            </sourceDesc>
+
+
+        </fileDesc>
+    </teiHeader>
+
+
+    
+    <text>
+        <body>
+            <lg type="cantiga" subtype="maestría" style="mariana" met="8x10" rhyme="abbaccda">
+                
+                <head type="rúbrica">Esta quarta é da Trîidade de Santa Maria.</head> 
+
+                <lg n="1"> 
+                    <l xml:id="L1">Como Deus é comprida Trîid<rhyme label="ade">ade</rhyme></l>
+                    <l xml:id="L2">sen enader nen minguar de ssi n<rhyme label="ada">ada</rhyme>,</l>
+                    <l xml:id="L3">éste, cousa çerta e mui prov<rhyme label="ada">ada</rhyme>,</l>
+                    <l xml:id="L4">tres pessoas e ûa Deid<rhyme label="ade">ade</rhyme>.</l>
+                    <l xml:id="L5">Segund' esto quero mostrar raz<rhyme label="on">on</rhyme></l>
+                    <l xml:id="L6">per que sábian quantos no mundo s<rhyme label="on">on</rhyme></l>
+                    <l xml:id="L7">de como foi virgen Santa Mar<rhyme label="ia">ia</rhyme></l>
+                    <l xml:id="L8">en tres guisas dûa virgîid<rhyme label="ade">ade</rhyme>.</l>
+            </lg>
+            
+                <lg n="2"> 
+                    <l xml:id="L9">Ca ela foi virgen na voont<rhyme label="ade">ade</rhyme></l>
+                    <l xml:id="L10">e ena carn' ante que fosse d<rhyme label="ada">ada</rhyme></l>
+                    <l xml:id="L11">a Joseph, con que foi espos<rhyme label="ada">ada</rhyme>,</l>
+                    <l xml:id="L12">e foi virgen tẽendo castid<rhyme label="ade">ade</rhyme>,</l>
+                    <l xml:id="L13">e ar foi-o en aquela saz<rhyme label="on">on</rhyme></l>
+                    <l xml:id="L14">que foi prenn'e pariu fillo bar<rhyme label="on">on</rhyme>,</l>
+                    <l xml:id="L15">e ficou virgen como xe so<rhyme label="ia">ya</rhyme>;</l>
+                    <l xml:id="L16">e assi foron tres en unid<rhyme label="ade">ade</rhyme>.</l>
+            </lg>
+            
+                <lg n="3"> 
+                    <l xml:id="L17">E porend', amigos, mentes par<rhyme label="ade">ade</rhyme></l>
+                    <l xml:id="L18">e veredes obra muit'ordin[n]<rhyme label="ada">ada</rhyme></l>
+                    <l xml:id="L19">de como Deus buscou carne sagr<rhyme label="ada">ada</rhyme></l>
+                    <l xml:id="L20">en que nos mostrasse humanid<rhyme label="ade">ade</rhyme></l>
+                    <l xml:id="L21">comprida de todo ben, e d'al n<rhyme label="on">on</rhyme>,</l>
+                    <l xml:id="L22">con que podesse poys soffrer pax<rhyme label="on">on</rhyme></l>
+                    <l xml:id="L23">e morrer, e viver a terçer d<rhyme label="ia">ia</rhyme></l>
+                    <l xml:id="L24">e destruir o dem'e sa mald<rhyme label="ade">ade</rhyme>.</l>
+            </lg>
+            
+                <lg n="4"> 
+                    <l xml:id="L25">E macar é Sennor, quis iguald<rhyme label="ade">ade</rhyme></l>
+                    <l xml:id="L26">con sa Madre, a benaventur<rhyme label="ada">ada</rhyme>;</l>
+                    <l xml:id="L27">ca seendo sa filla e cri<rhyme label="ada">ada</rhyme>,</l>
+                    <l xml:id="L28">non catou grandeza nen quantid<rhyme label="ade">ade</rhyme></l>
+                    <l xml:id="L29">de ssi a ela, mais fillou fayç<rhyme label="on">on</rhyme></l>
+                    <l xml:id="L30">d' ome na carne dela, e ent<rhyme label="on">on</rhyme></l>
+                    <l xml:id="L31">foi fillo da que el criad'av<rhyme label="ia">ia</rhyme>,</l>
+                    <l xml:id="L32">e da filla fez madr', est'é verd<rhyme label="ade">ade</rhyme>.</l>
+            </lg>
+            
+                <lg n="5"> 
+                    <l xml:id="L33">E tant'ouv'ela en si omild<rhyme label="ade">ade</rhyme></l>
+                    <l xml:id="L34">que dos çeos, u era sa mor<rhyme label="ada">ada</rhyme>,</l>
+                    <l xml:id="L35">o fez deçer na sa santivig<rhyme label="ada">ada</rhyme></l>
+                    <l xml:id="L36">carne comprida de toda bond<rhyme label="ade">ade</rhyme>,</l>
+                    <l xml:id="L37">en que el pose tan gran bẽeçi<rhyme label="on">on</rhyme></l>
+                    <l xml:id="L38">e deu sa graça e dema[i]s tal d<rhyme label="on">on</rhyme>,</l>
+                    <l xml:id="L39">que quantos o dem'enfermar faz<rhyme label="ia">ia</rhyme></l>
+                    <l xml:id="L40">reçebes[s]en per ela sãid<rhyme label="ade">ade</rhyme>.</l>
+            </lg>
+            
+                <lg n="6"> 
+                    <l xml:id="L41">Por én lle roguemos por piad<rhyme label="ade">ade</rhyme></l>
+                    <l xml:id="L42">que rog'a Deus, de que ficou prenn<rhyme label="ada">ada</rhyme></l>
+                    <l xml:id="L43">quando foi do angeo saud<rhyme label="ada">ada</rhyme>,</l>
+                    <l xml:id="L44">que nos guarde de toda tempest<rhyme label="ade">ade</rhyme></l>
+                    <l xml:id="L45">que nos non nuza, e ar d'ocaj<rhyme label="on">on</rhyme></l>
+                    <l xml:id="L46">e do demo chẽo de traïçi<rhyme label="on">on</rhyme>,</l>
+                    <l xml:id="L47">que nos non enarte con arlot<rhyme label="ia">ia</rhyme></l>
+                    <l xml:id="L48">que nos enarta, e con falsid<rhyme label="ade">ade</rhyme>.</l>
+            </lg>
+                
+         </lg>
+      </body>
+   </text>
+</TEI>
