@@ -56,7 +56,7 @@
                 <author>Autor del libro</author>
                 <publisher>Editorial o imprenta</publisher>
                 <date>1648</date>
-                <pubPlace></pubPlace>
+                <pubPlace>lugar de publicación</pubPlace>
                 <edition>4ta</edition>
                 <objectIdentifier>
                     <institution>BN</institution>
