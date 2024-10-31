@@ -48,7 +48,7 @@
             <xsl:apply-templates/>
     </xsl:template>
 
- <xsl:template match="//lg[@type='estrofa']">
+ <xsl:template match="//lg">
         <div class="estrofa">
             <xsl:apply-templates/>
         </div>
