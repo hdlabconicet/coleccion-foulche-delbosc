@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader><!-- Encabezado con metadatos -->
+        <fileDesc>
+
+            <titleStmt> <!-- Título del documento -->
+                <title xml:id="proverbios" type="incipit">Proverbios y consejos que cualquier Padre debe dar a su hijo</title>
+                <author>Hecho por El linceciado Horozco, vecino de la ciudad de Toledo</author>
+                <editor resp="TEI">Gabriela Santos Lopes Alencar</editor>
+                <editor resp="TEI">Mariana Barbara Scandora Fennema</editor>
+                <editor resp="TEI">Agustina Pedroso de Oliveira</editor>
+                <editor resp="TEI">Ana Ximena Cano </editor>
+                <editor resp="TEI">Natalia Fitzsimons</editor>
+            </titleStmt>
+            
+            
+
+ <publicationStmt>
+<publisher>Seminario: La colección Foulché-Delbosc, de la Historia del Libro y la Edición a las Humanidades Digitales</publisher>
+<availability>
+<licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+</availability>
+</publicationStmt>
+
+ 
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<institution>BN</institution>
+<repository>Colección Foulché Delbosc</repository>
+<idno>00000943</idno>
+<idno>126 FD</idno>
+<msName>Proverbios y consejos que cualquier Padre debe dar a su hijo</msName> <!-- agregar subtítulo? -->
+</msIdentifier>
+
+
+<msContents>
+<msItem>
+<locus></locus> <!-- completar con los folios que vamos a transcribir -->
+<idno>...................</idno>
+</msItem>
+</msContents>
+
+
+<history>
+<origin>..................................</origin> <!-- Info sobre el impreso -->
+</history>
+</msDesc>
+
+
+<bibl>
+<title>Proverbios y consejos que cualquier Padre debe dar a su hijo</title>
+<author>Sebastián de Horozco</author>
+<publisher>Antonia Ramirez</publisher> 
+<date>1607</date>
+<pubPlace/>
+<edition></edition>
+<objectIdentifier>
+<institution>BN</institution>
+<repository>Colección Foulché Delbosc</repository>
+<idno>00000943</idno> <!-- identificador de BN -->
+<idno>126 FD</idno>
+</objectIdentifier>
+</bibl>
+</sourceDesc>
+</fileDesc>
+   </teiHeader> <!-- Finaliza encabezado de metadatos -->
+
+
+
+     <text>  <!-- INICIA TRANSCRIPCIÓN -->
+      <body>  
+
+
+      <head>  
+      <fw>Impreso con licencia, En Salamanca en casa de Antonia Ramirez viuda. Año 1607.</fw> <!-- Preguntar al profe sobre esta parte -->
+      </head>
+
+     <lg type="poema" subtype="maestría" style="mariana" met="8x10" rhyme="abbaccda">
+                
+
+                <lg n="1" type="estrofa">  
+                    <l xml:id="L1">Hijo mio muy am<rhyme label="ado">ado</rhyme></l> <!-- *folio 1* -->
+                    <l xml:id="L2"> escucha a tu  padre vi<rhyme label="ejo">ejo</rhyme></l>
+                    <l xml:id="L3">Y ten contino cuyd<rhyme label="ado">ado</rhyme></l>
+                    <l xml:id="L4">De ejecutar mi mand<rhyme label="ado">ado</rhyme></l>
+                    <l xml:id="L5">Y seguiras buen cons<rhyme label="ejo">ejo</rhyme></l>
+                    <l xml:id="L6">Oye muy atentamente </l>
+                    <l xml:id="L7">Porque siendome obediente</l>
+                    <l xml:id="L8">Y olvido de ti destierra</l>
+                    <l xml:id="L9">Vivieras prosperamente</l>
+                    <l xml:id="L10">sobre la haz de la tierra:</l>         
+            </lg>
+            
+                <lg n="2" type="estrofa"> 
+                    <l xml:id="L11">Obra bien mientras pudieres</l>
+                    <l xml:id="L12">No gastes el tiempo en vano</l>
+                    <l xml:id="L13">porque sino lo hizieres</l>
+                    <l xml:id="L14">quando alguna vez quisieres </l>
+                    <l xml:id="L15">quiza no sera en tu mano</l>
+                    <l xml:id="L16">El triste rico avariento</l>
+                    <l xml:id="L17">y los demas que alla estan</l>
+                    <l xml:id="L18">querrian tener un momento</l>
+                    <l xml:id="L19">para su merescimiento</l>
+                    <l xml:id="L20">pero ya no lo ternan.</l>
+            </lg>
+
+             <lg n="3" type="estrofa"> 
+                    <l xml:id="L21">Adversidad no te espante</l>
+                    <l xml:id="L22">en la fe ten firme y fuerte</l>
+                    <l xml:id="L23">no vivas a tu talante</l>
+                    <l xml:id="L24">ten a Dios siempre delante</l>
+                    <l xml:id="L25">y memoria de la muerte.</l>
+                    <l xml:id="L26">Vive hijo de tal modo</l>
+                    <l xml:id="L27">mientras te dura la mecha</l>
+                    <l xml:id="L28">que reconoscas ser lodo</l>
+                    <l xml:id="L29">Y abre el ojo que de todo</l>
+                    <l xml:id="L30">daras cuenta muy estrecha.</l>
+            </lg>
+            
+                <lg n="4"> 
+                    <l xml:id="L31">Do te tienen affición </l>
+                    <l xml:id="L32">has sino quieres ser necio</l>
+                    <l xml:id="L33">rara la visitacion</l>
+                    <l xml:id="L34"> que mucha conversacion</l>
+                    <l xml:id="L35">es causa de menosprecio. </l>
+                    <l xml:id="L36">Ternas siempre gravedad</l>
+                    <l xml:id="L37">tal que no peques de loco</l>
+                    <l xml:id="L38">no burles con liviandad</l>
+                    <l xml:id="L39">que la familiaridad</l>
+                    <l xml:id="L40">causara tenerte en poco. </l>       
+            </lg>
+            
+                <lg n="5"> 
+                    <l xml:id="L41">Especialmente teniendo</l>
+                    <l xml:id="L42">cargo de gobernacion</l>
+                    <l xml:id="L43">y en aquesta a lo que entiendo</l>
+                    <l xml:id="L44">mucho hijo te encomiendo</l>
+                    <l xml:id="L45">que tengas mucha atencion.</l>
+                    <l xml:id="L46">Porque officios de jueces</l>
+                    <l xml:id="L47"></l>
+                    <l xml:id="L48"></l>
+                    <l xml:id="L49"></l>
+                    <l xml:id="L50"></l>
+                  
+            </lg>
+
+            <lg n="6"> 
+                    <l xml:id="L51"></l>
+                    <l xml:id="L52"></l>
+                    <l xml:id="L53"></l>
+                    <l xml:id="L54"> </l>
+                    <l xml:id="L55"></l>
+                    <l xml:id="L56"></l> <!--*Folio 2* -->
+                    <l xml:id="L57"></l>
+                    <l xml:id="L58"></l>
+                    <l xml:id="L59"></l>
+                    <l xml:id="L60"></l>
+            </lg>
+
+            <lg n="7"> 
+                    <l xml:id="L61"></l>
+                    <l xml:id="L62"></l>
+                    <l xml:id="L63"></l>
+                    <l xml:id="L64"> </l>
+                    <l xml:id="L65"></l>
+                    <l xml:id="L66"></l>
+                    <l xml:id="L67"></l>
+                    <l xml:id="L68"></l>
+                    <l xml:id="L69"></l>
+                    <l xml:id="L70"></l>
+                
+         </lg>
+
+         <lg n="8"> 
+                    <l xml:id="L71"></l>
+                    <l xml:id="L72"></l>
+                    <l xml:id="L73"></l>
+                    <l xml:id="L74"> </l>
+                    <l xml:id="L75"></l>
+                    <l xml:id="L76"></l>
+                    <l xml:id="L77"></l>
+                    <l xml:id="L78"></l>
+                    <l xml:id="L79"></l>
+                    <l xml:id="L80"></l>
+           </lg>
+           </lg>
+
+
+        <lg n="9"> 
+                    <l xml:id="L81"></l>
+                    <l xml:id="L82"></l>
+                    <l xml:id="L83"></l>
+                    <l xml:id="L84"> </l>
+                    <l xml:id="L85"></l>
+                    <l xml:id="L86"></l>
+                    <l xml:id="L87"></l>
+                    <l xml:id="L88"></l>
+                    <l xml:id="L89"></l>
+                    <l xml:id="L90"></l>
+           </lg>
+        
+        <lg n="10"> 
+                    <l xml:id="L91"></l>
+                    <l xml:id="L92"></l>
+                    <l xml:id="L93"></l>
+                    <l xml:id="L94"> </l>
+                    <l xml:id="L95"></l>
+                    <l xml:id="L96"></l>   
+                    <l xml:id="L97"></l>
+                    <l xml:id="L98"></l>
+                    <l xml:id="L99"></l>
+                    <l xml:id="L100"></l>
+           </lg>
+
+           <lg n="11"> 
+                    <l xml:id="L101"></l>
+                    <l xml:id="L102"></l>
+                    <l xml:id="L103"></l>
+                    <l xml:id="L104"> </l>
+                    <l xml:id="L105"></l>
+                    <l xml:id="L106"></l>
+                    <l xml:id="L107"></l>
+                    <l xml:id="L108"></l>
+                    <l xml:id="L109"></l>
+                    <l xml:id="L110"></l>
+           </lg>
+
+           <lg n="12"> 
+                    <l xml:id="L111"></l>
+                    <l xml:id="L112"></l>
+                    <l xml:id="L113"></l>
+                    <l xml:id="L114"> </l>
+                    <l xml:id="L115"></l>
+                    <l xml:id="L116"></l>
+                    <l xml:id="L117"></l>
+                    <l xml:id="L118"></l>
+                    <l xml:id="L119"></l>
+                    <l xml:id="L120"></l>
+           </lg>
+
+           <lg n="13"> 
+                    <l xml:id="L121"></l>
+                    <l xml:id="L122"></l>
+                    <l xml:id="L123"></l><!--*Folio 3* -->
+                    <l xml:id="L124"> </l>
+                    <l xml:id="L125"></l>
+                    <l xml:id="L126"></l>
+                    <l xml:id="L1287"></l>
+                    <l xml:id="L128"></l>
+                    <l xml:id="L129"></l>
+                    <l xml:id="L130"></l>
+           </lg>
+
+           <lg n="14"> 
+                    <l xml:id="L131"></l>
+                    <l xml:id="L132"></l>
+                    <l xml:id="L133"></l>
+                    <l xml:id="L134"> </l>
+                    <l xml:id="L135"></l>
+                    <l xml:id="L136"></l>
+                    <l xml:id="L187"></l>
+                    <l xml:id="L138"></l>
+                    <l xml:id="L139"></l>
+                    <l xml:id="L140"></l>
+           </lg>
+
+           <lg n="15"> 
+                    <l xml:id="L141"></l>
+                    <l xml:id="L142"></l>
+                    <l xml:id="L143"></l>
+                    <l xml:id="L144"> </l>
+                    <l xml:id="L145"></l>
+                    <l xml:id="L8146"></l>
+                    <l xml:id="L147"></l>
+                    <l xml:id="L148"></l>
+                    <l xml:id="L149"></l>
+                    <l xml:id="L150"></l>
+           </lg>
+
+           <lg n="16"> 
+                    <l xml:id="L151"></l>
+                    <l xml:id="L152"></l>
+                    <l xml:id="L153"></l>
+                    <l xml:id="L154"> </l>
+                    <l xml:id="L155"></l>
+                    <l xml:id="L156"></l>
+                    <l xml:id="L157"></l>
+                    <l xml:id="L158"></l>
+                    <l xml:id="L159"></l>
+                    <l xml:id="L160"></l>
+           </lg>
+
+           <lg n="17"> 
+                    <l xml:id="L161"></l>
+                    <l xml:id="L162"></l>
+                    <l xml:id="L163"></l>
+                    <l xml:id="L164"> </l>
+                    <l xml:id="L165"></l>
+                    <l xml:id="L166"></l>
+                    <l xml:id="L167"></l>
+                    <l xml:id="L168"></l>
+                    <l xml:id="L169"></l>
+                    <l xml:id="L170"></l>
+           </lg>
+
+           <lg n="18"> 
+                    <l xml:id="L171"></l>
+                    <l xml:id="L172"></l>
+                    <l xml:id="L173"></l>
+                    <l xml:id="L174"> </l>
+                    <l xml:id="L175"></l>
+                    <l xml:id="L176"></l>
+                    <l xml:id="L177"></l>
+                    <l xml:id="L178"></l>
+                    <l xml:id="L179"></l>
+                    <l xml:id="L180"></l>
+           </lg>
+
+
+           <lg n="19"> 
+                    <l xml:id="L181"></l>
+                    <l xml:id="L182"></l>
+                    <l xml:id="L183"></l>
+                    <l xml:id="L184"> </l>
+                    <l xml:id="L185"></l>
+                    <l xml:id="L186"></l>
+                    <l xml:id="L287"></l>
+                    <l xml:id="L188"></l><!--*Folio 4* -->
+                    <l xml:id="L189"></l>
+                    <l xml:id="L190"></l>
+           </lg>
+
+           
+           <lg n="20"> 
+                    <l xml:id="L191"></l>
+                    <l xml:id="L192"></l>
+                    <l xml:id="L193"></l>
+                    <l xml:id="L194"></l>
+                    <l xml:id="L195"></l>
+                    <l xml:id="L196"></l>
+                    <l xml:id="L197"></l>
+                    <l xml:id="L198"></l>
+                    <l xml:id="L199"></l>
+                    <l xml:id="L200"></l>
+           </lg>
+
+
+           
+           <lg n="21"> 
+                    <l xml:id="L201"></l>
+                    <l xml:id="L202"></l>
+                    <l xml:id="L203"></l>
+                    <l xml:id="L17204"> </l>
+                    <l xml:id="L205"></l>
+                    <l xml:id="L206"></l>
+                    <l xml:id="L207"></l>
+                    <l xml:id="L208"></l>
+                    <l xml:id="L209"></l>
+                    <l xml:id="L210"></l>
+           </lg>
+
+
+           
+           <lg n="18"> 
+                    <l xml:id="L211"></l>
+                    <l xml:id="L212"></l>
+                    <l xml:id="L213"></l>
+                    <l xml:id="L214"> </l>
+                    <l xml:id="L215"></l>
+                    <l xml:id="L216"></l>
+                    <l xml:id="L217"></l>
+                    <l xml:id="L218"></l>
+                    <l xml:id="L219"></l>
+                    <l xml:id="L220"></l>
+           </lg>
+
+
+
+      </body>
+   </text>
+</TEI>

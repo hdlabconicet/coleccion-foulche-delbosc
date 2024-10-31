@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+ <teiHeader> <!-- Encabezado con metadatos -->
+        <fileDesc>
+            
+                   <!-- Título del documento -->
+            <titleStmt> 
+                 <title xml:id="melisso" type="principal">La cueva de Melisso</title>
+                 <title type="alternativo">Apologia postuma contra el Tarquino Español Conde Duque de Olivares <abbr>D<expan>o</expan>n</abbr> Gaspar de Guzman</title>
+                 <author>Don <abbr>Fran<expan>cis</expan>co</abbr> de Quevedo</author>
+                 <editor>Azul Catriman</editor>
+                 <editor>Lautaro de Charras Morey</editor>
+                 <editor>Rocío Méndez</editor>
+                 <editor>Camila Salazar</editor>              
+            </titleStmt>
+
+
+            <publicationStmt>
+<publisher>Seminario: La colección Foulché-Delbosc, de la Historia del Libro y la Edición a las Humanidades Digitales</publisher>
+<availability>
+<licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+</availability>
+</publicationStmt>
+
+
+            <sourceDesc>
+<msDesc>
+<msIdentifier>
+<institution>BN</institution>
+<repository>Colección Foulché Delbosc</repository>
+<idno>00000943</idno>
+<idno>170 FD</idno>
+<msName>La cueva de Melisso</msName> <!-- agregar subtítulo? -->
+</msIdentifier>
+
+<msContents>
+<msItem>
+<locus></locus> <!-- completar con los folios que vamos a transcribir -->
+<idno>00000943</idno>
+</msItem>
+</msContents>
+
+<history>
+<origin>De los Manuscritos de Don Francisco Xavier de Santiago Palomares, 1757</origin> <!-- lugar de origen?? info sobre el manuscrito, el ms. comenta: De los Manuscritos de Don Francisco Xavier de Santiago, Palomares -->
+</history>
+</msDesc>
+<bibl>
+<title>La cueva de Melisso</title>
+<author>Francisco de Quevedo y Villegas</author>
+<publisher></publisher> 
+<date>1757</date>
+<pubPlace/>
+<edition></edition>
+<objectIdentifier>
+<institution>BN</institution>
+<repository>Colección Foulché Delbosc</repository>
+<idno>00000943</idno> <!-- identificador de BN -->
+<idno>170 FD</idno>
+</objectIdentifier>
+</bibl>
+</sourceDesc>
+
+        </fileDesc>
+   </teiHeader>
+
+<text>
+<body>
+<!-- folio 5r-->
+<pb n="5r"/>
+<p>LA CUEVA
+DE
+MELISSO
+Hablan en ella.
+Melisso Mago y <abbr>Dn</abbr><expan>Don</expan> Gaspar de
+Guzman.</p>
+
+
+
+
+
+<sp who="gaspar"><speaker>Gaspar</speaker>
+<lg type="estrofa">
+<l>De la campaña am<rhyme label="ena">ena</rhyme></l>
+<l>de <placeName key="sevilla">Sevilla</placeName>, partí á <placeName key="sierramorena">sierra mor<rhyme label="ena">ena</rhyme></placeName></l>
+<l>a una caza copi<rhyme label="osa">osa</rhyme>,</l>
+<l>y haviendo hecho hecho la suerte mas dich<rhyme label="osa">osa</rhyme>,</l>
+<l>un turbion repent<rhyme label="ino">ino</rhyme></l>
+<l>con truenos agua, y con granizo v<rhyme label="ino">ino</rhyme></l>
+<l>a malograrme el d<rhyme label="ia">ia</rhyme></l>
+<l>del mayor regocijo, y alegr<rhyme label="ia">ia</rhyme></l>
+</lg>
+
+<!-- folio 5v-->
+<pb n="5v"/>
+<lg type="estrofa">
+<l>Cubrió la noche el ci<rhyme label="elo">elo</rhyme>,</l>
+<l>y la parte inferior un negro v<rhyme label="elo">elo</rhyme>,</l>
+<l>y esparcida mi g<rhyme label="ente">ente</rhyme>,</l>
+<l>que se salvó con fuga dilig<rhyme label="ente">ente</rhyme>,</l>
+<l>de rayos infin<rhyme label="itos">itos</rhyme></l>
+<l>unos gimiendo, y otros dando gr<rhyme label="itos">itos</rhyme></l>
+<l>me perdí, y he qued<rhyme label="ado">ado</rhyme></l>
+<l>en esta soledad sin un cri<rhyme label="ado">ado</rhyme>:</l>
+<l>varios peligros t<rhyme label="emo">emo</rhyme>,</l>
+<l>viendome reducido á tal extr<rhyme label="emo">emo</rhyme>;</l>
+<l>pero el cielo me gu<rhyme label="arda">arda</rhyme></l>
+<l>para una grande empresa, y si ah<rhyme label="ora">ora</rhyme></l>
+<l>t<rhyme label="arda">arda</rhyme>,</l>
+<l>en su piedad conf<rhyme label="io">io</rhyme>,</l>
+<l>que es para mayor bien y aum<rhyme label="ento">ento</rhyme></l> 
+<l>m<rhyme label="io">io</rhyme> <note xml:id="melisson1" resp="mano1">(1)</note></l>
+</lg>
+
+<!--folio 6r -->
+<pb n="6r"/>
+<lg type="estrofa">
+<l>si no me engaño, s<rhyme label="eñas">eñas</rhyme></l> 
+<l>de luz veo en aquellas altas p<rhyme label="eñas">eñas</rhyme>,:</l>
+<l>luz de alguna cav<rhyme label="aña">aña</rhyme>,</l>
+<l>de pastores, que alberga esta mon-</l>
+<l>t<rhyme label="aña">aña</rhyme>,</l>
+</lg>
+
+<!--folio 6v -->
+<pb n="6v"/>
+
+<lg>
+<l>alentado la s<rhyme label="igo">igo</rhyme>,</l> 
+<l>que siempre mi fortuna va con</l>
+<l>m<rhyme label="igo">igo</rhyme>:</l>
+<l>y con tan cierta pr<rhyme label="enda">enda</rhyme></l>
+<l>por los riscos trepando abriré s<rhyme label="enda">enda,</rhyme>:</l>
+<l>fragosa es la sub<rhyme label="ida">ida</rhyme>,</l>
+<l>eso mismo a <del rend="overstrike">subirla</del> <add place="left">vencerla</add> me conv<rhyme label="ida">ida</rhyme>:</l>
+<l>ya diviso la l<rhyme label="umbre">umbre</rhyme></l>
+<l>mas clara, y una cueva acia la</l>
+<l>c<rhyme label="umbre">umbre</rhyme>,</l>
+<add><l>la veloz me avec<rhyme label="ino">ino</rhyme></l>
+<l>al punto, que me lleva mi dest<rhyme label="ino">ino</rhyme>,</l></add> <!-- añadido por el copista-->
+<l>tiempo es de hacer la pr<rhyme label="eba">eba</rhyme>:</l>
+<l>quien esta allá, quien vive en esa c<rhyme label="eva">eva</rhyme>?</l>
+</lg>
+</sp>
+
+<!--folio 7r -->
+<pb n="7r"/>
+
+<sp who="meliso"><speaker>Melisso</speaker>
+<lg>
+<l>quien es, que pide am<rhyme label="igo">igo</rhyme>?</l>
+</lg>
+</sp>
+<sp who="gaspar"><speaker>G:</speaker>
+<lg>
+<l>un pasagero soy, que busca abr<rhyme label="igo">igo</rhyme>.</l>
+</lg>
+</sp>
+<sp who="melisso"><speaker>M:</speaker>
+<lg>
+<l>pues venga en hora bu<rhyme label="ena">ena</rhyme></l>
+<l>a descansar de la pasada p<rhyme label="ena">ena</rhyme>,</l>
+<l>que aqui será trat<rhyme label="ado">ado</rhyme></l> 
+<l>ya que no con regalo con agr<rhyme label="ado">ado</rhyme>:</l>
+<l>suba por esas gra<rhyme label="das">das</rhyme>,</l>
+<l>que topará en la peña mal forma<rhyme label="das">das</rhyme>:</l>
+</lg>
+</sp>
+<sp who="gaspar"><speaker>G:</speaker>
+<lg>
+<l>tu que sabes, me ay<rhyme label="uda">uda</rhyme>:</l>
+</lg>
+</sp>
+<sp who="melisso"><speaker>M:</speaker>
+<lg>
+<l>este sin duda es <persName key="gaspar"><abbr>Dn</abbr><expan>Don</expan> Gaspar</persName>, sind<rhyme label="uda">uda</rhyme>,</l>
+<l>que el era me dec<rhyme label="ia">ia</rhyme></l>
+<l>inquieto el corazon cuando le o<rhyme label="ia">ia</rhyme>!</l>
+<l>seas gallardo m<rhyme label="ozo">ozo</rhyme></l>
+<l>mil veces bien venido, aumente el g<rhyme label="ozo">ozo</rhyme></l>
+<l>que tengo con tus br<rhyme label="azos">azos</rhyme>.</l>
+</lg>
+</sp>
+<sp who="gaspar"><speaker>G:</speaker>
+<lg>
+<l>dame padre estrechissimos abr<rhyme label="azos">azos</rhyme>.</l>
+</lg>
+</sp>
+
+
+<!--folio 7v -->
+<pb n="7v"/>
+
+<sp who="melisso"><speaker>M:</speaker>
+<lg><l><persName key="gaspar">Señor <abbr>Dn</abbr><expan>Don</expan> Gaspar</persName>, v<rhyme label="ea">ea</rhyme> <note xml:id="melisson2" resp="mano1">(2)</note></l>
+<l><abbr>V</abbr><expan>uestra</expan> señoria aqui lo que des<rhyme label="ea">ea</rhyme>.</l>
+</lg>
+</sp>
+<sp who="gaspar"><speaker>G:</speaker>
+<lg>
+<l>Quien le ha dicho mi n<rhyme label="ombre">ombre</rhyme>?</l>
+<l>Demonio me parece en forma de h<rhyme label="ombre">ombre</rhyme>!</l>
+<l>Como en saberlo t<rhyme label="ardo">ardo</rhyme>?</l>
+<l>Mas si es éste <persName key="melisso">Melisso</persName>?, y de el agu<rhyme label="ardo">ardo</rhyme></l>
+<l>el mas cumplido aviso en mi priv<rhyme label="anza">anza</rhyme></l>
+<l>para reinar en ella sin mud<rhyme label="anza">anza</rhyme>?</l>
+<l>Padre, mal inform<rhyme label="ado">ado</rhyme></l>
+<l>le veo de mi nombre, y de mi est<rhyme label="ado">ado</rhyme>.</l>
+</lg>
+</sp>
+<sp who="melisso"><speaker>M:</speaker>
+<lg>
+<l>Pues si es <abbr>V</abbr><expan>uestra</expan> Señor<rhyme label="ia">ia</rhyme></l>
+<l><persName key="gaspar"><abbr>D.</abbr><expan>Don</expan> Gaspar de Guzman</persName> <abbr>porq</abbr><expan>ue</expan> porf<rhyme label="ia">ia</rhyme></l>
+<l>negarselo a <persName key="melisso">Mel<rhyme label="iso">isso</rhyme></persName>?</l>
+<l>Baste si averiguar la duda qu<rhyme label="iso">iso</rhyme>.</l>
+</lg>
+</sp>
+
+<!-- folio 8r -->
+<pb n="8r"/>
+
+<sp who="gaspar"><speaker>G:</speaker>
+<lg>
+<l><persName key="melisso">M:</persName> insigne ma<rhyme label="estro">estro</rhyme></l>
+<l>de toda ciencia magica el mas di<rhyme label ="estro">estro</rhyme></l>
+<l>que vieron las he<rhyme label="dades">dades</rhyme></l>
+<l>oraculo mayor de las ver<rhyme label="dades">dades</rhyme>,</l>
+<l>perdon, señor, te p<rhyme label="ido">ido</rhyme>,</l>
+<l>y a tu <del rend="overstrike">obediencia</del><add place="right">alvedrio</add> en todo estoy rend<rhyme label="ido">ido</rhyme></l>
+</lg>
+</sp>
+
+<sp who="melisso"><speaker>M:</speaker> 
+<lg>
+<l>O joven gener<rhyme label="oso">oso</rhyme></l> 
+<l>mucho tiempo há que en mi retiro</l>
+<l>humbr<rhyme label="oso">oso</rhyme></l> 
+<l>aguardo tu ven<rhyme label="ida">ida</rhyme>;</l>
+<l>y pues ya la sazon vemos cumpl<rhyme label="ida">ida</rhyme>, </l>
+<l>descansa en esta gr<rhyme label="uta">uta</rhyme>,</l> 
+<l>y admite alegre la sylvestre fr<rhyme label="uta">uta</rhyme></l> 
+<l>sobre el florido s<rhyme label ="uelo">uelo</rhyme>,</l> 
+<l>Y el licor de este candido arroy<rhyme label="uelo">uelo</rhyme></l>
+</lg>
+</sp>
+
+<!-- folio 8v -->
+<pb n="8v"/>
+
+<lg>
+<l>En tanto que med<rhyme label="ito">ito</rhyme></l>
+<l>lo que en el alma has de guardar</l>
+<l>escr<rhyme label="ito">ito</rhyme>,</l>
+<l>y con que me prome<rhyme label="to">to</rhyme>,</l>
+<l>Que entre heroes has de ser el mas</l>
+<l>perfec<rhyme label="to">to</rhyme>.</l> 
+<l>que el mundo há conoc<rhyme label="ido">ido</rhyme>,</l>
+<l>y ponen los antiguos en olv<rhyme label="ido">ido</rhyme></l>
+<l>manifestando el m<rhyme label="odo">odo</rhyme></l>
+<l>de governardo y mejorarlo t<rhyme label="odo">odo</rhyme>,</l>
+<l>y hacer con nuevas l<rhyme label="eyes">eyes</rhyme></l>
+<l>Reyes Privados y Privados R<rhyme label="eyes">eyes</rhyme></l>
+<l>como quien nacio d<rhyme label="onde">onde</rhyme></l>
+<l><persName key="neron">Neron</persName> vivió y digno hijo del c<rhyme label="onde">onde</rhyme>,</l>
+<l>que por guardar la c<rhyme label="apa">apa</rhyme></l>
+</lg>
+
+
+</body>
+</text>
+</TEI>

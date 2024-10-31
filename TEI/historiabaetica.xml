@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="baetica" type="principal">Historia Baetica</title> <!--verificar-->
+                <title type="alternativo">Historiam Baeticam</title>
+                <author>Carlo Verardi</author>
+                <editor>Julián Guzzo</editor>
+                <editor>Facundo Erramoupe</editor>
+                <editor>Isabella Tignanelli</editor>
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Seminario: La colección Foulché-Delbosc, de la Historia del Libro y la Edición a las Humanidades Digitales</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl> <!--texto impreso--> 
+                <title>Historia Baetica</title>
+                <author>Carlo Verardi</author>
+                <publisher>Eucharium Silber, alias Franck</publisher> 
+                <date>07/03/1493</date>
+                <pubPlace>Roma, Italia</pubPlace>
+                <edition>1ra</edition>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional</institution>
+                    <repository>Colección Foulché Delbosc</repository>
+                    <idno>001115738</idno>
+                    <idno>00008268</idno>   
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+               <lg type="poema" met="20x40" rhyme="aabbcc"> 
+               <lg n="1" type="estrofa">
+                    <l xml:id="L1">Viua el gran <roleName>Re</roleName> Don <persName key="fernando">Fernando</persName></l> <!--indica papel o rol específicos-->
+                    <l xml:id="L2">Con la <roleName>Reyna</roleName> Don' <persName key="isabel">Isabella</persName></l> 
+                    <l xml:id="L3">Viua <placeName key="españa">Spagna</placeName> e la <placeName key="castilla">Castella</placeName></l>
+                    <l xml:id="L4">Pien de gloria triumphando</l>
+                </lg>
+                 
+                <lg n="2" type="estrofa">
+                    <l xml:id="L5">La Cita Mahomectana</l>
+                    <l xml:id="L6">Potentissima <placeName key="granada">Granata</placeName></l>
+                    <l xml:id="L7">Da la falsa fe pagana</l>
+                    <l xml:id="L8">E dissolta e liberata</l>
+                    <l xml:id="L9">Per uirtute et manu armata</l>
+                    <l xml:id="L10">Del <persName key="fernando">Fernado</persName> e <persName key="isabel">L'Isabella</persName>. Viua <placeName key="españa">Spagna</placeName>...</l>
+                </lg>
+                <lg n="3" type="estrofa">      
+                    <l xml:id="L11">Gran auspicio e gran impresa</l>
+                    <l xml:id="L12">Gran consiglio e gran uirtute</l>
+                    <l xml:id="L13">Gran honore a sancta chiesa</l>
+                    <l xml:id="L14">A ignoranti gran salute</l>
+                    <l xml:id="L15">Gran prouincia in seruitute</l>
+                    <l xml:id="L16">Al <persName key="fernando">Fernando</persName> et <persName key="isabel">L'Isabella</persName>. Viua <placeName key="españa">Spagna</placeName>...</l> 
+                </lg>
+                   <lg n="4" type="estrofa">
+                    <l xml:id="L17">Nostra fede ciaschun senti</l>
+                    <l xml:id="L18">Quanto a questie obligata</l>
+                    <l xml:id="L19">Per che Mori non contenti</l>
+                    <l xml:id="L20">D'<placeName key="asia">Asia</placeName> et <placeName key="africa">Africa</placeName> occupata</l>
+                    <l xml:id="L21">In <placeName key="europa">Europa</placeName> debacchata</l>
+                    <l xml:id="L22">Gia faceuan sforzo et uela. Viua <placeName key="españa">Spagna</placeName>...</l>
+                </lg>
+                   <lg n="5">
+                    <l xml:id="L23">Hora ognun fa festa e canti</l>
+                    <l xml:id="L24">El signor regratiando</l>
+                    <l xml:id="L25">Per tal palma tucti quanti</l>
+                    <l xml:id="L26">Dirren ben forte gridando</l>
+                    <l xml:id="L27">Viua el gran <roleName>Re</roleName> don <persName key="fernando">Fernando</persName></l>
+                    <l xml:id="L28">Colla <roleName>Reyna</roleName> don' <persName key="isabel">Isabella</persName>.</l>
+                    <l xml:id="L29">Viua <placeName key="españa">Spagna</placeName> e la <placeName key="castilla">Castella</placeName></l>
+                    <l xml:id="L30">Pien de gloria triumphando</l>
+                </lg>
+            </lg>
+            
+            </body>
+        </text>
+
+</TEI>
