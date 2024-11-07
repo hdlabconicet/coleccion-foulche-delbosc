@@ -69,7 +69,7 @@ metadata: metadatos-foulche-delbosc
 # (this is done automatically by gh-pages build)
 #
 # ignore stuff
-exclude: [Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md, SECURITY.md]
+exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md, SECURITY.md]
 # compress CSS output
 sass:
   style: compressed
