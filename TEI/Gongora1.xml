@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+        <fileDesc>          
+            <titleStmt>
+                <title>Obras poéticas</title>
+                <author>Góngora, Luis de</author>
+                <editor>Aranda, Iara</editor> 
+                <editor>Humano, I Florencia</editor> 
+                <editor>Reynoso, Nicole</editor> 
+                <editor>Rodriguez, Milagros</editor> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Seminario: La colección Foulché-Delbosc, de la Historia del Libro y la Edición a las Humanidades Digitales</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                    <institution>BN</institution>
+                    <repository>Colección Foulché Delbosc</repository>
+                        <idno>00000912</idno>
+                        <idno>262 FD</idno> 
+                    <msName>Nombre del manuscrito (si lo tiene)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>33-44</locus>
+                            <idno>00000912</idno>
+                        </msItem>
+                    </msContents>
+                    <history>
+                    <origin>Lugar de origen y fecha de composición, si se cuentan con los datos</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+   </teiHeader>
+<text>
+  <body>
+      <div type="poem" met="11" rhyme="abbacdeced"> 
+           <head>Sonetto 1</head>
+                 <lg n="1"> 
+                    <l xml:id="L1">No en bronces, que caducan, mortal m<rhyme label="ano">áno</rhyme>,</l> 
+                    <l xml:id="L2">Ò Cathólico sol de los Baç<rhyme label="anes">anes</rhyme>,</l>
+                    <l xml:id="L3">(Que ia éntre gloriôsos Capit<rhyme label="anes">anes</rhyme></l>
+                    <l xml:id="L4">Eres Deidad armada, Marte hum<rhyme label="ano">áno</rhyme>)</l>
+            </lg>
+                 <lg n="2"> 
+                    <l xml:id="L5">Esculpirá tus hechos, sino en v<rhyme label="ano">ano</rhyme></l> 
+                    <l xml:id="L6">Quando describir quiera tus aff<rhyme label="anes">anes</rhyme>,</l>
+                    <l xml:id="L7">I los bien reportados tafet<rhyme label="anes">anes</rhyme></l> 
+                    <l xml:id="L8">De el Turco, de el Inglés, de el Lusit<rhyme label="ano">ano</rhyme>.</l>
+            </lg>
+                 <lg n="3"> 
+                    <l xml:id="L9">El un mar, de tus velas coron<rhyme label="ado">ado</rhyme>,</l> 
+                    <l xml:id="L10">De tus remos, el otro encanec<rhyme label="ido">ido</rhyme></l> 
+                    <l xml:id="L11">Tablas serán de cosas tan estr<rhyme label="añas">añas</rhyme>.</l> 
+            </lg>
+                 <lg n="4"> 
+                    <l xml:id="L12">De la immortalidad, el no cans<rhyme label="ado">ado</rhyme></l>
+                    <l xml:id="L13">Pinzel las lógre: i sean tus haç<rhyme label="añas">añas</rhyme></l>
+                    <l xml:id="L14">Alma de el tiempo, escolta de el olv<rhyme label="ido">ido</rhyme>.</l>
+            </lg>
+        </div>
+  </body>
+</text>
+</TEI>
