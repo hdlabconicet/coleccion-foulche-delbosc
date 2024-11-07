@@ -6,7 +6,7 @@
         <fileDesc>
 
             <titleStmt> <!-- Título del documento -->
-                <title type="incipit">Proverbios y consejos que cualquier Padre debe dar a su hijo</title>
+                <title type="incipit" xml:id="proverbios">Proverbios y consejos que cualquier Padre debe dar a su hijo</title>
                 <author>Hecho por El linceciado Horozco, vecino de la ciudad de Toledo</author>
                 <editor resp="TEI">Gabriela Santos Lopes Alencar</editor>
                 <editor resp="TEI">Mariana Barbara Scandora Fennema</editor>
@@ -26,28 +26,7 @@
 
  
 <sourceDesc>
-<msDesc>
-<msIdentifier>
-<institution>BN</institution>
-<repository>Colección Foulché Delbosc</repository>
-<idno>00000943</idno>
-<idno>126 FD</idno>
-<msName>Proverbios y consejos que cualquier Padre debe dar a su hijo</msName> <!-- agregar subtítulo? -->
-</msIdentifier>
 
-
-<msContents>
-<msItem>
-<locus></locus> <!-- completar con los folios que vamos a transcribir -->
-<idno>...................</idno>
-</msItem>
-</msContents>
-
-
-<history>
-<origin>..................................</origin> <!-- Info sobre el impreso -->
-</history>
-</msDesc>
 <bibl>
 <title>Proverbios y consejos que cualquier Padre debe dar a su hijo</title>
 <author>Sebastián de Horozco</author>
@@ -76,32 +55,34 @@
       <fw>Impreso con licencia, En Salamanca en casa de Antonia Ramirez viuda. Año 1607.</fw> <!-- Preguntar al profe sobre esta parte -->
       </head>
 
-     <lg type="cantiga" subtype="maestría" style="mariana" met="8x10" rhyme="abbaccda">
+
+<pb n="xx"/>
+     <lg type="poema">
                 
 
-                <lg n="1">  
+                <lg n="1" met="10x8" rhyme="abaabccdcd">  
                     <l xml:id="L1">Hijo mio muy am<rhyme label="ado">ado</rhyme></l> <!-- *folio 1* -->
                     <l xml:id="L2"> escucha a tu  padre vi<rhyme label="ejo">ejo</rhyme></l>
                     <l xml:id="L3">Y ten contino cuyd<rhyme label="ado">ado</rhyme></l>
                     <l xml:id="L4">De ejecutar mi mand<rhyme label="ado">ado</rhyme></l>
                     <l xml:id="L5">Y seguiras buen cons<rhyme label="ejo">ejo</rhyme></l>
-                    <l xml:id="L6">Oye muy atentamente </l>
-                    <l xml:id="L7">Porque siendome obediente</l>
-                    <l xml:id="L8">Y olvido de ti destierra</l>
-                    <l xml:id="L9">Vivieras prosperamente</l>
-                    <l xml:id="L10">sobre la haz de la tierra:</l>         
+                    <l xml:id="L6">Oye muy atentam<rhyme label="ente">ente</rhyme></l>
+                    <l xml:id="L7">Porque siendome obedi<rhyme label="ente">ente</rhyme></l>
+                    <l xml:id="L8">Y olvido de ti dest<rhyme label="ierra">ierra</rhyme></l>
+                    <l xml:id="L9">Vivieras prosperam<rhyme label="ente">ente</rhyme></l>
+                    <l xml:id="L10">sobre la haz de la t<rhyme label="ierra">ierra</rhyme></l>         
             </lg>
             
                 <lg n="2"> 
-                    <l xml:id="L11">Obra bien mientras pudieres</l>
-                    <l xml:id="L12">No gastes el tiempo en vano</l>
-                    <l xml:id="L13">porque sino lo hizieres</l>
-                    <l xml:id="L14">quando alguna vez quisieres </l>
-                    <l xml:id="L15">quiza no sera en tu mano</l>
-                    <l xml:id="L16">El triste rico avariento</l>
+                    <l xml:id="L11">Obra bien mientras pudi<rhyme label="eres">eres</rhyme></l>
+                    <l xml:id="L12">No gastes el tiempo en v<rhyme label="ano">ano</rhyme></l>
+                    <l xml:id="L13">porque sino lo hizi<rhyme label="eres">eres</rhyme></l>
+                    <l xml:id="L14">quando alguna vez quisi<rhyme label="eres">eres</rhyme></l>
+                    <l xml:id="L15">quiza no sera en tu m<rhyme label="ano">ano</rhyme></l>
+                    <l xml:id="L16">El triste rico avari<rhyme label="ento">ento</rhyme></l>
                     <l xml:id="L17">y los demas que alla estan</l>
-                    <l xml:id="L18">querrian tener un momento</l>
-                    <l xml:id="L19">para su merescimiento</l>
+                    <l xml:id="L18">querrian tener un mom<rhyme label="ento">ento</rhyme></l>
+                    <l xml:id="L19">para su merescimi<rhyme label="ento">ento</rhyme></l>
                     <l xml:id="L20">pero ya no lo ternan.</l>
             </lg>
 
@@ -138,243 +119,517 @@
                     <l xml:id="L44">mucho hijo te encomiendo</l>
                     <l xml:id="L45">que tengas mucha atencion.</l>
                     <l xml:id="L46">Porque officios de jueces</l>
-                    <l xml:id="L47"></l>
-                    <l xml:id="L48"></l>
-                    <l xml:id="L49"></l>
-                    <l xml:id="L50"></l>
+                    <l xml:id="L47">aunque en si son meritorios</l>
+                    <l xml:id="L48">acontece muchas veces</l>
+                    <l xml:id="L49">de ser malos y soeces</l>
+                    <l xml:id="L50">hacer agravios notorios</l>
                   
             </lg>
 
             <lg n="6"> 
-                    <l xml:id="L51"></l>
-                    <l xml:id="L52"></l>
-                    <l xml:id="L53"></l>
-                    <l xml:id="L54"> </l>
-                    <l xml:id="L55"></l>
-                    <l xml:id="L56"></l> <!--*Folio 2* -->
-                    <l xml:id="L57"></l>
-                    <l xml:id="L58"></l>
-                    <l xml:id="L59"></l>
-                    <l xml:id="L60"></l>
+                    <l xml:id="L51">No sentencies con malicia</l>
+                    <l xml:id="L52">por odio ni por rencor</l>
+                    <l xml:id="L53">por amor ni por cobdicia</l>
+                    <l xml:id="L54">mas dando igual la justicia</l>
+                    <l xml:id="L55">al menor como al mayor.</l>
+                    <l xml:id="L56">Guarda no recibas don</l><!-- folio 2-->
+                    <l xml:id="L57">ni aceptes urrego o promessa</l>
+                    <l xml:id="L58">que son causas de aficion</l>
+                    <l xml:id="L59">vaya recta la intencion</l>
+                    <l xml:id="L60">que todo para en la hueya.</l>
             </lg>
 
             <lg n="7"> 
-                    <l xml:id="L61"></l>
-                    <l xml:id="L62"></l>
-                    <l xml:id="L63"></l>
-                    <l xml:id="L64"> </l>
-                    <l xml:id="L65"></l>
-                    <l xml:id="L66"></l>
-                    <l xml:id="L67"></l>
-                    <l xml:id="L68"></l>
-                    <l xml:id="L69"></l>
-                    <l xml:id="L70"></l>
+                    <l xml:id="L61">No cures de tu mujer</l>
+                    <l xml:id="L62">en el cargo que tuvieres</l>
+                    <l xml:id="L63">porque por la complacer</l>
+                    <l xml:id="L64">suelen a voces torcer</l>
+                    <l xml:id="L65">la justicia las mujeres.</l>
+                    <l xml:id="L66">Porque la mujer es liga</l>
+                    <l xml:id="L67">que coa su importunidad</l>
+                    <l xml:id="L68">en lo que ella quiere obliga</l>
+                    <l xml:id="L69">al marido que la siga</l>
+                    <l xml:id="L70">y haga su voluntad.</l>
                 
          </lg>
 
          <lg n="8"> 
-                    <l xml:id="L71"></l>
-                    <l xml:id="L72"></l>
-                    <l xml:id="L73"></l>
-                    <l xml:id="L74"> </l>
-                    <l xml:id="L75"></l>
-                    <l xml:id="L76"></l>
-                    <l xml:id="L77"></l>
-                    <l xml:id="L78"></l>
-                    <l xml:id="L79"></l>
-                    <l xml:id="L80"></l>
-           </lg>
+                    <l xml:id="L71">Ejemplos claros estan</l>
+                    <l xml:id="L72">por donde aquesto se prueba</l>
+                    <l xml:id="L73">primeramente en Adan</l>
+                    <l xml:id="L74">que nos causo tanto afan</l>
+                    <l xml:id="L75">por hacer placer a Eva.</l>
+                    <l xml:id="L76">Y ahi si por esta razon</l>
+                    <l xml:id="L77">el demonio falto ingrato</l>
+                    <l xml:id="L78">contra nuestra salvacion</l>
+                    <l xml:id="L79">acudio sin dilacion</l>
+                    <l xml:id="L80">a la mujer de Pilato.</l>
            </lg>
 
 
         <lg n="9"> 
-                    <l xml:id="L81"></l>
-                    <l xml:id="L82"></l>
-                    <l xml:id="L83"></l>
-                    <l xml:id="L84"> </l>
-                    <l xml:id="L85"></l>
-                    <l xml:id="L86"></l>
-                    <l xml:id="L87"></l>
-                    <l xml:id="L88"></l>
-                    <l xml:id="L89"></l>
-                    <l xml:id="L90"></l>
+                    <l xml:id="L81">Huye de la compañia</l>
+                    <l xml:id="L82">de hombres mozos viciosos</l>
+                    <l xml:id="L83">oye missa cada dia</l>
+                    <l xml:id="L84">que esta es una romeria</l>
+                    <l xml:id="L85">de milagros virtuosos.</l>
+                    <l xml:id="L86">Infinitas excelencias</l>
+                    <l xml:id="L87">hay en este sacramento</l>
+                    <l xml:id="L88">ganas muchas indulgencias</l>
+                    <l xml:id="L89">y sirves con tus potencias</l>
+                    <l xml:id="L90">a Dios y quedas contento.</l>
            </lg>
         
         <lg n="10"> 
-                    <l xml:id="L91"></l>
-                    <l xml:id="L92"></l>
-                    <l xml:id="L93"></l>
-                    <l xml:id="L94"> </l>
-                    <l xml:id="L95"></l>
-                    <l xml:id="L96"></l>   
-                    <l xml:id="L97"></l>
-                    <l xml:id="L98"></l>
-                    <l xml:id="L99"></l>
-                    <l xml:id="L100"></l>
+                    <l xml:id="L91">Y luego Dios que te mira</l>
+                    <l xml:id="L92">y acepta tus oraciones</l>
+                    <l xml:id="L93">en tu corazon inspira</l>
+                    <l xml:id="L94">y como flecha te tira</l>
+                    <l xml:id="L95">muy grandes consolaciones.</l>
+                    <l xml:id="L96">Aquel dia gustaras</l>
+                    <l xml:id="L97">cosas de gran excellencia</l>
+                    <l xml:id="L98">y de aquello sacaras</l>
+                    <l xml:id="L99">otras cosas mucho mas</l>
+                    <l xml:id="L100">que veras por experiencia.</l>
            </lg>
 
            <lg n="11"> 
-                    <l xml:id="L101"></l>
-                    <l xml:id="L102"></l>
-                    <l xml:id="L103"></l>
-                    <l xml:id="L104"> </l>
-                    <l xml:id="L105"></l>
-                    <l xml:id="L106"></l>
-                    <l xml:id="L107"></l>
-                    <l xml:id="L108"></l>
-                    <l xml:id="L109"></l>
-                    <l xml:id="L110"></l>
+                    <l xml:id="L101">No te pagnes de truhanes</l>
+                    <l xml:id="L102">que necios los hazen ricos</l>
+                    <l xml:id="L103">ni menos mantengas canes</l>
+                    <l xml:id="L104">que mejor es que los panes</l>
+                    <l xml:id="L105">los coman los pobrezicos.</l>
+                    <l xml:id="L106">Procura siempre tener</l>
+                    <l xml:id="L107">de los pobres compasion</l>
+                    <l xml:id="L108">do veras que es menester</l>
+                    <l xml:id="L109">no dejes de socorrer</l>
+                    <l xml:id="L110">pudiendo con tu racion.</l>
            </lg>
 
            <lg n="12"> 
-                    <l xml:id="L111"></l>
-                    <l xml:id="L112"></l>
-                    <l xml:id="L113"></l>
-                    <l xml:id="L114"> </l>
-                    <l xml:id="L115"></l>
-                    <l xml:id="L116"></l>
-                    <l xml:id="L117"></l>
-                    <l xml:id="L118"></l>
-                    <l xml:id="L119"></l>
-                    <l xml:id="L120"></l>
+                    <l xml:id="L111">Y desto te encargo y ruego</l>
+                    <l xml:id="L112">que tengas mucho cuydado</l>
+                    <l xml:id="L113">daras al alma sosiego</l>
+                    <l xml:id="L114">que si el agua mata el fuego</l>
+                    <l xml:id="L115">asi limosna al peccado.</l>
+                    <l xml:id="L116">No athesores muchos dones</l>
+                    <l xml:id="L117">de riquezas en el suelo</l>
+                    <l xml:id="L118">que los hurtan los ladrones</l>
+                    <l xml:id="L119">y los destruyen ratones</l>
+                    <l xml:id="L120">athssora para el Cielo.</l>
            </lg>
 
            <lg n="13"> 
-                    <l xml:id="L121"></l>
-                    <l xml:id="L122"></l>
-                    <l xml:id="L123"></l><!--*Folio 3* -->
-                    <l xml:id="L124"> </l>
-                    <l xml:id="L125"></l>
-                    <l xml:id="L126"></l>
-                    <l xml:id="L1287"></l>
-                    <l xml:id="L128"></l>
-                    <l xml:id="L129"></l>
-                    <l xml:id="L130"></l>
+                    <l xml:id="L121">Bando de lo que tuvieres</l>
+                    <l xml:id="L122">adonde ay necesidad</l>
+                    <l xml:id="L123">no en deleytes ni plazeres</l>
+                    <l xml:id="L124">ni gastando con mugeres</l>
+                    <l xml:id="L125">mas en obra de piedad.</l>
+                    <l xml:id="L126">Casando huerfanas pobres</l>
+                    <l xml:id="L127">socorriendo encarcelados</l>
+                    <l xml:id="L128">y asi yo juro que cobres</l>
+                    <l xml:id="L129">en el cielo, y aun recobres</l>
+                    <l xml:id="L130">los thesoros cien doblas</l>
            </lg>
 
            <lg n="14"> 
-                    <l xml:id="L131"></l>
-                    <l xml:id="L132"></l>
-                    <l xml:id="L133"></l>
-                    <l xml:id="L134"> </l>
-                    <l xml:id="L135"></l>
-                    <l xml:id="L136"></l>
-                    <l xml:id="L187"></l>
-                    <l xml:id="L138"></l>
-                    <l xml:id="L139"></l>
-                    <l xml:id="L140"></l>
+                    <l xml:id="L131">No vayas a los tableros</l>
+                    <l xml:id="L132">donde se juegan los juegos</l>
+                    <l xml:id="L133">Y do van mil chocarreros</l>
+                    <l xml:id="L134">que perdieron sus dineros</l>
+                    <l xml:id="L135">dizen a Dios mil reniegos.</l>
+                    <l xml:id="L136">Que estos tales barateros</l>
+                    <l xml:id="L137">andando en aquellos tratos</l>
+                    <l xml:id="L138">dejan en fin sus dineros</l>
+                    <l xml:id="L139">en poder de tablageros</l>
+                    <l xml:id="L140">en dados naypes, baratos.</l>
            </lg>
 
            <lg n="15"> 
-                    <l xml:id="L141"></l>
-                    <l xml:id="L142"></l>
-                    <l xml:id="L143"></l>
-                    <l xml:id="L144"> </l>
-                    <l xml:id="L145"></l>
-                    <l xml:id="L8146"></l>
-                    <l xml:id="L147"></l>
-                    <l xml:id="L148"></l>
-                    <l xml:id="L149"></l>
-                    <l xml:id="L150"></l>
+                    <l xml:id="L141">Si por desterrar cuydados</l>
+                    <l xml:id="L142">jugares alguna vez</l>
+                    <l xml:id="L143">no sea naypes ni dados</l>
+                    <l xml:id="L144">ni otros juegos vedados</l>
+                    <l xml:id="L145">sino solo al ajedrez.</l>
+                    <l xml:id="L146">No dejes tiempo perdido</l>
+                    <l xml:id="L147">que es perdida mayor</l>
+                    <l xml:id="L148">que despues que el tiempo es ydo</l>
+                    <l xml:id="L149">no puede ser redemido</l>
+                    <l xml:id="L150">de ningun precio y valor.</l>
            </lg>
 
            <lg n="16"> 
-                    <l xml:id="L151"></l>
-                    <l xml:id="L152"></l>
-                    <l xml:id="L153"></l>
-                    <l xml:id="L154"> </l>
-                    <l xml:id="L155"></l>
-                    <l xml:id="L156"></l>
-                    <l xml:id="L157"></l>
-                    <l xml:id="L158"></l>
-                    <l xml:id="L159"></l>
-                    <l xml:id="L160"></l>
+                    <l xml:id="L151">Cuando fueres combidado</l>
+                    <l xml:id="L152">habla poco sobre mesa</l>
+                    <l xml:id="L153">de otra arte seras notado</l>
+                    <l xml:id="L154">que el hablar demasiado</l>
+                    <l xml:id="L155">en tal caso a vezes pesa.</l>
+                    <l xml:id="L156">Porque de mucho hablar</l>
+                    <l xml:id="L157">es cierto como en la mano</l>
+                    <l xml:id="L158">que viene el mucho errar</l>
+                    <l xml:id="L159">y asi vienen a notar</l>
+                    <l xml:id="L160">al que habla de liviano.</l>
            </lg>
 
            <lg n="17"> 
-                    <l xml:id="L161"></l>
-                    <l xml:id="L162"></l>
-                    <l xml:id="L163"></l>
-                    <l xml:id="L164"> </l>
-                    <l xml:id="L165"></l>
-                    <l xml:id="L166"></l>
-                    <l xml:id="L167"></l>
-                    <l xml:id="L168"></l>
-                    <l xml:id="L169"></l>
-                    <l xml:id="L170"></l>
+                    <l xml:id="L161">Sey templado en el comer</l>
+                    <l xml:id="L162">cuando la hambre lo pida</l>
+                    <l xml:id="L163">moderado en el beber</l>
+                    <l xml:id="L164">solo lo que es menester</l>
+                    <l xml:id="L165">para sustentar la vida.</l>
+                    <l xml:id="L166">Que en el beber demasiado</l>
+                    <l xml:id="L167">engendra en el hombre furia</l>
+                    <l xml:id="L168">y es occasione de peccado</l>
+                    <l xml:id="L169">que desque la gula a entrado</l>
+                    <l xml:id="L170">tras ella va la lujuria.</l>
            </lg>
 
            <lg n="18"> 
-                    <l xml:id="L171"></l>
-                    <l xml:id="L172"></l>
-                    <l xml:id="L173"></l>
-                    <l xml:id="L174"> </l>
-                    <l xml:id="L175"></l>
-                    <l xml:id="L176"></l>
-                    <l xml:id="L177"></l>
-                    <l xml:id="L178"></l>
-                    <l xml:id="L179"></l>
-                    <l xml:id="L180"></l>
+                    <l xml:id="L171">Loth si tanto no bebiera</l>
+                    <l xml:id="L172">y se templara en aquello</l>
+                    <l xml:id="L173">a ser ebrio no viniera</l>
+                    <l xml:id="L174">ni tampoco cometiera</l>
+                    <l xml:id="L175">con sus hijas tal incesto.</l>
+                    <l xml:id="L176">Y allende de ser dañoso</l>
+                    <l xml:id="L177">para el alma y la consciencia</l>
+                    <l xml:id="L178">para el cuerpo es peligroso</l>
+                    <l xml:id="L179">que el hombre gloton goloso</l>
+                    <l xml:id="L180">nunca le falta dolencia.</l>
            </lg>
 
 
            <lg n="19"> 
-                    <l xml:id="L181"></l>
-                    <l xml:id="L182"></l>
-                    <l xml:id="L183"></l>
-                    <l xml:id="L184"> </l>
-                    <l xml:id="L185"></l>
-                    <l xml:id="L186"></l>
-                    <l xml:id="L187"></l>
-                    <l xml:id="L188"></l><!--*Folio 4* -->
-                    <l xml:id="L189"></l>
-                    <l xml:id="L190"></l>
+                    <l xml:id="L181">Sey honesto en el vestido</l>
+                    <l xml:id="L182">no superfluo ni costoso</l>
+                    <l xml:id="L183">no roto ni descosido</l>
+                    <l xml:id="L184">fino muy bueno y polido</l>
+                    <l xml:id="L185">pero no mucho curioso.</l>
+                    <l xml:id="L186">Mira hijo que enel trage</l>
+                    <l xml:id="L187">se conoscen los modestos</l>
+                    <l xml:id="L188">pues que ves que sin ultrage</l>
+                    <l xml:id="L189">los nobles y de linage</l>
+                    <l xml:id="L190">estos andan mas honestos.</l>
            </lg>
 
            
            <lg n="20"> 
-                    <l xml:id="L191"></l>
-                    <l xml:id="L192"></l>
-                    <l xml:id="L193"></l>
-                    <l xml:id="L194"></l>
-                    <l xml:id="L195"></l>
-                    <l xml:id="L196"></l>
-                    <l xml:id="L197"></l>
-                    <l xml:id="L198"></l>
-                    <l xml:id="L199"></l>
-                    <l xml:id="L200"></l>
+                    <l xml:id="L191">Y si en esto me creyeres</l>
+                    <l xml:id="L192">hijo mira y ten cuydado</l>
+                    <l xml:id="L193">de vestir como comieres</l>
+                    <l xml:id="L194">y comer como vistieres</l>
+                    <l xml:id="L195">y todo segun tu estado.</l>
+                    <l xml:id="L196">Bien es que nos contentemos</l>
+                    <l xml:id="L197">en estos actos forzosos,</l>
+                    <l xml:id="L198">y que los medios tomemos</l>
+                    <l xml:id="L199">pues subes que los estremos</l>
+                    <l xml:id="L200">suelen ser siempre viciosos.</l>
+                    
            </lg>
-
-
            
            <lg n="21"> 
-                    <l xml:id="L201"></l>
-                    <l xml:id="L202"></l>
-                    <l xml:id="L203"></l>
-                    <l xml:id="L17204"> </l>
-                    <l xml:id="L205"></l>
-                    <l xml:id="L206"></l>
-                    <l xml:id="L207"></l>
-                    <l xml:id="L208"></l>
-                    <l xml:id="L209"></l>
-                    <l xml:id="L210"></l>
+                <l xml:id="L201">Hijo quando te casares</l>
+                <l xml:id="L202">no procures otra cosa</l>
+                <l xml:id="L203">sino que la que buscares</l>
+                <l xml:id="L204">y que por muger tomares</l>
+                <l xml:id="L205">fea buena y virtuosa.</l>
+                <l xml:id="L206">No cures de hermosura</l>
+                <l xml:id="L207">de riquezas ni thesoros</l>
+                <l xml:id="L208">que es cosa que poco dura</l>
+                <l xml:id="L209">y a las vezes la ventura</l>
+                <l xml:id="L210">los convierte en puros lloros.</l>
            </lg>
 
-
-           
            <lg n="18"> 
-                    <l xml:id="L211"></l>
-                    <l xml:id="L212"></l>
-                    <l xml:id="L213"></l>
-                    <l xml:id="L214"> </l>
-                    <l xml:id="L215"></l>
-                    <l xml:id="L216"></l>
-                    <l xml:id="L217"></l>
-                    <l xml:id="L218"></l>
-                    <l xml:id="L219"></l>
-                    <l xml:id="L220"></l>
+                    <l xml:id="L211">Debes primero elegir</l>
+                    <l xml:id="L212">por muger persona tal</l>
+                    <l xml:id="L213">y despues desto adquirir</l>
+                    <l xml:id="L214">los bienes para vivir</l>
+                    <l xml:id="L215">en esta vida mortal.</l>
+                    <l xml:id="L216">Porque mas vale bondad</l>
+                    <l xml:id="L217">que causa contentamiento</l>
+                    <l xml:id="L218">holgura y felicidad</l>
+                    <l xml:id="L219">que hermosura y beldad</l>
+                    <l xml:id="L220">y que thesoros sin cuento.</l>
            </lg>
 
+              <lg n="19"> 
+                <l xml:id="L221">Que los bienes temporales</l>
+                <l xml:id="L222">ellos se van y se vienen</l>
+                <l xml:id="L223">mas estotros immortales</l>
+                <l xml:id="L224">para por bienes dotales</l>
+                <l xml:id="L225">muy pocos hijos lo tienen.</l>
+                <l xml:id="L226">Ten los hijos que tuvieres</l>
+                <l xml:id="L227">desde niños castigados</l>
+                <l xml:id="L228">porque sino lo hizieres</l>
+                <l xml:id="L229">no podras quando quisieres</l>
+                <l xml:id="L230">si son grandes y criados.</l>
+         </lg>
+
+            <lg n="20"> 
+                <l xml:id="L231">Desde niños los doctrina</l>
+                <l xml:id="L232">y en virtudes los enseña</l>
+                <l xml:id="L233">pues vemos que muy ayna</l>
+                <l xml:id="L234">y facilmente se inclina</l>
+                <l xml:id="L235">la planta siendo pequeña.</l>
+                <l xml:id="L236">Pero despues de criada</l>
+                <l xml:id="L237">que tiene corteza dura</l>
+                <l xml:id="L238">antes la veras quebrada</l>
+                <l xml:id="L239">que consienta ser doblada</l>
+                <l xml:id="L240">con su gran cuerpo y gordura.</l>
+
+            </lg>
+
+            <lg n="21"> 
+                <l xml:id="L241">No seas ensanchador</l>
+                <l xml:id="L242">de nuevas ni de menss<rhyme label="ages">ages</rhyme></l>
+                <l xml:id="L243">ni menos imitador</l>
+                <l xml:id="L244">y muy menos inventor</l>
+                <l xml:id="L245">de nuevos vsos y tr<rhyme label="ages">ages</rhyme>.</l>
+                <l xml:id="L246">Que segun la presumpcion</l>
+                <l xml:id="L247">y las locuras florescen</l>
+                <l xml:id="L248">qualquiera nueva invencion</l>
+                <l xml:id="L249">de contino es occasion</l>
+                <l xml:id="L250">donde los otros tropiecen.</l>
+
+            </lg>
+
+            <lg n="22"> 
+                <l xml:id="L251">A la cobdicia por freno</l>
+                <l xml:id="L252">contentate con lo tuyo</l>
+                <l xml:id="L253">no cures henchir el seno</l>
+                <l xml:id="L254">de mal ganado ni ageno</l>
+                <l xml:id="L255">dale a cada uno lo suyo.</l>
+                <l xml:id="L256">El sudor del official</l>
+                <l xml:id="L257">en tu casa no trasnoche</l>
+                <l xml:id="L258">justa cosa es que el jornal</l>
+                <l xml:id="L259">al pobre y al menestral</l>
+                <l xml:id="L260">se le pague sin reproche.</l>
+
+            </lg>
+
+            <lg n="23"> 
+                <l xml:id="L261">Pues que las prosperidades</l>
+                <l xml:id="L262">se dan hijo con plazencia</l>
+                <l xml:id="L263">a grandes adversidades</l>
+                <l xml:id="L264">trabajos y enfermedades</l>
+                <l xml:id="L265">procura tener paciencia.</l>
+                <l xml:id="L266">La tu lengua sin desden</l>
+                <l xml:id="L267">de contino a Dios alae</l>
+                <l xml:id="L268">ten fuerte sin dar baiben</l>
+                <l xml:id="L269">porque a quien Dios quiere bi</l>
+                <l xml:id="L270">dizque la casa le sabe.</l>
+
+            </lg>
+
+            <lg n="24"> 
+                <l xml:id="L271">Y si Dios no te relleva</l>
+                <l xml:id="L272">antes aca te amenaza</l>
+                <l xml:id="L273">tengo tu por buena nueva</l>
+                <l xml:id="L274">que Dios a los suyos prueba</l>
+                <l xml:id="L275">como el oro a la fornaza.</l>
+                <l xml:id="L276">Que a loserph por ser paciente</l>
+                <l xml:id="L277">aquel hijo de Jacob</l>
+                <l xml:id="L278">lo hizo Dios tan potente</l>
+                <l xml:id="L279">y sobre todo ten miente</l>
+                <l xml:id="L280">del pacientissimo Iob.</l>
+
+            </lg>
+
+            <lg n="25"> 
+                <l xml:id="L281">Si te lleva Dios los bienes</l>
+                <l xml:id="L282">los hijos y la muger</l>
+                <l xml:id="L283">no te fatigues ni penas</l>
+                <l xml:id="L284">pues de prestado lo tienes</l>
+                <l xml:id="L285">en lo tornar y volver.</l>
+                <l xml:id="L286">Que los mundanos averes</l>
+                <l xml:id="L287">que a todos traen en calma</l>
+                <l xml:id="L288">perpetuos no los esperes</l>
+                <l xml:id="L289">y si acaso los perdieres</l>
+                <l xml:id="L290">no pierdas tambien el alma.</l>
+            </lg>
+
+            <lg n="26"> 
+                <l xml:id="L291">Del fruto de Dios te diere</l>
+                <l xml:id="L292">ten hijo mucho cuydado</l>
+                <l xml:id="L293">que al tiempo que se fuere</l>
+                <l xml:id="L294">ayas el diezmo pagado.</l>
+                <l xml:id="L295">No la medida rayda</l>
+                <l xml:id="L296">sino muy llena y colmada</l>
+                <l xml:id="L297">y pues Dios te da la vida</l>
+                <l xml:id="L298">y los bienes sin medida</l>
+                <l xml:id="L299">no se la de tu menguada.</l>
+
+            </lg>
+
+              <lg n="27">
+                <l xml:id="L300">Deves mucho encomendar</l>
+                <l xml:id="L301">todo aquello a la memoria</l>
+                <l xml:id="L302">procurando de lo obrar</l>
+                <l xml:id="L303">y este mundo sembrar</l>
+                <l xml:id="L304">para coger en la gloria.</l>
+                <l xml:id="L305">Y esto sea quando suere</l>
+                <l xml:id="L306">tener aviso te cale</l>
+                <l xml:id="L307">para quando Dios quisiere</l>
+                <l xml:id="L308">que tu anima partiere</l>
+                <l xml:id="L309">deste lachrymarum valle.</l>
+                <l xml:id="L310">Laudetur Christus.</l>
+
+            </lg>
+
+            <lg n="28"> 
+                <l xml:id="L311">Recuerde de conciencia.</l>
+            </lg>
+
+            <lg n="29"> 
+                <l xml:id="L312">Que esto yo en que me fundo</l>
+                <l xml:id="L313">en dormir: o esstar despierto</l>
+                <l xml:id="L314">si el dormir es desconcierto</l>
+                <l xml:id="L315">en no dormir como el mundo</l>
+                <l xml:id="L316">me da golpe en descubierto.</l>
+                <l xml:id="L317">Ay que mi me soy cruel</l>
+                <l xml:id="L318">en ver que nunca senti</l>
+                <l xml:id="L319">en el mundo lo que vi</l>
+                <l xml:id="L320">pues por andar dentro del</l>
+                <l xml:id="L321">quiero andar fuera de mi.</l>
+
+            </lg>
+
+            <lg n="30"> 
+                <l xml:id="L322">Quien soy yo: soy peccador</l>
+                <l xml:id="L323">pues mi provecho no sigo</l>
+                <l xml:id="L324">y de suerte me persigo</l>
+                <l xml:id="L325">que obedezco por señor</l>
+                <l xml:id="L326">a mi mayor enemigo.</l>
+                <l xml:id="L327">Por mi mal es todo el bien</l>
+                <l xml:id="L328">que el mundo haze sentir</l>
+                <l xml:id="L329">pues viendo a Christo dezir</l>
+                <l xml:id="L330">peccador acaba ven</l>
+                <l xml:id="L331">respondio. No quiere yr.</l>
+
+            </lg>
+
+            <lg n="31"> 
+                <l xml:id="L332">Da Dios aunque ve desiertos</l>
+                <l xml:id="L333">mis dias y mal gasstados</l>
+                <l xml:id="L334">al perdon de mis peccados</l>
+                <l xml:id="L335">un si con brazos abiertos</l>
+                <l xml:id="L336">yo un no a dientes cerrados.</l>
+                <l xml:id="L337">O maldad clara notoria</l>
+                <l xml:id="L338">o notoria falsedad</l>
+                <l xml:id="L339">que al tiempo que tu bondad</l>
+                <l xml:id="L340">me muestra y abre la gloria</l>
+                <l xml:id="L341">cierro yo la voluntad.</l>
+
+            </lg>
+
+            <lg n="32"> 
+                <l xml:id="L342">A que hermano, o a que padre</l>
+                <l xml:id="L343">me quejo: yo no soy yo</l>
+                <l xml:id="L344">si ante mi y otro no</l>
+                <l xml:id="L345">me quejo de aquella madre</l>
+                <l xml:id="L346">que de chico no me ahogo.</l>
+                <l xml:id="L347">Y no fuera de tal arte</l>
+                <l xml:id="L348">qual siempre me conosci</l>
+                <l xml:id="L349">pues siempre en mi mano vi</l>
+                <l xml:id="L350">el poder aunque soy parte</l>
+                <l xml:id="L351">para mi juzgar a mi.</l>
+
+            </lg>
+
+            <lg n="33"> 
+            <l xml:id="L352">Cuerpo si al audiencia fueres</l>
+            <l xml:id="L353">y un te va a demandar</l>
+            <l xml:id="L354">no te puedes esusar</l>
+            <l xml:id="L355">si la deuda conocscieres</l>
+            <l xml:id="L356">de luego se la pagar.</l>
+            <l xml:id="L357">Luego, porque no te mueves</l>
+            <l xml:id="L358">al señor que siempre fue</l>
+            <l xml:id="L359">y te dizes hombre sin fe</l>
+            <l xml:id="L360">tronosce que tu me deves</l>
+            <l xml:id="L361">yo mismo te pagare.</l>
+            <l xml:id="L362">Y pues yo todo esto veo</l>
+            <l xml:id="L363">y lo entiendo, y aun lo se</l>
+            <l xml:id="L364">porque no me apartare</l>
+            <l xml:id="L365">porque: porque a mi deseo</l>
+            <l xml:id="L366">le respondo. Yo lo hare.</l>
+            <l xml:id="L367">Pues di quando carnemia</l>
+            <l xml:id="L368">iras por carrera llana</l>
+            <l xml:id="L369">ya que muestra tanta gana</l>
+            <l xml:id="L370">calla y de cada dia</l>
+            <l xml:id="L371">lo deja por la mañana.</l>
+
+         </lg>
+
+          <lg n="34"> 
+            <l xml:id="L372">Mira carne que oy no sabes</l>
+            <l xml:id="L373">si mañana llegaras</l>
+            <l xml:id="L374">sal del peccado en que estas</l>
+            <l xml:id="L375">que Christo te da las llaves</l>
+            <l xml:id="L376">con que su pecho abriras.</l>
+            <l xml:id="L377">Conosce el diurno pago</l>
+            <l xml:id="L378">de Iesu de Nazare</l>
+            <l xml:id="L379">y pues eres de su fe</l>
+            <l xml:id="L380">si puedes dezir, yo hago</l>
+            <l xml:id="L381">nunca digas yo hare.</l>
+
+        </lg>
+
+         <lg n="35"> 
+            <l xml:id="L382">Peccador pues ves muriendo</l>
+            <l xml:id="L383">a Christo en Cruz con lanza</l>
+            <l xml:id="L384">y su sangre derramada</l>
+            <l xml:id="L385">con la cabeza inclinada:</l>
+            <l xml:id="L386">que pienso que esta diziendo.</l>
+            <l xml:id="L387">Su cabeza como suya</l>
+            <l xml:id="L388">abaja al sacro cordero</l>
+            <l xml:id="L389">diziendo. Ven que te espero</l>
+            <l xml:id="L390">y tu meneas la tuya</l>
+            <l xml:id="L391">como quien dize. No quiero.</l>
+
+        </lg>
+
+        <lg n="36"> 
+            <l xml:id="L392">Pues que quieres peccador</l>
+            <l xml:id="L393">sabes que querria yo</l>
+            <l xml:id="L394">subir do Christo subio</l>
+            <l xml:id="L395">sin angustia ni dolor</l>
+            <l xml:id="L396">basta lo que padescio.</l>
+            <l xml:id="L397">Pues si el para subir</l>
+            <l xml:id="L398">a su propio reyno peno</l>
+            <l xml:id="L399">las sufrio assi como bueno</l>
+            <l xml:id="L400">como tu sin las suffrir</l>
+            <l xml:id="L401">quies subir a Reino ageno.</l>
+
+        </lg>
+
+        <lg n="37"> 
+            <l xml:id="L402">Que quieres tu mas de Dios</l>
+            <l xml:id="L403">que dezir Mira Chrisstiano</l>
+            <l xml:id="L404">ves aqui un camino llano,</l>
+            <l xml:id="L405">y despues llegar se a nos</l>
+            <l xml:id="L406">y huyrnos de la mano.</l>
+            <l xml:id="L407">Mas tu peccador victoria</l>
+            <l xml:id="L408">pretendes sin trabajar</l>
+            <l xml:id="L409">pues quieres siempre peccar</l>
+            <l xml:id="L410">despues yrte a la gloria</l>
+            <l xml:id="L411">como quien se va acostar.</l>
+
+        </lg>
+
+        <lg n="38"> 
+            <l xml:id="L412">Haz tu como un perro hara</l>
+            <l xml:id="L413">quando cazando se halla</l>
+            <l xml:id="L414">que calla si el amo calla</l>
+            <l xml:id="L415">mas si dize, hela va</l>
+            <l xml:id="L416">no para hasta tomalla.</l>
+            <l xml:id="L417">Pues tu do razon floresce</l>
+            <l xml:id="L418">si tienes ya presupuesto</l>
+            <l xml:id="L419">de ganar la gloria haz esto</l>
+            <l xml:id="L420">en diziendo Christo. <note xml:id="proverbiosn1">Ecce</note></l>
+            <l xml:id="L421">cierra con ella de presto.</l>
+
+        </lg>
+  </lg>
 
 
       </body>

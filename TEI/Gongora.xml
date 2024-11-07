@@ -4,7 +4,7 @@
  <teiHeader>
         <fileDesc>          
             <titleStmt>
-                <title>Obras poéticas</title>
+                <title xml:id="gongora">Obras poéticas</title>
                 <author>Góngora, Luis de</author>
                 <editor>Aranda, Iara</editor> 
                 <editor>Humano, I Florencia</editor> 
@@ -23,27 +23,30 @@
                     <institution>BN</institution>
                     <repository>Colección Foulché Delbosc</repository>
                         <idno>00000912</idno>
-                        <idno>262 FD</idno> 
-                    <msName>Nombre del manuscrito (si lo tiene)</msName>
+                        <idno>	262 FD</idno> 
+                    <msName>Cuaderno de varias poesías</msName> <!-- Nombre del manuscrito -->
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>33-44</locus>
+                            <locus>1-2</locus> <!-- folio que se eligió? -->
                             <idno>00000912</idno>
                         </msItem>
                     </msContents>
                     <history>
-                    <origin>Lugar de origen y fecha de composición, si se cuentan con los datos</origin>
+                    <origin>Lugar de origen y fecha de composición, si se cuentan con los datos</origin> <!-- Manuscrito del siglo XVII. Muy bien escrito y precedido de un índice detallado de las obras que contiene. Encuadernación de René Kieffer. -->
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
    </teiHeader>
-<text>
-  <body>
-      <div type="poem" met="11" rhyme="abbacdeced"> 
+     <text>  
+ <body>
+ <pb n="1"/>
+ <head>Sonetos Heroicos</head>
+ <div type="poem" met="11" rhyme="abbacdeced"> 
            <head>Sonetto 1</head>
-                 <lg n="1"> 
+           <p>A Don Alvaro Baçan, <note xml:id="gongora4">primer Marques de Santa Cruz</note></p>
+                 <lg n="1" met="11" rhyme="abbacdeced"> 
                     <l xml:id="L1">No en bronces, que caducan, mortal m<rhyme label="ano">áno</rhyme>,</l> 
                     <l xml:id="L2">Ò Cathólico sol de los Baç<rhyme label="anes">anes</rhyme>,</l>
                     <l xml:id="L3">(Que ia éntre gloriôsos Capit<rhyme label="anes">anes</rhyme></l>
@@ -63,9 +66,36 @@
                  <lg n="4"> 
                     <l xml:id="L12">De la immortalidad, el no cans<rhyme label="ado">ado</rhyme></l>
                     <l xml:id="L13">Pinzel las lógre: i sean tus haç<rhyme label="añas">añas</rhyme></l>
-                    <l xml:id="L14">Alma de el tiempo, escolta de el olv<rhyme label="ido">ido</rhyme>.</l>
+                    <l xml:id="L14">Alma de el tiempo, <note xml:id="gongora3">escolta</note> de el olv<rhyme label="ido">ido</rhyme>.</l>
             </lg>
         </div>
-  </body>
-</text>
+<pb n="2"/>
+      <div type="poem" met="11" rhyme="abbacde"> 
+           <head>Sonetto 2</head>
+           <p>A Don Christoval de Mora, <note xml:id="gongora2">Marques de Castel Rodrigo</note></p>
+                 <lg n="1"> 
+                    <l xml:id="L15">Arbol, de cuios ramos fortun<rhyme label="ados">ados</rhyme></l> 
+                    <l xml:id="L16">Las nobles Moras son Quinas Re<rhyme label="ales">àles</rhyme>,</l> 
+                    <l xml:id="L17">Teñidas <note xml:id="gongora1">con</note> la sángre de le<rhyme label="ales">àles</rhyme></l>
+                    <l xml:id="L18">Capitanes, no amantes desdich<rhyme label="ados">ados</rhyme>:</l>
+            </lg>
+                 <lg n="2"> 
+                    <l xml:id="L19">En los campos de el Tajo mas dor<rhyme label="ados">ados</rhyme>,</l>
+                    <l xml:id="L20">I que mas privilegian sus cryst<rhyme label="ales">ales</rhyme>,</l>
+                    <l xml:id="L21">A par de las sublímes palmas s<rhyme label="ales">ales</rhyme>,</l>
+                    <l xml:id="L22">I más que los laureles levant<rhyme label="ados">ados</rhyme>.</l>
+            </lg>
+                 <lg n="3"> 
+                    <l xml:id="L23">Gusano, de tus hojas me alimen<rhyme label="tes">tes</rhyme>;</l>
+                    <l xml:id="L24">Paxarillo, sustengan me tus r<rhyme label="amas">amas</rhyme>;</l>
+                    <l xml:id="L25">I ampáre me tu sombra, peregr<rhyme label="ino">íno</rhyme>.</l>
+            </lg>
+                 <lg n="4"> 
+                    <l xml:id="L26">Hilaré tu memoria éntre las gen<rhyme label="tes">tes</rhyme>.</l>
+                    <l xml:id="L27">Cantaré enmudeciendo agenas f<rhyme label="amas">amas</rhyme>,</l>
+                    <l xml:id="L28">I votaré a tu témplo mi cam<rhyme label="ino">íno</rhyme>.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
 </TEI>

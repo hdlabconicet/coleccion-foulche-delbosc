@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="baetica" type="principal">Historia Baetica</title> 
+                <title type="alternativo">Viva el gran Re Don Fernando</title>                
+                <author>Anónimo</author>
+                <editor>Julián Guzzo</editor>
+                <editor>Facundo Erramoupe</editor>  
+                <editor>Isabella Tignanelli</editor>
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Seminario: La colección Foulché-Delbosc, de la Historia del Libro y la Edición a las Humanidades Digitales</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title>Historia Baetica</title>
+                <author>Carlo Verardi</author>
+                <publisher>Eucharium Silber, alias Franck</publisher> 
+                <date>07/03/1493</date>
+                <pubPlace>Roma, Italia</pubPlace>
+                <edition>1ra</edition>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional</institution>
+                    <repository>Colección Foulché Delbosc</repository>
+                    <idno>001115738</idno>
+                    <idno>00008268</idno>   
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+                <lg n="1" met="4x8" rhyme="abba" >
+                    <l xml:id="L1">Viua el gran <roleName>Re</roleName> Don <persName key="fernando">Fern<rhyme label="ando">ando</rhyme></persName></l>
+                    <l xml:id="L2">Con la <roleName>Reyna</roleName> Don' <persName key="isabel">Isab<rhyme label="ella">ella</rhyme></persName></l> 
+                    <l xml:id="L3">Viua <placeName key="españa">Spagna</placeName> e la <placeName key="castilla">Cast<rhyme label="ella">ella</rhyme></placeName></l>
+                    <l xml:id="L4">Pien de gloria triumph<rhyme label="ando">ando</rhyme></l>
+                </lg>        
+                <lg n="2" met="8x8" rhyme="ababbccd">
+                    <l xml:id="L5">La Cita Mahomect<rhyme label="ana">ana</rhyme></l>
+                    <l xml:id="L6">Potentissima <placeName key="granada">Gran<rhyme label="ata">ata</rhyme></placeName></l>
+                    <l xml:id="L7">Da la falsa fe pag<rhyme label="ana">ana</rhyme></l>
+                    <l xml:id="L8">E dissolta e liber<rhyme label="ata">ata</rhyme></l>
+                    <l xml:id="L9">Per uirtute et manu arm<rhyme label="ata">ata</rhyme></l>
+                    <l xml:id="L10">Del <persName key="fernando">Fernado</persName> e <persName key="isabel">L'Isab<rhyme label="ella">ella</rhyme></persName>.</l>
+                    <l xml:id="L11">Viua <placeName key="españa">Spagna</placeName> e la <placeName key="castilla">Cast<rhyme label="ella">ella</rhyme></placeName></l>
+                    <l xml:id="L12">Pien de gloria triumph<rhyme label="ando">ando</rhyme></l>
+                </lg>
+                <lg n="3" met="8x8" rhyme="ababbccd">      
+                    <l xml:id="L13">Gran auspicio e gran impr<rhyme label="esa">esa</rhyme></l>
+                    <l xml:id="L14">Gran consiglio e gran uirt<rhyme label="ute">ute</rhyme></l>
+                    <l xml:id="L15">Gran honore a sancta chi<rhyme label="esa">esa</rhyme></l>
+                    <l xml:id="L16">A ignoranti gran sal<rhyme label="ute">ute</rhyme></l>
+                    <l xml:id="L17">Gran prouincia in seruit<rhyme label="ute">ute</rhyme></l>
+                    <l xml:id="L18">Al <persName key="fernando">Fernando</persName> et <persName key="isabel">L'Isab<rhyme label="ella">ella</rhyme></persName>.</l> 
+                    <l xml:id="L19">Viua <placeName key="españa">Spagna</placeName> e la <placeName key="castilla">Cast<rhyme label="ella">ella</rhyme></placeName></l>
+                    <l xml:id="L20">Pien de gloria triumph<rhyme label="ando">ando</rhyme></l>
+                </lg>
+                   <lg n="4" met="8x8" rhyme="ababbccd">
+                    <l xml:id="L21">Nostra fede ciaschun s<rhyme label="enti">enti</rhyme></l>
+                    <l xml:id="L22">Quanto a questie oblig<rhyme label="ata">ata</rhyme></l>
+                    <l xml:id="L23">Per che Mori non cont<rhyme label="enti">enti</rhyme></l>
+                    <l xml:id="L24">D'<placeName key="asia">Asia</placeName> et <placeName key="africa">Africa</placeName> occup<rhyme label="ata">ata</rhyme></l>
+                    <l xml:id="L25">In <placeName key="europa">Europa</placeName> debacch<rhyme label="ata">ata</rhyme></l>
+                    <l xml:id="L26">Gia faceuan sforzo et u<rhyme label="ela">ela</rhyme>.</l>
+                    <l xml:id="L27">Viua <placeName key="españa">Spagna</placeName> e la <placeName key="castilla">Cast<rhyme label="ella">ella</rhyme></placeName>.</l>
+                    <l xml:id="L28">Pien de gloria triumph<rhyme label="ando">ando</rhyme></l>
+                </lg>
+                <lg n="5" met="8x8" rhyme="ababbccd">
+                    <l xml:id="L29">Hora ognun fa festa e c<rhyme label="anti">anti</rhyme></l>
+                    <l xml:id="L30">El signor regrati<rhyme label="ando">ando</rhyme></l>
+                    <l xml:id="L31">Per tal palma tucti qu<rhyme label="anti">anti</rhyme></l>
+                    <l xml:id="L32">Dirren ben forte grid<rhyme label="ando">ando</rhyme></l>
+                    <l xml:id="L33">Viua el gran <roleName>Re</roleName> don <persName key="fernando">Fern<rhyme label="ando">ando</rhyme></persName></l>
+                    <l xml:id="L34">Colla <roleName>Reyna</roleName> don' <persName key="isabel">Isab<rhyme label="ella">ella</rhyme></persName>.</l>
+                    <l xml:id="L35">Viua <placeName key="españa">Spagna</placeName> e la <placeName key="castilla">Cast<rhyme label="ella">ella</rhyme></placeName>.</l>
+                    <l xml:id="L36">Pien de gloria triumph<rhyme label="ando">ando</rhyme></l>
+                </lg>
+            </body>
+        </text>
+
+</TEI>
