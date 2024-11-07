@@ -113,13 +113,25 @@
 
         <xsl:template match="//speaker">
         <p class="speaker"> 
-            -<xsl:apply-templates/>:
+            -<xsl:apply-templates/>
         </p>
     </xsl:template>
-            <xsl:template match="//lb">
+
+
+    <xsl:template match="//lb">
         <br/> 
     </xsl:template>
 
+        <xsl:template match="//head">
+        <h4> 
+            -<xsl:apply-templates/>
+        </h4>
+    </xsl:template>
 
+        <xsl:template match="//pb">
+        <p class="folio"> 
+            Folio: <xsl:value-of select="@n"/>
+        </p>
+    </xsl:template>
 
 </xsl:stylesheet>

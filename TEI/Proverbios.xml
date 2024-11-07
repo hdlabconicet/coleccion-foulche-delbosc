@@ -6,7 +6,7 @@
         <fileDesc>
 
             <titleStmt> <!-- Título del documento -->
-                <title xml:id="proverbios" type="incipit">Proverbios y consejos que cualquier Padre debe dar a su hijo</title>
+                <title type="incipit">Proverbios y consejos que cualquier Padre debe dar a su hijo</title>
                 <author>Hecho por El linceciado Horozco, vecino de la ciudad de Toledo</author>
                 <editor resp="TEI">Gabriela Santos Lopes Alencar</editor>
                 <editor resp="TEI">Mariana Barbara Scandora Fennema</editor>
@@ -48,8 +48,6 @@
 <origin>..................................</origin> <!-- Info sobre el impreso -->
 </history>
 </msDesc>
-
-
 <bibl>
 <title>Proverbios y consejos que cualquier Padre debe dar a su hijo</title>
 <author>Sebastián de Horozco</author>
@@ -78,10 +76,10 @@
       <fw>Impreso con licencia, En Salamanca en casa de Antonia Ramirez viuda. Año 1607.</fw> <!-- Preguntar al profe sobre esta parte -->
       </head>
 
-     <lg type="poema" subtype="maestría" style="mariana" met="8x10" rhyme="abbaccda">
+     <lg type="cantiga" subtype="maestría" style="mariana" met="8x10" rhyme="abbaccda">
                 
 
-                <lg n="1" type="estrofa">  
+                <lg n="1">  
                     <l xml:id="L1">Hijo mio muy am<rhyme label="ado">ado</rhyme></l> <!-- *folio 1* -->
                     <l xml:id="L2"> escucha a tu  padre vi<rhyme label="ejo">ejo</rhyme></l>
                     <l xml:id="L3">Y ten contino cuyd<rhyme label="ado">ado</rhyme></l>
@@ -94,7 +92,7 @@
                     <l xml:id="L10">sobre la haz de la tierra:</l>         
             </lg>
             
-                <lg n="2" type="estrofa"> 
+                <lg n="2"> 
                     <l xml:id="L11">Obra bien mientras pudieres</l>
                     <l xml:id="L12">No gastes el tiempo en vano</l>
                     <l xml:id="L13">porque sino lo hizieres</l>
@@ -107,7 +105,7 @@
                     <l xml:id="L20">pero ya no lo ternan.</l>
             </lg>
 
-             <lg n="3" type="estrofa"> 
+             <lg n="3"> 
                     <l xml:id="L21">Adversidad no te espante</l>
                     <l xml:id="L22">en la fe ten firme y fuerte</l>
                     <l xml:id="L23">no vivas a tu talante</l>
@@ -327,7 +325,7 @@
                     <l xml:id="L184"> </l>
                     <l xml:id="L185"></l>
                     <l xml:id="L186"></l>
-                    <l xml:id="L287"></l>
+                    <l xml:id="L187"></l>
                     <l xml:id="L188"></l><!--*Folio 4* -->
                     <l xml:id="L189"></l>
                     <l xml:id="L190"></l>

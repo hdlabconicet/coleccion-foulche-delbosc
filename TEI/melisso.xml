@@ -37,29 +37,15 @@
 
 <msContents>
 <msItem>
-<locus></locus> <!-- completar con los folios que vamos a transcribir -->
+<locus>5r-9v</locus> <!-- completar con los folios que vamos a transcribir -->
 <idno>00000943</idno>
 </msItem>
 </msContents>
 
 <history>
-<origin>De los Manuscritos de Don Francisco Xavier de Santiago Palomares, 1757</origin> <!-- lugar de origen?? info sobre el manuscrito, el ms. comenta: De los Manuscritos de Don Francisco Xavier de Santiago, Palomares -->
+<origin>De los Manuscritos de Don Francisco Xavier de Santiago Palomares, 1757</origin> <!-- lugar de origen? el ms. comenta: De los Manuscritos de Don Francisco Xavier de Santiago Palomares -->
 </history>
 </msDesc>
-<bibl>
-<title>La cueva de Melisso</title>
-<author>Francisco de Quevedo y Villegas</author>
-<publisher></publisher> 
-<date>1757</date>
-<pubPlace/>
-<edition></edition>
-<objectIdentifier>
-<institution>BN</institution>
-<repository>Colección Foulché Delbosc</repository>
-<idno>00000943</idno> <!-- identificador de BN -->
-<idno>170 FD</idno>
-</objectIdentifier>
-</bibl>
 </sourceDesc>
 
         </fileDesc>
@@ -69,19 +55,21 @@
 <body>
 <!-- folio 5r-->
 <pb n="5r"/>
-<p>LA CUEVA
-DE
-MELISSO
-Hablan en ella.
-Melisso Mago y <abbr>Dn</abbr><expan>Don</expan> Gaspar de
-Guzman.</p>
+<head rend="center">
+LA CUEVA<lb/>
+DE<lb/>
+MELISSO<lb/>
+Hablan en ella.<lb/>
+Melisso Mago y <abbr>D<expan>on</expan></abbr> Gaspar de<lb/>
+Guzman.
+</head>
 
 
 
 
 
-<sp who="gaspar"><speaker>Gaspar</speaker>
-<lg type="estrofa">
+<sp who="gaspar"><speaker><persName key="gaspar">Gaspar</persName>:</speaker>
+<lg>
 <l>De la campaña am<rhyme label="ena">ena</rhyme></l>
 <l>de <placeName key="sevilla">Sevilla</placeName>, partí á <placeName key="sierramorena">sierra mor<rhyme label="ena">ena</rhyme></placeName></l>
 <l>a una caza copi<rhyme label="osa">osa</rhyme>,</l>
@@ -90,11 +78,11 @@ Guzman.</p>
 <l>con truenos agua, y con granizo v<rhyme label="ino">ino</rhyme></l>
 <l>a malograrme el d<rhyme label="ia">ia</rhyme></l>
 <l>del mayor regocijo, y alegr<rhyme label="ia">ia</rhyme></l>
-</lg>
+
 
 <!-- folio 5v-->
 <pb n="5v"/>
-<lg type="estrofa">
+
 <l>Cubrió la noche el ci<rhyme label="elo">elo</rhyme>,</l>
 <l>y la parte inferior un negro v<rhyme label="elo">elo</rhyme>,</l>
 <l>y esparcida mi g<rhyme label="ente">ente</rhyme>,</l>
@@ -106,37 +94,29 @@ Guzman.</p>
 <l>varios peligros t<rhyme label="emo">emo</rhyme>,</l>
 <l>viendome reducido á tal extr<rhyme label="emo">emo</rhyme>;</l>
 <l>pero el cielo me gu<rhyme label="arda">arda</rhyme></l>
-<l>para una grande empresa, y si ah<rhyme label="ora">ora</rhyme></l>
-<l>t<rhyme label="arda">arda</rhyme>,</l>
+<l>para una grande empresa, y si ah<rhyme label="ora">ora</rhyme><lb/> t<rhyme label="arda">arda</rhyme>,</l>
 <l>en su piedad conf<rhyme label="io">io</rhyme>,</l>
-<l>que es para mayor bien y aum<rhyme label="ento">ento</rhyme></l> 
-<l>m<rhyme label="io">io</rhyme> <note xml:id="melisson1" resp="mano1">(1)</note></l>
-</lg>
+<l>que es para mayor bien y aum<rhyme label="ento">ento</rhyme><lb/> m<rhyme label="io">io</rhyme> <note xml:id="melisson1" resp="mano1">(1)</note></l>
+
 
 <!--folio 6r -->
 <pb n="6r"/>
-<lg type="estrofa">
 <l>si no me engaño, s<rhyme label="eñas">eñas</rhyme></l> 
 <l>de luz veo en aquellas altas p<rhyme label="eñas">eñas</rhyme>,:</l>
 <l>luz de alguna cav<rhyme label="aña">aña</rhyme>,</l>
-<l>de pastores, que alberga esta mon-</l>
-<l>t<rhyme label="aña">aña</rhyme>,</l>
-</lg>
+<l>de pastores, que alberga esta mon- <lb/>t<rhyme label="aña">aña</rhyme>,</l>
+
 
 <!--folio 6v -->
 <pb n="6v"/>
-
-<lg>
 <l>alentado la s<rhyme label="igo">igo</rhyme>,</l> 
-<l>que siempre mi fortuna va con</l>
-<l>m<rhyme label="igo">igo</rhyme>:</l>
+<l>que siempre mi fortuna va con<lb/> m<rhyme label="igo">igo</rhyme>:</l>
 <l>y con tan cierta pr<rhyme label="enda">enda</rhyme></l>
 <l>por los riscos trepando abriré s<rhyme label="enda">enda,</rhyme>:</l>
 <l>fragosa es la sub<rhyme label="ida">ida</rhyme>,</l>
 <l>eso mismo a <del rend="overstrike">subirla</del> <add place="left">vencerla</add> me conv<rhyme label="ida">ida</rhyme>:</l>
 <l>ya diviso la l<rhyme label="umbre">umbre</rhyme></l>
-<l>mas clara, y una cueva acia la</l>
-<l>c<rhyme label="umbre">umbre</rhyme>,</l>
+<l>mas clara, y una cueva acia la<lb/> c<rhyme label="umbre">umbre</rhyme>,</l>
 <add><l>la veloz me avec<rhyme label="ino">ino</rhyme></l>
 <l>al punto, que me lleva mi dest<rhyme label="ino">ino</rhyme>,</l></add> <!-- añadido por el copista-->
 <l>tiempo es de hacer la pr<rhyme label="eba">eba</rhyme>:</l>
@@ -147,7 +127,7 @@ Guzman.</p>
 <!--folio 7r -->
 <pb n="7r"/>
 
-<sp who="meliso"><speaker>Melisso</speaker>
+<sp who="meliso"><speaker><persName key="melisso">Melisso</persName>:</speaker>
 <lg>
 <l>quien es, que pide am<rhyme label="igo">igo</rhyme>?</l>
 </lg>
@@ -174,7 +154,7 @@ Guzman.</p>
 </sp>
 <sp who="melisso"><speaker>M:</speaker>
 <lg>
-<l>este sin duda es <persName key="gaspar"><abbr>Dn</abbr><expan>Don</expan> Gaspar</persName>, sind<rhyme label="uda">uda</rhyme>,</l>
+<l>este sin duda es <persName key="gaspar"><abbr>D<expan>o</expan>n</abbr> Gaspar</persName>, <del rend="overstrike">sin</del> <add place="left">mi</add> d<rhyme label="uda">uda</rhyme>,</l>
 <l>que el era me dec<rhyme label="ia">ia</rhyme></l>
 <l>inquieto el corazon cuando le o<rhyme label="ia">ia</rhyme>!</l>
 <l>seas gallardo m<rhyme label="ozo">ozo</rhyme></l>
@@ -193,8 +173,8 @@ Guzman.</p>
 <pb n="7v"/>
 
 <sp who="melisso"><speaker>M:</speaker>
-<lg><l><persName key="gaspar">Señor <abbr>Dn</abbr><expan>Don</expan> Gaspar</persName>, v<rhyme label="ea">ea</rhyme> <note xml:id="melisson2" resp="mano1">(2)</note></l>
-<l><abbr>V</abbr><expan>uestra</expan> señoria aqui lo que des<rhyme label="ea">ea</rhyme>.</l>
+<lg><l><persName key="gaspar">Señor <abbr>D<expan>o</expan>n</abbr> Gaspar</persName>, v<rhyme label="ea">ea</rhyme> <note xml:id="melisson2" resp="mano1">(2)</note></l>
+<l><abbr>V<expan>uestra</expan></abbr> señoria aqui lo que des<rhyme label="ea">ea</rhyme>.</l>
 </lg>
 </sp>
 <sp who="gaspar"><speaker>G:</speaker>
@@ -211,8 +191,8 @@ Guzman.</p>
 </sp>
 <sp who="melisso"><speaker>M:</speaker>
 <lg>
-<l>Pues si es <abbr>V</abbr><expan>uestra</expan> Señor<rhyme label="ia">ia</rhyme></l>
-<l><persName key="gaspar"><abbr>D.</abbr><expan>Don</expan> Gaspar de Guzman</persName> <abbr>porq</abbr><expan>ue</expan> porf<rhyme label="ia">ia</rhyme></l>
+<l>Pues si es <abbr>V<expan>uestra</expan></abbr> Señor<rhyme label="ia">ia</rhyme></l>
+<l><persName key="gaspar"><abbr>D<expan>on</expan></abbr> Gaspar de Guzman</persName> <abbr>porq<expan>ue</expan></abbr> porf<rhyme label="ia">ia</rhyme></l>
 <l>negarselo a <persName key="melisso">Mel<rhyme label="iso">isso</rhyme></persName>?</l>
 <l>Baste si averiguar la duda qu<rhyme label="iso">iso</rhyme>.</l>
 </lg>
@@ -223,39 +203,33 @@ Guzman.</p>
 
 <sp who="gaspar"><speaker>G:</speaker>
 <lg>
-<l><persName key="melisso">M:</persName> insigne ma<rhyme label="estro">estro</rhyme></l>
+<l><persName key="melisso">Melisso</persName> insigne ma<rhyme label="estro">estro</rhyme></l>
 <l>de toda ciencia magica el mas di<rhyme label ="estro">estro</rhyme></l>
-<l>que vieron las he<rhyme label="dades">dades</rhyme></l>
-<l>oraculo mayor de las ver<rhyme label="dades">dades</rhyme>,</l>
-<l>perdon, señor, te p<rhyme label="ido">ido</rhyme>,</l>
-<l>y a tu <del rend="overstrike">obediencia</del><add place="right">alvedrio</add> en todo estoy rend<rhyme label="ido">ido</rhyme></l>
+<l>que vieron las he<rhyme label= "dades">dades</rhyme></l>
+<l>oraculo mayor de las ver<rhyme label= "dades">dades</rhyme>,</l>
+<l>perdon, señor, te p<rhyme label= "ido">ido</rhyme>,</l>
+<l>y a tu <del rend="underlined">obediencia</del> <add place="right">alvedrio</add> en todo estoy rend<rhyme label= "ido">ido</rhyme></l>
 </lg>
 </sp>
-
 <sp who="melisso"><speaker>M:</speaker> 
 <lg>
-<l>O joven gener<rhyme label="oso">oso</rhyme></l> 
-<l>mucho tiempo há que en mi retiro</l>
-<l>humbr<rhyme label="oso">oso</rhyme></l> 
+<l>O joven gener<rhyme label= "oso">oso</rhyme></l> 
+<l>mucho tiempo há que en mi retiro<lb/> humbr<rhyme label= "oso">oso</rhyme></l> 
 <l>aguardo tu ven<rhyme label="ida">ida</rhyme>;</l>
 <l>y pues ya la sazon vemos cumpl<rhyme label="ida">ida</rhyme>, </l>
 <l>descansa en esta gr<rhyme label="uta">uta</rhyme>,</l> 
 <l>y admite alegre la sylvestre fr<rhyme label="uta">uta</rhyme></l> 
 <l>sobre el florido s<rhyme label ="uelo">uelo</rhyme>,</l> 
 <l>Y el licor de este candido arroy<rhyme label="uelo">uelo</rhyme></l>
-</lg>
-</sp>
+
 
 <!-- folio 8v -->
 <pb n="8v"/>
 
-<lg>
 <l>En tanto que med<rhyme label="ito">ito</rhyme></l>
-<l>lo que en el alma has de guardar</l>
-<l>escr<rhyme label="ito">ito</rhyme>,</l>
+<l>lo que en el alma has de guardar<lb/> escr<rhyme label="ito">ito</rhyme>,</l>
 <l>y con que me prome<rhyme label="to">to</rhyme>,</l>
-<l>Que entre heroes has de ser el mas</l>
-<l>perfec<rhyme label="to">to</rhyme>.</l> 
+<l>Que entre heroes has de ser el mas<lb/> perfec<rhyme label="to">to</rhyme>.</l> 
 <l>que el mundo há conoc<rhyme label="ido">ido</rhyme>,</l>
 <l>y ponen los antiguos en olv<rhyme label="ido">ido</rhyme></l>
 <l>manifestando el m<rhyme label="odo">odo</rhyme></l>
@@ -265,8 +239,52 @@ Guzman.</p>
 <l>como quien nacio d<rhyme label="onde">onde</rhyme></l>
 <l><persName key="neron">Neron</persName> vivió y digno hijo del c<rhyme label="onde">onde</rhyme>,</l>
 <l>que por guardar la c<rhyme label="apa">apa</rhyme></l>
-</lg>
 
+<!-- folio 9r -->
+<pb n="9r"/>
+<l>de su rey se atrevió á matar un P<rhyme label="apa">apa</rhyme>.</l>
+</lg>
+</sp>
+<sp who="gaspar"><speaker>G:</speaker>
+<lg>
+<l>Mucho <persName key="melisso"> Melisso</persName> est<rhyme label="imo">imo</rhyme></l>
+<l>tanto favor y para obrar me an<rhyme label="imo">imo</rhyme></l>
+</lg>
+</sp>
+<sp who="melisso"><speaker>M:</speaker>
+<lg>
+<l><persName key="gaspar"><abbr>D<expan>o</expan>n</abbr>Gaspar</persName>, presto esp<rhyme label="ero">ero</rhyme></l>
+<l>que has de ser de tu casa el hered<rhyme label="ero">ero</rhyme></l>
+<l>y luego levant<rhyme label="ado">ado</rhyme></l>
+<l>a suerte mas dichosa <del rend="overstrike">que el</del> <add place="left">aquel</add> cond<rhyme label="ado">ado</rhyme></l>
+<l><del rend="underlined">que el</del> <add place="left">del</add> principe venc<rhyme label="idos">idos</rhyme></l>
+<l>de tu trato y razones los sent<rhyme label="idos">idos</rhyme></l>
+<l>te hará de su alma du<rhyme label="eño">eño</rhyme><note xml:id="melisson3" resp="mano1">(3)</note></l>
+<l>y con sus gustos crecerá el emp<rhyme label="eño">eño</rhyme></l>
+<l>siendo de tal man<rhyme label="era">era</rhyme></l>
+<l>que á su padre y hermana te prefi<rhyme label="era">era</rhyme></l>
+<l>y a tu querida esp<rhyme label="osa">osa</rhyme></l>
+<l>y sin tu voluntad no intente c<rhyme label="osa">osa</rhyme>.</l>
+
+
+<!-- folio 9v-->
+<pb n="9v"/>
+<l>muertro su caro p<rhyme label="adre">adre</rhyme>,</l>
+<l>no hallará otro <del rend="underlined">maestro</del> <add place="left">Ministro</add> que le<lb/> qu<rhyme label="adre">adre</rhyme>,</l>
+<l>y por la simpat<rhyme label="ia">ia</rhyme></l>
+<l>te entregará su propia monarqu<rhyme label="ia">ia</rhyme>:</l>
+<l>tu en este caso empi<rhyme label="eza">eza</rhyme></l>
+<l>a asegurarte a fuerza de destr<rhyme label="eza">eza</rhyme>,</l>
+<l>y procura con m<rhyme label="aña">aña</rhyme></l>
+<l>que su restaurador te <del rend="underlined">llame</del> <add place="left">juzgue</add> <placeName key="españa">Esp<rhyme label="aña">aña</rhyme></placeName></l>
+<l>blasonando del z<rhyme label="elo">elo</rhyme></l>
+<l>conque busca su alivio tu desv<rhyme label="elo">elo</rhyme>,</l>
+<l>y ofrece tu pers<rhyme label="ona">ona</rhyme></l>
+<l>al beneficio de <del rend="underlined">la</del> <add place="left">su</add> Real cor<rhyme label="ona">ona</rhyme></l>
+<l>instando que tu haci<rhyme label="enda">enda</rhyme></l>
+<l>para pagar sus creditos se v<rhyme label="enda">enda</rhyme>:</l>
+</lg>
+</sp>
 
 </body>
 </text>

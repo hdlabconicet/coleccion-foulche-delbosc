@@ -41,15 +41,16 @@
 
         <text>
             <body>
-               <lg type="poema" met="20x40" rhyme="aabbcc"> 
-               <lg n="1" type="estrofa">
+
+            <!-- rima y metrica y rima -->
+                <lg n="1">
                     <l xml:id="L1">Viua el gran <roleName>Re</roleName> Don <persName key="fernando">Fernando</persName></l> <!--indica papel o rol específicos-->
                     <l xml:id="L2">Con la <roleName>Reyna</roleName> Don' <persName key="isabel">Isabella</persName></l> 
                     <l xml:id="L3">Viua <placeName key="españa">Spagna</placeName> e la <placeName key="castilla">Castella</placeName></l>
                     <l xml:id="L4">Pien de gloria triumphando</l>
                 </lg>
                  
-                <lg n="2" type="estrofa">
+                <lg n="2">
                     <l xml:id="L5">La Cita Mahomectana</l>
                     <l xml:id="L6">Potentissima <placeName key="granada">Granata</placeName></l>
                     <l xml:id="L7">Da la falsa fe pagana</l>
@@ -57,7 +58,7 @@
                     <l xml:id="L9">Per uirtute et manu armata</l>
                     <l xml:id="L10">Del <persName key="fernando">Fernado</persName> e <persName key="isabel">L'Isabella</persName>. Viua <placeName key="españa">Spagna</placeName>...</l>
                 </lg>
-                <lg n="3" type="estrofa">      
+                <lg n="3">      
                     <l xml:id="L11">Gran auspicio e gran impresa</l>
                     <l xml:id="L12">Gran consiglio e gran uirtute</l>
                     <l xml:id="L13">Gran honore a sancta chiesa</l>
@@ -65,7 +66,7 @@
                     <l xml:id="L15">Gran prouincia in seruitute</l>
                     <l xml:id="L16">Al <persName key="fernando">Fernando</persName> et <persName key="isabel">L'Isabella</persName>. Viua <placeName key="españa">Spagna</placeName>...</l> 
                 </lg>
-                   <lg n="4" type="estrofa">
+                   <lg n="4">
                     <l xml:id="L17">Nostra fede ciaschun senti</l>
                     <l xml:id="L18">Quanto a questie obligata</l>
                     <l xml:id="L19">Per che Mori non contenti</l>
@@ -83,7 +84,7 @@
                     <l xml:id="L29">Viua <placeName key="españa">Spagna</placeName> e la <placeName key="castilla">Castella</placeName></l>
                     <l xml:id="L30">Pien de gloria triumphando</l>
                 </lg>
-            </lg>
+            
             
             </body>
         </text>
