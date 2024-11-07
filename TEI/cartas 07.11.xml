@@ -50,7 +50,7 @@
     <text>    <!-- Texto codificado -->
         <body>    
             <pb n="66r"></pb>
-                <p>Carta Moral e Instructiva de Don Francisco de Quevedo. Escrita desde <placeName>San Marcos de León</placeName> a un Amigo suyo. Pintandole por horas su prision y la vida que ella pasa</p>
+                <p>Carta Moral e Instructiva de Don Francisco de Quevedo. Escrita desde <placeName key="san_marcos">San Marcos de León</placeName> a un Amigo suyo. Pintandole por horas su prision y la vida que ella pasa</p>
             <note xml:id="cartas0n1"><pb n="66v"></pb></note>
             <pb n="67r"></pb> 
                 <p>   
@@ -78,7 +78,7 @@
             <pb n="67v"></pb> 
                 <p>
                 <lb/>las vozes la Verdad, y no enla
-                <lb/>verdad las vozes, como <persName>Augusti</persName>
+                <lb/>verdad las vozes, como <persName key="augusti">Augusti</persName>
                 <lb/>no lo enseña. No quiere <abbr>V<expan>uestra</expan>.m<expan>erced</expan></abbr> ver.
                 <lb/>ter el precioso caudal de sus vozes
                 <lb/>con promesas, sino con verdades; no
@@ -101,7 +101,7 @@
                 </p>
              <pb n="68r"></pb> 
                 <p>
-                <lb/><persName>Licurgo</persName>, que con el tiempo tiene en gran
+                <lb/><persName key="licurgo">Licurgo</persName>, que con el tiempo tiene en gran
                 <lb/>cuenta los Sabios; y por esto asegu-
                 <lb/>ra el <note xml:id="cartas3n1">Predicador Sagrado</note>, que ni
                 <lb/>la velozidad conduze para la ca-
@@ -112,7 +112,7 @@
                 <lb/>ni, en fin, para lo primoroso el
                 <lb/>arte: si el tiempo, y la sazon no
                 <lb/>les asiste.
-</p>
+                </p>
         </body>
     </text>
  
