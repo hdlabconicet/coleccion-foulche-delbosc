@@ -45,7 +45,7 @@
 </fileDesc>
    </teiHeader> <!-- Finaliza encabezado de metadatos -->
 
-
+   
 
      <text>  <!-- INICIA TRANSCRIPCIÓN -->
       <body>  
@@ -73,494 +73,484 @@
                     <l xml:id="L10">sobre la haz de la t<rhyme label="ierra">ierra</rhyme></l>         
             </lg>
             
-                <lg n="2"> 
-                    <l xml:id="L11">Obra bien mientras pudi<rhyme label="eres">eres</rhyme></l>
-                    <l xml:id="L12">No gastes el tiempo en v<rhyme label="ano">ano</rhyme></l>
-                    <l xml:id="L13">porque sino lo hizi<rhyme label="eres">eres</rhyme></l>
-                    <l xml:id="L14">quando alguna vez quisi<rhyme label="eres">eres</rhyme></l>
-                    <l xml:id="L15">quiza no sera en tu m<rhyme label="ano">ano</rhyme></l>
-                    <l xml:id="L16">El triste rico avari<rhyme label="ento">ento</rhyme></l>
-                    <l xml:id="L17">y los demas que alla estan</l>
-                    <l xml:id="L18">querrian tener un mom<rhyme label="ento">ento</rhyme></l>
-                    <l xml:id="L19">para su merescimi<rhyme label="ento">ento</rhyme></l>
-                    <l xml:id="L20">pero ya no lo ternan.</l>
-            </lg>
+                <lg n="2" met="10x8" rhyme="ababacdcde">
+    <l xml:id="L11">Obra bien mientras pudi<rhyme label="eres">eres</rhyme></l>
+    <l xml:id="L12">No gastes el tiempo en v<rhyme label="ano">ano</rhyme></l>
+    <l xml:id="L13">porque sino lo hizi<rhyme label="eres">eres</rhyme></l>
+    <l xml:id="L14">quando alguna vez quisi<rhyme label="eres">eres</rhyme></l>
+    <l xml:id="L15">quiza no sera en tu m<rhyme label="ano">ano</rhyme></l>
+    <l xml:id="L16">El triste rico avari<rhyme label="ento">ento</rhyme></l>
+    <l xml:id="L17">y los demas que alla estan</l>
+    <l xml:id="L18">querrian tener un mom<rhyme label="ento">ento</rhyme></l>
+    <l xml:id="L19">para su merescimi<rhyme label="ento">ento</rhyme></l>
+    <l xml:id="L20">pero ya no lo ternan.</l>
+</lg>
 
-             <lg n="3"> 
-                    <l xml:id="L21">Adversidad no te espante</l>
-                    <l xml:id="L22">en la fe ten firme y fuerte</l>
-                    <l xml:id="L23">no vivas a tu talante</l>
-                    <l xml:id="L24">ten a Dios siempre delante</l>
-                    <l xml:id="L25">y memoria de la muerte.</l>
-                    <l xml:id="L26">Vive hijo de tal modo</l>
-                    <l xml:id="L27">mientras te dura la mecha</l>
-                    <l xml:id="L28">que reconoscas ser lodo</l>
-                    <l xml:id="L29">Y abre el ojo que de todo</l>
-                    <l xml:id="L30">daras cuenta muy estrecha.</l>
-            </lg>
-            
-                <lg n="4"> 
-                    <l xml:id="L31">Do te tienen affición </l>
-                    <l xml:id="L32">has sino quieres ser necio</l>
-                    <l xml:id="L33">rara la visitacion</l>
-                    <l xml:id="L34"> que mucha conversacion</l>
-                    <l xml:id="L35">es causa de menosprecio. </l>
-                    <l xml:id="L36">Ternas siempre gravedad</l>
-                    <l xml:id="L37">tal que no peques de loco</l>
-                    <l xml:id="L38">no burles con liviandad</l>
-                    <l xml:id="L39">que la familiaridad</l>
-                    <l xml:id="L40">causara tenerte en poco. </l>       
-            </lg>
-            
-                <lg n="5"> 
-                    <l xml:id="L41">Especialmente teniendo</l>
-                    <l xml:id="L42">cargo de gobernacion</l>
-                    <l xml:id="L43">y en aquesta a lo que entiendo</l>
-                    <l xml:id="L44">mucho hijo te encomiendo</l>
-                    <l xml:id="L45">que tengas mucha atencion.</l>
-                    <l xml:id="L46">Porque officios de jueces</l>
-                    <l xml:id="L47">aunque en si son meritorios</l>
-                    <l xml:id="L48">acontece muchas veces</l>
-                    <l xml:id="L49">de ser malos y soeces</l>
-                    <l xml:id="L50">hacer agravios notorios</l>
-                  
-            </lg>
-
-            <lg n="6"> 
-                    <l xml:id="L51">No sentencies con malicia</l>
-                    <l xml:id="L52">por odio ni por rencor</l>
-                    <l xml:id="L53">por amor ni por cobdicia</l>
-                    <l xml:id="L54">mas dando igual la justicia</l>
-                    <l xml:id="L55">al menor como al mayor.</l>
-                    <l xml:id="L56">Guarda no recibas don</l><!-- folio 2-->
-                    <l xml:id="L57">ni aceptes urrego o promessa</l>
-                    <l xml:id="L58">que son causas de aficion</l>
-                    <l xml:id="L59">vaya recta la intencion</l>
-                    <l xml:id="L60">que todo para en la hueya.</l>
-            </lg>
-
-            <lg n="7"> 
-                    <l xml:id="L61">No cures de tu mujer</l>
-                    <l xml:id="L62">en el cargo que tuvieres</l>
-                    <l xml:id="L63">porque por la complacer</l>
-                    <l xml:id="L64">suelen a voces torcer</l>
-                    <l xml:id="L65">la justicia las mujeres.</l>
-                    <l xml:id="L66">Porque la mujer es liga</l>
-                    <l xml:id="L67">que coa su importunidad</l>
-                    <l xml:id="L68">en lo que ella quiere obliga</l>
-                    <l xml:id="L69">al marido que la siga</l>
-                    <l xml:id="L70">y haga su voluntad.</l>
-                
-         </lg>
-
-         <lg n="8"> 
-                    <l xml:id="L71">Ejemplos claros estan</l>
-                    <l xml:id="L72">por donde aquesto se prueba</l>
-                    <l xml:id="L73">primeramente en Adan</l>
-                    <l xml:id="L74">que nos causo tanto afan</l>
-                    <l xml:id="L75">por hacer placer a Eva.</l>
-                    <l xml:id="L76">Y ahi si por esta razon</l>
-                    <l xml:id="L77">el demonio falto ingrato</l>
-                    <l xml:id="L78">contra nuestra salvacion</l>
-                    <l xml:id="L79">acudio sin dilacion</l>
-                    <l xml:id="L80">a la mujer de Pilato.</l>
-           </lg>
+             <lg n="3" met="10x8" rhyme="ababccddee"> 
+    <l xml:id="L21">Adversidad no te esp<rhyme label="ante">ante</rhyme></l>
+    <l xml:id="L22">en la fe ten firme y fu<rhyme label="erte">erte</rhyme></l>
+    <l xml:id="L23">no vivas a tu tal<rhyme label="ante">ante</rhyme></l>
+    <l xml:id="L24">ten a Dios siempre del<rhyme label="ante">ante</rhyme></l>
+    <l xml:id="L25">y memoria de la mu<rhyme label="erte">erte</rhyme></l>
+    <l xml:id="L26">Vive hijo de tal m<rhyme label="odo">odo</rhyme></l>
+    <l xml:id="L27">mientras te dura la m<rhyme label="echa">echa</rhyme></l>
+    <l xml:id="L28">que reconozcas ser l<rhyme label="odo">odo</rhyme></l>
+    <l xml:id="L29">Y abre el ojo que de t<rhyme label="odo">odo</rhyme></l>
+    <l xml:id="L30">darás cuenta muy estr<rhyme label="echa">echa</rhyme></l>
+</lg>
 
 
-        <lg n="9"> 
-                    <l xml:id="L81">Huye de la compañia</l>
-                    <l xml:id="L82">de hombres mozos viciosos</l>
-                    <l xml:id="L83">oye missa cada dia</l>
-                    <l xml:id="L84">que esta es una romeria</l>
-                    <l xml:id="L85">de milagros virtuosos.</l>
-                    <l xml:id="L86">Infinitas excelencias</l>
-                    <l xml:id="L87">hay en este sacramento</l>
-                    <l xml:id="L88">ganas muchas indulgencias</l>
-                    <l xml:id="L89">y sirves con tus potencias</l>
-                    <l xml:id="L90">a Dios y quedas contento.</l>
-           </lg>
-        
-        <lg n="10"> 
-                    <l xml:id="L91">Y luego Dios que te mira</l>
-                    <l xml:id="L92">y acepta tus oraciones</l>
-                    <l xml:id="L93">en tu corazon inspira</l>
-                    <l xml:id="L94">y como flecha te tira</l>
-                    <l xml:id="L95">muy grandes consolaciones.</l>
-                    <l xml:id="L96">Aquel dia gustaras</l>
-                    <l xml:id="L97">cosas de gran excellencia</l>
-                    <l xml:id="L98">y de aquello sacaras</l>
-                    <l xml:id="L99">otras cosas mucho mas</l>
-                    <l xml:id="L100">que veras por experiencia.</l>
-           </lg>
+         <lg n="4" met="10x8" rhyme="abbacddeed"> 
+    <l xml:id="L31">Do te tienen affic<rhyme label="ión">ión</rhyme></l>
+    <l xml:id="L32">has sino quieres ser ne<rhyme label="cio">cio</rhyme></l>
+    <l xml:id="L33">rara la visitac<rhyme label="ión">ión</rhyme></l>
+    <l xml:id="L34">que mucha conversac<rhyme label="ión">ión</rhyme></l>
+    <l xml:id="L35">es causa de menospr<rhyme label="ecio">ecio</rhyme></l>
+    <l xml:id="L36">Ternas siempre grav<rhyme label="edad">edad</rhyme></l>
+    <l xml:id="L37">tal que no peques de l<rhyme label="oco">oco</rhyme></l>
+    <l xml:id="L38">no burles con liviand<rhyme label="ad">ad</rhyme></l>
+    <l xml:id="L39">que la familiarid<rhyme label="ad">ad</rhyme></l>
+    <l xml:id="L40">causara tenerte en p<rhyme label="oco">oco</rhyme></l>
+</lg>
 
-           <lg n="11"> 
-                    <l xml:id="L101">No te pagnes de truhanes</l>
-                    <l xml:id="L102">que necios los hazen ricos</l>
-                    <l xml:id="L103">ni menos mantengas canes</l>
-                    <l xml:id="L104">que mejor es que los panes</l>
-                    <l xml:id="L105">los coman los pobrezicos.</l>
-                    <l xml:id="L106">Procura siempre tener</l>
-                    <l xml:id="L107">de los pobres compasion</l>
-                    <l xml:id="L108">do veras que es menester</l>
-                    <l xml:id="L109">no dejes de socorrer</l>
-                    <l xml:id="L110">pudiendo con tu racion.</l>
-           </lg>
+<lg n="5" met="10x8" rhyme="abbacddeed"> 
+    <l xml:id="L41">Especialmente ten<rhyme label="iendo">iendo</rhyme></l>
+    <l xml:id="L42">cargo de gobernac<rhyme label="ión">ión</rhyme></l>
+    <l xml:id="L43">y en aquesta a lo que ent<rhyme label="iendo">iendo</rhyme></l>
+    <l xml:id="L44">mucho hijo te encom<rhyme label="iendo">iendo</rhyme></l>
+    <l xml:id="L45">que tengas mucha atenc<rhyme label="ión">ión</rhyme></l>
+    <l xml:id="L46">Porque officios de ju<rhyme label="eces">eces</rhyme></l>
+    <l xml:id="L47">aunque en si son merit<rhyme label="orios">orios</rhyme></l>
+    <l xml:id="L48">acontece muchas v<rhyme label="eces">eces</rhyme></l>
+    <l xml:id="L49">de ser malos y soe<rhyme label="ces">ces</rhyme></l>
+    <l xml:id="L50">hacer agravios not<rhyme label="orios">orios</rhyme></l>
+</lg>
 
-           <lg n="12"> 
-                    <l xml:id="L111">Y desto te encargo y ruego</l>
-                    <l xml:id="L112">que tengas mucho cuydado</l>
-                    <l xml:id="L113">daras al alma sosiego</l>
-                    <l xml:id="L114">que si el agua mata el fuego</l>
-                    <l xml:id="L115">asi limosna al peccado.</l>
-                    <l xml:id="L116">No athesores muchos dones</l>
-                    <l xml:id="L117">de riquezas en el suelo</l>
-                    <l xml:id="L118">que los hurtan los ladrones</l>
-                    <l xml:id="L119">y los destruyen ratones</l>
-                    <l xml:id="L120">athssora para el Cielo.</l>
-           </lg>
+<lg n="6" met="10x8" rhyme="abbacddeed"> 
+    <l xml:id="L51">No sentencies con mal<rhyme label="icia">icia</rhyme></l>
+    <l xml:id="L52">por odio ni por renc<rhyme label="or">or</rhyme></l>
+    <l xml:id="L53">por amor ni por cobd<rhyme label="icia">icia</rhyme></l>
+    <l xml:id="L54">mas dando igual la just<rhyme label="icia">icia</rhyme></l>
+    <l xml:id="L55">al menor como al may<rhyme label="or">or</rhyme></l>
+    <l xml:id="L56">Guarda no recibas d<rhyme label="on">on</rhyme></l> <!-- folio 2-->
+    <l xml:id="L57">ni aceptes urrego o prom<rhyme label="essa">essa</rhyme></l>
+    <l xml:id="L58">que son causas de afi<rhyme label="ción">ción</rhyme></l>
+    <l xml:id="L59">vaya recta la intenc<rhyme label="ión">ión</rhyme></l>
+    <l xml:id="L60">que todo para en la hue<rhyme label="ya">ya</rhyme></l>
+</lg>
 
-           <lg n="13"> 
-                    <l xml:id="L121">Bando de lo que tuvieres</l>
-                    <l xml:id="L122">adonde ay necesidad</l>
-                    <l xml:id="L123">no en deleytes ni plazeres</l>
-                    <l xml:id="L124">ni gastando con mugeres</l>
-                    <l xml:id="L125">mas en obra de piedad.</l>
-                    <l xml:id="L126">Casando huerfanas pobres</l>
-                    <l xml:id="L127">socorriendo encarcelados</l>
-                    <l xml:id="L128">y asi yo juro que cobres</l>
-                    <l xml:id="L129">en el cielo, y aun recobres</l>
-                    <l xml:id="L130">los thesoros cien doblas</l>
-           </lg>
+<lg n="7" met="10x8" rhyme="abbacddeed"> 
+    <l xml:id="L61">No cures de tu muj<rhyme label="er">er</rhyme></l>
+    <l xml:id="L62">en el cargo que tuvi<rhyme label="eres">eres</rhyme></l>
+    <l xml:id="L63">porque por la compl<rhyme label="acer">acer</rhyme></l>
+    <l xml:id="L64">suelen a voces torc<rhyme label="er">er</rhyme></l>
+    <l xml:id="L65">la justicia las muj<rhyme label="eres">eres</rhyme></l>
+    <l xml:id="L66">Porque la mujer es l<rhyme label="iga">iga</rhyme></l>
+    <l xml:id="L67">que coa su importunid<rhyme label="ad">ad</rhyme></l>
+    <l xml:id="L68">en lo que ella quiere obl<rhyme label="iga">iga</rhyme></l>
+    <l xml:id="L69">al marido que la s<rhyme label="iga">iga</rhyme></l>
+    <l xml:id="L70">y haga su volunt<rhyme label="ad">ad</rhyme></l>
+</lg>
 
-           <lg n="14"> 
-                    <l xml:id="L131">No vayas a los tableros</l>
-                    <l xml:id="L132">donde se juegan los juegos</l>
-                    <l xml:id="L133">Y do van mil chocarreros</l>
-                    <l xml:id="L134">que perdieron sus dineros</l>
-                    <l xml:id="L135">dizen a Dios mil reniegos.</l>
-                    <l xml:id="L136">Que estos tales barateros</l>
-                    <l xml:id="L137">andando en aquellos tratos</l>
-                    <l xml:id="L138">dejan en fin sus dineros</l>
-                    <l xml:id="L139">en poder de tablageros</l>
-                    <l xml:id="L140">en dados naypes, baratos.</l>
-           </lg>
+<lg n="8" met="10x8" rhyme="abbacddeed"> 
+    <l xml:id="L71">Ejemplos claros est<rhyme label="án">án</rhyme></l>
+    <l xml:id="L72">por donde aquesto se pr<rhyme label="ueba">ueba</rhyme></l>
+    <l xml:id="L73">primeramente en Ad<rhyme label="án">án</rhyme></l>
+    <l xml:id="L74">que nos causo tanto af<rhyme label="án">án</rhyme></l>
+    <l xml:id="L75">por hacer placer a Ev<rhyme label="a">a</rhyme></l>
+    <l xml:id="L76">Y ahi si por esta raz<rhyme label="ón">ón</rhyme></l>
+    <l xml:id="L77">el demonio falto ingr<rhyme label="ato">ato</rhyme></l>
+    <l xml:id="L78">contra nuestra salvac<rhyme label="ión">ión</rhyme></l>
+    <l xml:id="L79">acudio sin dilac<rhyme label="ión">ión</rhyme></l>
+    <l xml:id="L80">a la mujer de Pil<rhyme label="ato">ato</rhyme></l>
+</lg>
 
-           <lg n="15"> 
-                    <l xml:id="L141">Si por desterrar cuydados</l>
-                    <l xml:id="L142">jugares alguna vez</l>
-                    <l xml:id="L143">no sea naypes ni dados</l>
-                    <l xml:id="L144">ni otros juegos vedados</l>
-                    <l xml:id="L145">sino solo al ajedrez.</l>
-                    <l xml:id="L146">No dejes tiempo perdido</l>
-                    <l xml:id="L147">que es perdida mayor</l>
-                    <l xml:id="L148">que despues que el tiempo es ydo</l>
-                    <l xml:id="L149">no puede ser redemido</l>
-                    <l xml:id="L150">de ningun precio y valor.</l>
-           </lg>
-
-           <lg n="16"> 
-                    <l xml:id="L151">Cuando fueres combidado</l>
-                    <l xml:id="L152">habla poco sobre mesa</l>
-                    <l xml:id="L153">de otra arte seras notado</l>
-                    <l xml:id="L154">que el hablar demasiado</l>
-                    <l xml:id="L155">en tal caso a vezes pesa.</l>
-                    <l xml:id="L156">Porque de mucho hablar</l>
-                    <l xml:id="L157">es cierto como en la mano</l>
-                    <l xml:id="L158">que viene el mucho errar</l>
-                    <l xml:id="L159">y asi vienen a notar</l>
-                    <l xml:id="L160">al que habla de liviano.</l>
-           </lg>
-
-           <lg n="17"> 
-                    <l xml:id="L161">Sey templado en el comer</l>
-                    <l xml:id="L162">cuando la hambre lo pida</l>
-                    <l xml:id="L163">moderado en el beber</l>
-                    <l xml:id="L164">solo lo que es menester</l>
-                    <l xml:id="L165">para sustentar la vida.</l>
-                    <l xml:id="L166">Que en el beber demasiado</l>
-                    <l xml:id="L167">engendra en el hombre furia</l>
-                    <l xml:id="L168">y es occasione de peccado</l>
-                    <l xml:id="L169">que desque la gula a entrado</l>
-                    <l xml:id="L170">tras ella va la lujuria.</l>
-           </lg>
-
-           <lg n="18"> 
-                    <l xml:id="L171">Loth si tanto no bebiera</l>
-                    <l xml:id="L172">y se templara en aquello</l>
-                    <l xml:id="L173">a ser ebrio no viniera</l>
-                    <l xml:id="L174">ni tampoco cometiera</l>
-                    <l xml:id="L175">con sus hijas tal incesto.</l>
-                    <l xml:id="L176">Y allende de ser dañoso</l>
-                    <l xml:id="L177">para el alma y la consciencia</l>
-                    <l xml:id="L178">para el cuerpo es peligroso</l>
-                    <l xml:id="L179">que el hombre gloton goloso</l>
-                    <l xml:id="L180">nunca le falta dolencia.</l>
-           </lg>
+<lg n="9" met="10x8" rhyme="abbacddeed"> 
+    <l xml:id="L81">Huye de la compañ<rhyme label="ía">ía</rhyme></l>
+    <l xml:id="L82">de hombres mozos vici<rhyme label="osos">osos</rhyme></l>
+    <l xml:id="L83">oye missa cada d<rhyme label="ía">ía</rhyme></l>
+    <l xml:id="L84">que esta es una romer<rhyme label="ía">ía</rhyme></l>
+    <l xml:id="L85">de milagros virtu<rhyme label="osos">osos</rhyme></l>
+    <l xml:id="L86">Infinitas excelenc<rhyme label="ias">ias</rhyme></l>
+    <l xml:id="L87">hay en este sacrament<rhyme label="o">o</rhyme></l>
+    <l xml:id="L88">ganas muchas indulgenc<rhyme label="ias">ias</rhyme></l>
+    <l xml:id="L89">y sirves con tus potenc<rhyme label="ias">ias</rhyme></l>
+    <l xml:id="L90">a Dios y quedas cont<rhyme label="ento">ento</rhyme></l>
+   </lg>      
+        <lg n="10" met="10x10" rhyme="abbaacdeed">
+  <l xml:id="L91">Y luego Dios que te m<rhyme label="ira">ira</rhyme></l>
+  <l xml:id="L92">y acepta tus oraci<rhyme label="ones">ones</rhyme></l>
+  <l xml:id="L93">en tu corazon insp<rhyme label="ira">ira</rhyme></l>
+  <l xml:id="L94">y como flecha te t<rhyme label="ira">ira</rhyme></l>
+  <l xml:id="L95">muy grandes consolaci<rhyme label="ones">ones</rhyme></l>
+  <l xml:id="L96">Aquel dia gustar<rhyme label="as">as</rhyme></l>
+  <l xml:id="L97">cosas de gran excell<rhyme label="encia">encia</rhyme></l>
+  <l xml:id="L98">y de aquello sacar<rhyme label="as">as</rhyme></l>
+  <l xml:id="L99">otras cosas mucho m<rhyme label="as">as</rhyme></l>
+  <l xml:id="L100">que veras por experi<rhyme label="encia">encia</rhyme></l>
+</lg>
 
 
-           <lg n="19"> 
-                    <l xml:id="L181">Sey honesto en el vestido</l>
-                    <l xml:id="L182">no superfluo ni costoso</l>
-                    <l xml:id="L183">no roto ni descosido</l>
-                    <l xml:id="L184">fino muy bueno y polido</l>
-                    <l xml:id="L185">pero no mucho curioso.</l>
-                    <l xml:id="L186">Mira hijo que enel trage</l>
-                    <l xml:id="L187">se conoscen los modestos</l>
-                    <l xml:id="L188">pues que ves que sin ultrage</l>
-                    <l xml:id="L189">los nobles y de linage</l>
-                    <l xml:id="L190">estos andan mas honestos.</l>
-           </lg>
+          <lg n="11" met="10x11" rhyme="abbaacdeed">
+  <l xml:id="L101">No te pagnes de truh<rhyme label="anes">anes</rhyme></l>
+  <l xml:id="L102">que necios los hazen r<rhyme label="icos">icos</rhyme></l>
+  <l xml:id="L103">ni menos mantengas c<rhyme label="anes">anes</rhyme></l>
+  <l xml:id="L104">que mejor es que los p<rhyme label="anes">anes</rhyme></l>
+  <l xml:id="L105">los coman los pobrez<rhyme label="icos">icos</rhyme></l>
+  <l xml:id="L106">Procura siempre ten<rhyme label="er">er</rhyme></l>
+  <l xml:id="L107">de los pobres compasi<rhyme label="on">on</rhyme></l>
+  <l xml:id="L108">do veras que es menest<rhyme label="er">er</rhyme></l>
+  <l xml:id="L109">no dejes de socorr<rhyme label="er">er</rhyme></l>
+  <l xml:id="L110">pudiendo con tu raci<rhyme label="on">on</rhyme></l>
+</lg>
+
+
+           <lg n="12" met="10x12" rhyme="abbaacdeed">
+  <l xml:id="L111">Y desto te encargo y ru<rhyme label="ego">ego</rhyme></l>
+  <l xml:id="L112">que tengas mucho cuyd<rhyme label="ado">ado</rhyme></l>
+  <l xml:id="L113">daras al alma sos<rhyme label="iego">iego</rhyme></l>
+  <l xml:id="L114">que si el agua mata el fu<rhyme label="ego">ego</rhyme></l>
+  <l xml:id="L115">asi limosna al pecc<rhyme label="ado">ado</rhyme></l>
+  <l xml:id="L116">No athesores muchos d<rhyme label="ones">ones</rhyme></l>
+  <l xml:id="L117">de riquezas en el su<rhyme label="elo">elo</rhyme></l>
+  <l xml:id="L118">que los hurtan los ladr<rhyme label="ones">ones</rhyme></l>
+  <l xml:id="L119">y los destruyen rat<rhyme label="ones">ones</rhyme></l>
+  <l xml:id="L120">athssora para el Ci<rhyme label="elo">elo</rhyme></l>
+</lg>
+
+<lg n="13" met="10x13" rhyme="abbaacdeed">
+  <l xml:id="L121">Bando de lo que tuvi<rhyme label="eres">eres</rhyme></l>
+  <l xml:id="L122">adonde ay necesid<rhyme label="ad">ad</rhyme></l>
+  <l xml:id="L123">no en deleytes ni plaz<rhyme label="eres">eres</rhyme></l>
+  <l xml:id="L124">ni gastando con mug<rhyme label="eres">eres</rhyme></l>
+  <l xml:id="L125">mas en obra de pi<rhyme label="ad">ad</rhyme></l>
+  <l xml:id="L126">Casando huerfanas p<rhyme label="obres">obres</rhyme></l>
+  <l xml:id="L127">socorriendo encarc<rhyme label="elados">elados</rhyme></l>
+  <l xml:id="L128">y asi yo juro que c<rhyme label="obres">obres</rhyme></l>
+  <l xml:id="L129">en el cielo, y aun rec<rhyme label="obres">obres</rhyme></l>
+  <l xml:id="L130">los thesoros cien dobl<rhyme label="as">as</rhyme></l>
+</lg>
+
+<lg n="14" met="10x14" rhyme="abbaacdeed">
+  <l xml:id="L131">No vayas a los tabl<rhyme label="eros">eros</rhyme></l>
+  <l xml:id="L132">donde se juegan los ju<rhyme label="egos">egos</rhyme></l>
+  <l xml:id="L133">Y do van mil chocarr<rhyme label="eros">eros</rhyme></l>
+  <l xml:id="L134">que perdieron sus din<rhyme label="eros">eros</rhyme></l>
+  <l xml:id="L135">dizen a Dios mil reni<rhyme label="egos">egos</rhyme></l>
+  <l xml:id="L136">Que estos tales barat<rhyme label="eros">eros</rhyme></l>
+  <l xml:id="L137">andando en aquellos tr<rhyme label="atos">atos</rhyme></l>
+  <l xml:id="L138">dejan en fin sus din<rhyme label="eros">eros</rhyme></l>
+  <l xml:id="L139">en poder de tablag<rhyme label="eros">eros</rhyme></l>
+  <l xml:id="L140">en dados naypes, bar<rhyme label="atos">atos</rhyme></l>
+</lg>
+
+<lg n="15" met="10x15" rhyme="abbaacdeed">
+  <l xml:id="L141">Si por desterrar cuyd<rhyme label="ados">ados</rhyme></l>
+  <l xml:id="L142">jugares alguna v<rhyme label="ez">ez</rhyme></l>
+  <l xml:id="L143">no sea naypes ni d<rhyme label="ados">ados</rhyme></l>
+  <l xml:id="L144">ni otros juegos ved<rhyme label="ados">ados</rhyme></l>
+  <l xml:id="L145">sino solo al ajedr<rhyme label="ez">ez</rhyme></l>
+  <l xml:id="L146">No dejes tiempo perd<rhyme label="ido">ido</rhyme></l>
+  <l xml:id="L147">que es perdida may<rhyme label="or">or</rhyme></l>
+  <l xml:id="L148">que despues que el tiempo es y<rhyme label="do">do</rhyme></l>
+  <l xml:id="L149">no puede ser redem<rhyme label="ido">ido</rhyme></l>
+  <l xml:id="L150">de ningun precio y val<rhyme label="or">or</rhyme></l>
+</lg>
+
+<lg n="16" met="10x16" rhyme="abbaacdeed">
+  <l xml:id="L151">Cuando fueres combid<rhyme label="ado">ado</rhyme></l>
+  <l xml:id="L152">habla poco sobre m<rhyme label="esa">esa</rhyme></l>
+  <l xml:id="L153">de otra arte seras not<rhyme label="ado">ado</rhyme></l>
+  <l xml:id="L154">que el hablar demasi<rhyme label="ado">ado</rhyme></l>
+  <l xml:id="L155">en tal caso a vezes p<rhyme label="esa">esa</rhyme></l>
+  <l xml:id="L156">Porque de mucho habl<rhyme label="ar">ar</rhyme></l>
+  <l xml:id="L157">es cierto como en la m<rhyme label="ano">ano</rhyme></l>
+  <l xml:id="L158">que viene el mucho err<rhyme label="ar">ar</rhyme></l>
+  <l xml:id="L159">y asi vienen a not<rhyme label="ar">ar</rhyme></l>
+  <l xml:id="L160">al que habla de livi<rhyme label="ano">ano</rhyme></l>
+</lg>
+
+           <lg n="17" met="10x10" rhyme="abbaacdeed">
+  <l xml:id="L161">Sey templado en el com<rhyme label="er">er</rhyme></l>
+  <l xml:id="L162">cuando la hambre lo p<rhyme label="ida">ida</rhyme></l>
+  <l xml:id="L163">moderado en el beb<rhyme label="er">er</rhyme></l>
+  <l xml:id="L164">solo lo que es menest<rhyme label="er">er</rhyme></l>
+  <l xml:id="L165">para sustentar la v<rhyme label="ida">ida</rhyme></l>
+  <l xml:id="L166">Que en el beber demas<rhyme label="iado">iado</rhyme></l>
+  <l xml:id="L167">engendra en el hombre f<rhyme label="uria">uria</rhyme></l>
+  <l xml:id="L168">y es occasione de pecc<rhyme label="ado">ado</rhyme></l>
+  <l xml:id="L169">que desque la gula a ent<rhyme label="rado">rado</rhyme></l>
+  <l xml:id="L170">tras ella va la luj<rhyme label="uria">uria</rhyme></l>
+</lg>
+
+<lg n="18" met="10x10" rhyme="abbaacdeed">
+  <l xml:id="L171">Loth si tanto no beb<rhyme label="iera">iera</rhyme></l>
+  <l xml:id="L172">y se templara en aqu<rhyme label="ello">ello</rhyme></l>
+  <l xml:id="L173">a ser ebrio no vin<rhyme label="iera">iera</rhyme></l>
+  <l xml:id="L174">ni tampoco comet<rhyme label="iera">iera</rhyme></l>
+  <l xml:id="L175">con sus hijas tal inc<rhyme label="esto">esto</rhyme></l>
+  <l xml:id="L176">Y allende de ser dañ<rhyme label="oso">oso</rhyme></l>
+  <l xml:id="L177">para el alma y la cons<rhyme label="ciencia">ciencia</rhyme></l>
+  <l xml:id="L178">para el cuerpo es pelig<rhyme label="oso">oso</rhyme></l>
+  <l xml:id="L179">que el hombre gloton gol<rhyme label="oso">oso</rhyme></l>
+  <l xml:id="L180">nunca le falta dol<rhyme label="encia">encia</rhyme></l>
+</lg>
+
+<lg n="19" met="10x10" rhyme="abbaacdeed">
+  <l xml:id="L181">Sey honesto en el vest<rhyme label="ido">ido</rhyme></l>
+  <l xml:id="L182">no superfluo ni cost<rhyme label="oso">oso</rhyme></l>
+  <l xml:id="L183">no roto ni descos<rhyme label="ido">ido</rhyme></l>
+  <l xml:id="L184">fino muy bueno y pol<rhyme label="ido">ido</rhyme></l>
+  <l xml:id="L185">pero no mucho curi<rhyme label="oso">oso</rhyme></l>
+  <l xml:id="L186">Mira hijo que enel tr<rhyme label="age">age</rhyme></l>
+  <l xml:id="L187">se conoscen los mod<rhyme label="estos">estos</rhyme></l>
+  <l xml:id="L188">pues que ves que sin ultr<rhyme label="age">age</rhyme></l>
+  <l xml:id="L189">los nobles y de lin<rhyme label="age">age</rhyme></l>
+  <l xml:id="L190">estos andan mas hon<rhyme label="estos">estos</rhyme></l>
+</lg>
+
+<lg n="20" met="10x10" rhyme="abbaacdeed">
+  <l xml:id="L191">Y si en esto me crey<rhyme label="eres">eres</rhyme></l>
+  <l xml:id="L192">hijo mira y ten cuyd<rhyme label="ado">ado</rhyme></l>
+  <l xml:id="L193">de vestir como com<rhyme label="ieres">ieres</rhyme></l>
+  <l xml:id="L194">y comer como vist<rhyme label="ieres">ieres</rhyme></l>
+  <l xml:id="L195">y todo segun tu est<rhyme label="ado">ado</rhyme></l>
+  <l xml:id="L196">Bien es que nos cont<rhyme label="emos">emos</rhyme></l>
+  <l xml:id="L197">en estos actos forz<rhyme label="osos">osos</rhyme></l>
+  <l xml:id="L198">y que los medios tom<rhyme label="emos">emos</rhyme></l>
+  <l xml:id="L199">pues subes que los est<rhyme label="remos">remos</rhyme></l>
+  <l xml:id="L200">suelen ser siempre vic<rhyme label="iosos">iosos</rhyme></l>
+</lg>
 
            
-           <lg n="20"> 
-                    <l xml:id="L191">Y si en esto me creyeres</l>
-                    <l xml:id="L192">hijo mira y ten cuydado</l>
-                    <l xml:id="L193">de vestir como comieres</l>
-                    <l xml:id="L194">y comer como vistieres</l>
-                    <l xml:id="L195">y todo segun tu estado.</l>
-                    <l xml:id="L196">Bien es que nos contentemos</l>
-                    <l xml:id="L197">en estos actos forzosos,</l>
-                    <l xml:id="L198">y que los medios tomemos</l>
-                    <l xml:id="L199">pues subes que los estremos</l>
-                    <l xml:id="L200">suelen ser siempre viciosos.</l>
-                    
-           </lg>
-           
-           <lg n="21"> 
-                <l xml:id="L201">Hijo quando te casares</l>
-                <l xml:id="L202">no procures otra cosa</l>
-                <l xml:id="L203">sino que la que buscares</l>
-                <l xml:id="L204">y que por muger tomares</l>
-                <l xml:id="L205">fea buena y virtuosa.</l>
-                <l xml:id="L206">No cures de hermosura</l>
-                <l xml:id="L207">de riquezas ni thesoros</l>
-                <l xml:id="L208">que es cosa que poco dura</l>
-                <l xml:id="L209">y a las vezes la ventura</l>
-                <l xml:id="L210">los convierte en puros lloros.</l>
-           </lg>
+           <lg n="21" met="10x10" rhyme="abbaacdeed">
+  <l xml:id="L201">Hijo quando te cas<rhyme label="ares">ares</rhyme></l>
+  <l xml:id="L202">no procures otra c<rhyme label="osa">osa</rhyme></l>
+  <l xml:id="L203">sino que la que busc<rhyme label="ares">ares</rhyme></l>
+  <l xml:id="L204">y que por muger tom<rhyme label="ares">ares</rhyme></l>
+  <l xml:id="L205">fea buena y virtu<rhyme label="osa">osa</rhyme></l>
+  <l xml:id="L206">No cures de hermos<rhyme label="ura">ura</rhyme></l>
+  <l xml:id="L207">de riquezas ni thes<rhyme label="oros">oros</rhyme></l>
+  <l xml:id="L208">que es cosa que poco d<rhyme label="ura">ura</rhyme></l>
+  <l xml:id="L209">y a las vezes la vent<rhyme label="ura">ura</rhyme></l>
+  <l xml:id="L210">los convierte en puros ll<rhyme label="oros">oros</rhyme></l>
+</lg>
 
-           <lg n="18"> 
-                    <l xml:id="L211">Debes primero elegir</l>
-                    <l xml:id="L212">por muger persona tal</l>
-                    <l xml:id="L213">y despues desto adquirir</l>
-                    <l xml:id="L214">los bienes para vivir</l>
-                    <l xml:id="L215">en esta vida mortal.</l>
-                    <l xml:id="L216">Porque mas vale bondad</l>
-                    <l xml:id="L217">que causa contentamiento</l>
-                    <l xml:id="L218">holgura y felicidad</l>
-                    <l xml:id="L219">que hermosura y beldad</l>
-                    <l xml:id="L220">y que thesoros sin cuento.</l>
-           </lg>
+<lg n="22" met="10x10" rhyme="abbaacdeed">
+  <l xml:id="L211">Debes primero el<rhyme label="egir">egir</rhyme></l>
+  <l xml:id="L212">por muger persona t<rhyme label="al">al</rhyme></l>
+  <l xml:id="L213">y despues desto adquir<rhyme label="ir">ir</rhyme></l>
+  <l xml:id="L214">los bienes para viv<rhyme label="ir">ir</rhyme></l>
+  <l xml:id="L215">en esta vida mort<rhyme label="al">al</rhyme></l>
+  <l xml:id="L216">Porque mas vale bond<rhyme label="ad">ad</rhyme></l>
+  <l xml:id="L217">que causa content<rhyme label="iento">iento</rhyme></l>
+  <l xml:id="L218">holgura y felicid<rhyme label="ad">ad</rhyme></l>
+  <l xml:id="L219">que hermosura y beld<rhyme label="ad">ad</rhyme></l>
+  <l xml:id="L220">y que thesoros sin cu<rhyme label="ento">ento</rhyme></l>
+</lg>
 
-              <lg n="19"> 
-                <l xml:id="L221">Que los bienes temporales</l>
-                <l xml:id="L222">ellos se van y se vienen</l>
-                <l xml:id="L223">mas estotros immortales</l>
-                <l xml:id="L224">para por bienes dotales</l>
-                <l xml:id="L225">muy pocos hijos lo tienen.</l>
-                <l xml:id="L226">Ten los hijos que tuvieres</l>
-                <l xml:id="L227">desde niños castigados</l>
-                <l xml:id="L228">porque sino lo hizieres</l>
-                <l xml:id="L229">no podras quando quisieres</l>
-                <l xml:id="L230">si son grandes y criados.</l>
-         </lg>
+<lg n="23" met="10x10" rhyme="abbaacdeed">
+  <l xml:id="L221">Que los bienes tempor<rhyme label="ales">ales</rhyme></l>
+  <l xml:id="L222">ellos se van y se vi<rhyme label="enen">enen</rhyme></l>
+  <l xml:id="L223">mas estotros immort<rhyme label="ales">ales</rhyme></l>
+  <l xml:id="L224">para por bienes dot<rhyme label="ales">ales</rhyme></l>
+  <l xml:id="L225">muy pocos hijos lo ti<rhyme label="enen">enen</rhyme></l>
+  <l xml:id="L226">Ten los hijos que tuv<rhyme label="ieres">ieres</rhyme></l>
+  <l xml:id="L227">desde niños castig<rhyme label="ados">ados</rhyme></l>
+  <l xml:id="L228">porque sino lo hiz<rhyme label="ieres">ieres</rhyme></l>
+  <l xml:id="L229">no podras quando quis<rhyme label="ieres">ieres</rhyme></l>
+  <l xml:id="L230">si son grandes y cri<rhyme label="ados">ados</rhyme></l>
+</lg>
 
-            <lg n="20"> 
-                <l xml:id="L231">Desde niños los doctrina</l>
-                <l xml:id="L232">y en virtudes los enseña</l>
-                <l xml:id="L233">pues vemos que muy ayna</l>
-                <l xml:id="L234">y facilmente se inclina</l>
-                <l xml:id="L235">la planta siendo pequeña.</l>
-                <l xml:id="L236">Pero despues de criada</l>
-                <l xml:id="L237">que tiene corteza dura</l>
-                <l xml:id="L238">antes la veras quebrada</l>
-                <l xml:id="L239">que consienta ser doblada</l>
-                <l xml:id="L240">con su gran cuerpo y gordura.</l>
+<lg n="24" met="10x10" rhyme="abbaacdeed">
+  <l xml:id="L231">Desde niños los doct<rhyme label="rina">rina</rhyme></l>
+  <l xml:id="L232">y en virtudes los ens<rhyme label="eña">eña</rhyme></l>
+  <l xml:id="L233">pues vemos que muy ay<rhyme label="na">na</rhyme></l>
+  <l xml:id="L234">y facilmente se incl<rhyme label="ina">ina</rhyme></l>
+  <l xml:id="L235">la planta siendo peq<rhyme label="ueña">ueña</rhyme></l>
+  <l xml:id="L236">Pero despues de cri<rhyme label="ada">ada</rhyme></l>
+  <l xml:id="L237">que tiene corteza d<rhyme label="ura">ura</rhyme></l>
+  <l xml:id="L238">antes la veras quebr<rhyme label="ada">ada</rhyme></l>
+  <l xml:id="L239">que consienta ser dob<rhyme label="lada">lada</rhyme></l>
+  <l xml:id="L240">con su gran cuerpo y gord<rhyme label="ura">ura</rhyme></l>
+</lg>
 
-            </lg>
 
-            <lg n="21"> 
-                <l xml:id="L241">No seas ensanchador</l>
-                <l xml:id="L242">de nuevas ni de menss<rhyme label="ages">ages</rhyme></l>
-                <l xml:id="L243">ni menos imitador</l>
-                <l xml:id="L244">y muy menos inventor</l>
-                <l xml:id="L245">de nuevos vsos y tr<rhyme label="ages">ages</rhyme>.</l>
-                <l xml:id="L246">Que segun la presumpcion</l>
-                <l xml:id="L247">y las locuras florescen</l>
-                <l xml:id="L248">qualquiera nueva invencion</l>
-                <l xml:id="L249">de contino es occasion</l>
-                <l xml:id="L250">donde los otros tropiecen.</l>
+            <lg n="25" met="10x10" rhyme="ababacdcde">
+    <l xml:id="L241">No seas ensanchad<rhyme label="or">or</rhyme></l>
+    <l xml:id="L242">de nuevas ni de menss<rhyme label="ages">ages</rhyme></l>
+    <l xml:id="L243">ni menos imitad<rhyme label="or">or</rhyme></l>
+    <l xml:id="L244">y muy menos invent<rhyme label="or">or</rhyme></l>
+    <l xml:id="L245">de nuevos vsos y tr<rhyme label="ages">ages</rhyme></l>
+    <l xml:id="L246">Que segun la presumpci<rhyme label="on">on</rhyme></l>
+    <l xml:id="L247">y las locuras floresc<rhyme label="en">en</rhyme></l>
+    <l xml:id="L248">qualquiera nueva invenci<rhyme label="on">on</rhyme></l>
+    <l xml:id="L249">de contino es occasi<rhyme label="on">on</rhyme></l>
+    <l xml:id="L250">donde los otros tropiec<rhyme label="en">en</rhyme></l>
+</lg>
 
-            </lg>
+<lg n="26" met="10x10" rhyme="abaabcdcde">
+    <l xml:id="L251">A la cobdicia por fr<rhyme label="eno">eno</rhyme></l>
+    <l xml:id="L252">contentate con lo tu<rhyme label="yo">yo</rhyme></l>
+    <l xml:id="L253">no cures henchir el s<rhyme label="eno">eno</rhyme></l>
+    <l xml:id="L254">de mal ganado ni ag<rhyme label="eno">eno</rhyme></l>
+    <l xml:id="L255">dale a cada uno lo su<rhyme label="yo">yo</rhyme></l>
+    <l xml:id="L256">El sudor del offici<rhyme label="al">al</rhyme></l>
+    <l xml:id="L257">en tu casa no trasnoch<rhyme label="e">e</rhyme></l>
+    <l xml:id="L258">justa cosa es que el jorn<rhyme label="al">al</rhyme></l>
+    <l xml:id="L259">al pobre y al menestr<rhyme label="al">al</rhyme></l>
+    <l xml:id="L260">se le pague sin reproch<rhyme label="e">e</rhyme></l>
+</lg>
 
-            <lg n="22"> 
-                <l xml:id="L251">A la cobdicia por freno</l>
-                <l xml:id="L252">contentate con lo tuyo</l>
-                <l xml:id="L253">no cures henchir el seno</l>
-                <l xml:id="L254">de mal ganado ni ageno</l>
-                <l xml:id="L255">dale a cada uno lo suyo.</l>
-                <l xml:id="L256">El sudor del official</l>
-                <l xml:id="L257">en tu casa no trasnoche</l>
-                <l xml:id="L258">justa cosa es que el jornal</l>
-                <l xml:id="L259">al pobre y al menestral</l>
-                <l xml:id="L260">se le pague sin reproche.</l>
+<lg n="27" met="10x10" rhyme="abbacddce">
+    <l xml:id="L261">Pues que las prosperidad<rhyme label="es">es</rhyme></l>
+    <l xml:id="L262">se dan hijo con plazenc<rhyme label="ia">ia</rhyme></l>
+    <l xml:id="L263">a grandes adversidad<rhyme label="es">es</rhyme></l>
+    <l xml:id="L264">trabajos y enfermed<rhyme label="ades">ades</rhyme></l>
+    <l xml:id="L265">procura tener pacienc<rhyme label="ia">ia</rhyme></l>
+    <l xml:id="L266">La tu lengua sin desd<rhyme label="en">en</rhyme></l>
+    <l xml:id="L267">de contino a Dios al<rhyme label="ae">ae</rhyme></l>
+    <l xml:id="L268">ten fuerte sin dar baib<rhyme label="en">en</rhyme></l>
+    <l xml:id="L269">porque a quien Dios quiere b<rhyme label="i">i</rhyme></l>
+    <l xml:id="L270">dizque la casa le sab<rhyme label="e">e</rhyme></l>
+</lg>
 
-            </lg>
 
-            <lg n="23"> 
-                <l xml:id="L261">Pues que las prosperidades</l>
-                <l xml:id="L262">se dan hijo con plazencia</l>
-                <l xml:id="L263">a grandes adversidades</l>
-                <l xml:id="L264">trabajos y enfermedades</l>
-                <l xml:id="L265">procura tener paciencia.</l>
-                <l xml:id="L266">La tu lengua sin desden</l>
-                <l xml:id="L267">de contino a Dios alae</l>
-                <l xml:id="L268">ten fuerte sin dar baiben</l>
-                <l xml:id="L269">porque a quien Dios quiere bi</l>
-                <l xml:id="L270">dizque la casa le sabe.</l>
+           <lg n="28" met="10x10" rhyme="abbabcdcde">
+    <l xml:id="L271">Y si Dios no te rellev<rhyme label="a">a</rhyme></l>
+    <l xml:id="L272">antes aca te amenaz<rhyme label="a">a</rhyme></l>
+    <l xml:id="L273">tengo tu por buena nuev<rhyme label="a">a</rhyme></l>
+    <l xml:id="L274">que Dios a los suyos prueb<rhyme label="a">a</rhyme></l>
+    <l xml:id="L275">como el oro a la fornaz<rhyme label="a">a</rhyme>.</l>
+    <l xml:id="L276">Que a loserph por ser pacient<rhyme label="e">e</rhyme></l>
+    <l xml:id="L277">aquel hijo de Jac<rhyme label="ob">ob</rhyme></l>
+    <l xml:id="L278">lo hizo Dios tan potent<rhyme label="e">e</rhyme></l>
+    <l xml:id="L279">y sobre todo ten mient<rhyme label="e">e</rhyme></l>
+    <l xml:id="L280">del pacientissimo I<rhyme label="ob">ob</rhyme>.</l>
+</lg>
 
-            </lg>
+<lg n="29" met="10x10" rhyme="abbabcdcde">
+    <l xml:id="L281">Si te lleva Dios los bien<rhyme label="es">es</rhyme></l>
+    <l xml:id="L282">los hijos y la mug<rhyme label="er">er</rhyme></l>
+    <l xml:id="L283">no te fatigues ni pen<rhyme label="as">as</rhyme></l>
+    <l xml:id="L284">pues de prestado lo tien<rhyme label="es">es</rhyme></l>
+    <l xml:id="L285">en lo tornar y volv<rhyme label="er">er</rhyme>.</l>
+    <l xml:id="L286">Que los mundanos aver<rhyme label="es">es</rhyme></l>
+    <l xml:id="L287">que a todos traen en calm<rhyme label="a">a</rhyme></l>
+    <l xml:id="L288">perpetuos no los esper<rhyme label="es">es</rhyme></l>
+    <l xml:id="L289">y si acaso los perdier<rhyme label="es">es</rhyme></l>
+    <l xml:id="L290">no pierdas tambien el alm<rhyme label="a">a</rhyme>.</l>
+</lg>
 
-            <lg n="24"> 
-                <l xml:id="L271">Y si Dios no te relleva</l>
-                <l xml:id="L272">antes aca te amenaza</l>
-                <l xml:id="L273">tengo tu por buena nueva</l>
-                <l xml:id="L274">que Dios a los suyos prueba</l>
-                <l xml:id="L275">como el oro a la fornaza.</l>
-                <l xml:id="L276">Que a loserph por ser paciente</l>
-                <l xml:id="L277">aquel hijo de Jacob</l>
-                <l xml:id="L278">lo hizo Dios tan potente</l>
-                <l xml:id="L279">y sobre todo ten miente</l>
-                <l xml:id="L280">del pacientissimo Iob.</l>
+<lg n="30" met="10x10" rhyme="abbacddce">
+    <l xml:id="L291">Del fruto de Dios te dier<rhyme label="e">e</rhyme></l>
+    <l xml:id="L292">ten hijo mucho cuydad<rhyme label="o">o</rhyme></l>
+    <l xml:id="L293">que al tiempo que se fuer<rhyme label="e">e</rhyme></l>
+    <l xml:id="L294">ayas el diezmo pagad<rhyme label="o">o</rhyme>.</l>
+    <l xml:id="L295">No la medida rayd<rhyme label="a">a</rhyme></l>
+    <l xml:id="L296">sino muy llena y colmad<rhyme label="a">a</rhyme></l>
+    <l xml:id="L297">y pues Dios te da la vid<rhyme label="a">a</rhyme></l>
+    <l xml:id="L298">y los bienes sin medid<rhyme label="a">a</rhyme></l>
+    <l xml:id="L299">no se la de tu menguad<rhyme label="a">a</rhyme>.</l>
+</lg>
 
-            </lg>
 
-            <lg n="25"> 
-                <l xml:id="L281">Si te lleva Dios los bienes</l>
-                <l xml:id="L282">los hijos y la muger</l>
-                <l xml:id="L283">no te fatigues ni penas</l>
-                <l xml:id="L284">pues de prestado lo tienes</l>
-                <l xml:id="L285">en lo tornar y volver.</l>
-                <l xml:id="L286">Que los mundanos averes</l>
-                <l xml:id="L287">que a todos traen en calma</l>
-                <l xml:id="L288">perpetuos no los esperes</l>
-                <l xml:id="L289">y si acaso los perdieres</l>
-                <l xml:id="L290">no pierdas tambien el alma.</l>
-            </lg>
+              <lg n="31" met="10x10" rhyme="abbacddce">
+    <l xml:id="L300">Deves mucho encomenda<rhyme label="r">r</rhyme></l>
+    <l xml:id="L301">todo aquello a la memori<rhyme label="a">a</rhyme></l>
+    <l xml:id="L302">procurando de lo obra<rhyme label="r">r</rhyme></l>
+    <l xml:id="L303">y este mundo sembra<rhyme label="r">r</rhyme></l>
+    <l xml:id="L304">para coger en la glori<rhyme label="a">a</rhyme>.</l>
+    <l xml:id="L305">Y esto sea quando suer<rhyme label="e">e</rhyme></l>
+    <l xml:id="L306">tener aviso te cal<rhyme label="e">e</rhyme></l>
+    <l xml:id="L307">para quando Dios quisi<rhyme label="e">e</rhyme></l>
+    <l xml:id="L308">que tu anima parti<rhyme label="e">e</rhyme></l>
+    <l xml:id="L309">deste lachrymarum vall<rhyme label="e">e</rhyme>.</l>
+    <l xml:id="L310">Laudetur Christus.</l>
+</lg>
 
-            <lg n="26"> 
-                <l xml:id="L291">Del fruto de Dios te diere</l>
-                <l xml:id="L292">ten hijo mucho cuydado</l>
-                <l xml:id="L293">que al tiempo que se fuere</l>
-                <l xml:id="L294">ayas el diezmo pagado.</l>
-                <l xml:id="L295">No la medida rayda</l>
-                <l xml:id="L296">sino muy llena y colmada</l>
-                <l xml:id="L297">y pues Dios te da la vida</l>
-                <l xml:id="L298">y los bienes sin medida</l>
-                <l xml:id="L299">no se la de tu menguada.</l>
+<lg n="32" met="10x1" rhyme="a">
+    <l xml:id="L311">Recuerde de concienci<rhyme label="a">a</rhyme>.</l> <!--Preguntar si esta bien-->
+</lg>
 
-            </lg>
+<lg n="33" met="10x10" rhyme="abbabcddce">
+    <l xml:id="L312">Que esto yo en que me fund<rhyme label="o">o</rhyme></l>
+    <l xml:id="L313">en dormir: o esstar despiert<rhyme label="o">o</rhyme></l>
+    <l xml:id="L314">si el dormir es desconciert<rhyme label="o">o</rhyme></l>
+    <l xml:id="L315">en no dormir como el mund<rhyme label="o">o</rhyme></l>
+    <l xml:id="L316">me da golpe en descubiert<rhyme label="o">o</rhyme>.</l>
+    <l xml:id="L317">Ay que mi me soy cru<rhyme label="el">el</rhyme></l>
+    <l xml:id="L318">en ver que nunca sent<rhyme label="i">i</rhyme></l>
+    <l xml:id="L319">en el mundo lo que v<rhyme label="i">i</rhyme></l>
+    <l xml:id="L320">pues por andar dentro d<rhyme label="el">el</rhyme></l>
+    <l xml:id="L321">quiero andar fuera de m<rhyme label="i">i</rhyme>.</l>
+</lg>
 
-              <lg n="27">
-                <l xml:id="L300">Deves mucho encomendar</l>
-                <l xml:id="L301">todo aquello a la memoria</l>
-                <l xml:id="L302">procurando de lo obrar</l>
-                <l xml:id="L303">y este mundo sembrar</l>
-                <l xml:id="L304">para coger en la gloria.</l>
-                <l xml:id="L305">Y esto sea quando suere</l>
-                <l xml:id="L306">tener aviso te cale</l>
-                <l xml:id="L307">para quando Dios quisiere</l>
-                <l xml:id="L308">que tu anima partiere</l>
-                <l xml:id="L309">deste lachrymarum valle.</l>
-                <l xml:id="L310">Laudetur Christus.</l>
+<lg n="34" met="10x10" rhyme="abbabcddce">
+    <l xml:id="L322">Quien soy yo: soy peccado<rhyme label="r">r</rhyme></l>
+    <l xml:id="L323">pues mi provecho no sig<rhyme label="o">o</rhyme></l>
+    <l xml:id="L324">y de suerte me persig<rhyme label="o">o</rhyme></l>
+    <l xml:id="L325">que obedezco por seño<rhyme label="r">r</rhyme></l>
+    <l xml:id="L326">a mi mayor enemig<rhyme label="o">o</rhyme>.</l>
+    <l xml:id="L327">Por mi mal es todo el bi<rhyme label="en">en</rhyme></l>
+    <l xml:id="L328">que el mundo haze sent<rhyme label="ir">ir</rhyme></l>
+    <l xml:id="L329">pues viendo a Christo dec<rhyme label="ir">ir</rhyme></l>
+    <l xml:id="L330">peccador acaba ve<rhyme label="n">n</rhyme></l>
+    <l xml:id="L331">respondio. No quiere y<rhyme label="r">r</rhyme>.</l>
+</lg>
 
-            </lg>
+            <lg n="35" met="10x10" rhyme="abbaa cdeed">
+    <l xml:id="L332">Da Dios aunque ve desiert<rhyme label="os">os</rhyme></l>
+    <l xml:id="L333">mis dias y mal gasstad<rhyme label="os">os</rhyme></l>
+    <l xml:id="L334">al perdon de mis peccad<rhyme label="os">os</rhyme></l>
+    <l xml:id="L335">un si con brazos abiert<rhyme label="os">os</rhyme></l>
+    <l xml:id="L336">yo un no a dientes cerrad<rhyme label="os">os</rhyme>.</l>
+    <l xml:id="L337">O maldad clara notori<rhyme label="a">a</rhyme></l>
+    <l xml:id="L338">o notoria falsed<rhyme label="ad">ad</rhyme></l>
+    <l xml:id="L339">que al tiempo que tu bond<rhyme label="ad">ad</rhyme></l>
+    <l xml:id="L340">me muestra y abre la glori<rhyme label="a">a</rhyme></l>
+    <l xml:id="L341">cierro yo la volunt<rhyme label="ad">ad</rhyme>.</l>
+</lg>
 
-            <lg n="28"> 
-                <l xml:id="L311">Recuerde de conciencia.</l>
-            </lg>
+<lg n="36" met="10x10" rhyme="abbaa cdeed">
+    <l xml:id="L342">A que hermano, o a que padr<rhyme label="e">e</rhyme></l>
+    <l xml:id="L343">me quejo: yo no soy y<rhyme label="o">o</rhyme></l>
+    <l xml:id="L344">si ante mi y otro n<rhyme label="o">o</rhyme></l>
+    <l xml:id="L345">me quejo de aquella madr<rhyme label="e">e</rhyme></l>
+    <l xml:id="L346">que de chico no me ahog<rhyme label="o">o</rhyme>.</l>
+    <l xml:id="L347">Y no fuera de tal art<rhyme label="e">e</rhyme></l>
+    <l xml:id="L348">qual siempre me conosci<rhyme label="i">i</rhyme></l>
+    <l xml:id="L349">pues siempre en mi mano v<rhyme label="i">i</rhyme></l>
+    <l xml:id="L350">el poder aunque soy part<rhyme label="e">e</rhyme></l>
+    <l xml:id="L351">para mi juzgar a m<rhyme label="i">i</rhyme>.</l>
+</lg>
 
-            <lg n="29"> 
-                <l xml:id="L312">Que esto yo en que me fundo</l>
-                <l xml:id="L313">en dormir: o esstar despierto</l>
-                <l xml:id="L314">si el dormir es desconcierto</l>
-                <l xml:id="L315">en no dormir como el mundo</l>
-                <l xml:id="L316">me da golpe en descubierto.</l>
-                <l xml:id="L317">Ay que mi me soy cruel</l>
-                <l xml:id="L318">en ver que nunca senti</l>
-                <l xml:id="L319">en el mundo lo que vi</l>
-                <l xml:id="L320">pues por andar dentro del</l>
-                <l xml:id="L321">quiero andar fuera de mi.</l>
 
-            </lg>
+           <lg n="37" met="10x10" rhyme="abbaa cdeed ffggh">
+    <l xml:id="L352">Cuerpo si al audiencia fu<rhyme label="er">er</rhyme>es</l>
+    <l xml:id="L353">y un te va a demand<rhyme label="ar">ar</rhyme></l>
+    <l xml:id="L354">no te puedes esus<rhyme label="ar">ar</rhyme></l>
+    <l xml:id="L355">si la deuda conocsc<rhyme label="er">er</rhyme>es</l>
+    <l xml:id="L356">de luego se la pag<rhyme label="ar">ar</rhyme>.</l>
+    <l xml:id="L357">Luego, porque no te mov<rhyme label="es">es</rhyme></l>
+    <l xml:id="L358">al señor que siempre fu<rhyme label="e">e</rhyme></l>
+    <l xml:id="L359">y te dizes hombre sin f<rhyme label="e">e</rhyme></l>
+    <l xml:id="L360">tronosce que tu me dev<rhyme label="es">es</rhyme></l>
+    <l xml:id="L361">yo mismo te paga<rhyme label="re">re</rhyme>.</l>
+    <l xml:id="L362">Y pues yo todo esto v<rhyme label="eo">eo</rhyme></l>
+    <l xml:id="L363">y lo entiendo, y aun lo s<rhyme label="e">e</rhyme></l>
+    <l xml:id="L364">porque no me aparta<rhyme label="re">re</rhyme></l>
+    <l xml:id="L365">porque: porque a mi des<rhyme label="eo">eo</rhyme></l>
+    <l xml:id="L366">le respondo. Yo lo har<rhyme label="e">e</rhyme>.</l>
+    <l xml:id="L367">Pues di quando carnem<rhyme label="ia">ia</rhyme></l>
+    <l xml:id="L368">iras por carrera ll<rhyme label="ana">ana</rhyme></l>
+    <l xml:id="L369">ya que muestra tanta gan<rhyme label="a">a</rhyme></l>
+    <l xml:id="L370">calla y de cada d<rhyme label="ia">ia</rhyme></l>
+    <l xml:id="L371">lo deja por la mañ<rhyme label="ana">ana</rhyme>.</l>
+</lg>
 
-            <lg n="30"> 
-                <l xml:id="L322">Quien soy yo: soy peccador</l>
-                <l xml:id="L323">pues mi provecho no sigo</l>
-                <l xml:id="L324">y de suerte me persigo</l>
-                <l xml:id="L325">que obedezco por señor</l>
-                <l xml:id="L326">a mi mayor enemigo.</l>
-                <l xml:id="L327">Por mi mal es todo el bien</l>
-                <l xml:id="L328">que el mundo haze sentir</l>
-                <l xml:id="L329">pues viendo a Christo dezir</l>
-                <l xml:id="L330">peccador acaba ven</l>
-                <l xml:id="L331">respondio. No quiere yr.</l>
 
-            </lg>
-
-            <lg n="31"> 
-                <l xml:id="L332">Da Dios aunque ve desiertos</l>
-                <l xml:id="L333">mis dias y mal gasstados</l>
-                <l xml:id="L334">al perdon de mis peccados</l>
-                <l xml:id="L335">un si con brazos abiertos</l>
-                <l xml:id="L336">yo un no a dientes cerrados.</l>
-                <l xml:id="L337">O maldad clara notoria</l>
-                <l xml:id="L338">o notoria falsedad</l>
-                <l xml:id="L339">que al tiempo que tu bondad</l>
-                <l xml:id="L340">me muestra y abre la gloria</l>
-                <l xml:id="L341">cierro yo la voluntad.</l>
-
-            </lg>
-
-            <lg n="32"> 
-                <l xml:id="L342">A que hermano, o a que padre</l>
-                <l xml:id="L343">me quejo: yo no soy yo</l>
-                <l xml:id="L344">si ante mi y otro no</l>
-                <l xml:id="L345">me quejo de aquella madre</l>
-                <l xml:id="L346">que de chico no me ahogo.</l>
-                <l xml:id="L347">Y no fuera de tal arte</l>
-                <l xml:id="L348">qual siempre me conosci</l>
-                <l xml:id="L349">pues siempre en mi mano vi</l>
-                <l xml:id="L350">el poder aunque soy parte</l>
-                <l xml:id="L351">para mi juzgar a mi.</l>
-
-            </lg>
-
-            <lg n="33"> 
-            <l xml:id="L352">Cuerpo si al audiencia fueres</l>
-            <l xml:id="L353">y un te va a demandar</l>
-            <l xml:id="L354">no te puedes esusar</l>
-            <l xml:id="L355">si la deuda conocscieres</l>
-            <l xml:id="L356">de luego se la pagar.</l>
-            <l xml:id="L357">Luego, porque no te mueves</l>
-            <l xml:id="L358">al señor que siempre fue</l>
-            <l xml:id="L359">y te dizes hombre sin fe</l>
-            <l xml:id="L360">tronosce que tu me deves</l>
-            <l xml:id="L361">yo mismo te pagare.</l>
-            <l xml:id="L362">Y pues yo todo esto veo</l>
-            <l xml:id="L363">y lo entiendo, y aun lo se</l>
-            <l xml:id="L364">porque no me apartare</l>
-            <l xml:id="L365">porque: porque a mi deseo</l>
-            <l xml:id="L366">le respondo. Yo lo hare.</l>
-            <l xml:id="L367">Pues di quando carnemia</l>
-            <l xml:id="L368">iras por carrera llana</l>
-            <l xml:id="L369">ya que muestra tanta gana</l>
-            <l xml:id="L370">calla y de cada dia</l>
-            <l xml:id="L371">lo deja por la mañana.</l>
-
-         </lg>
-
-          <lg n="34"> 
+          <lg n="38"> 
             <l xml:id="L372">Mira carne que oy no sabes</l>
             <l xml:id="L373">si mañana llegaras</l>
             <l xml:id="L374">sal del peccado en que estas</l>
@@ -574,7 +564,7 @@
 
         </lg>
 
-         <lg n="35"> 
+         <lg n="39"> 
             <l xml:id="L382">Peccador pues ves muriendo</l>
             <l xml:id="L383">a Christo en Cruz con lanza</l>
             <l xml:id="L384">y su sangre derramada</l>
@@ -588,7 +578,7 @@
 
         </lg>
 
-        <lg n="36"> 
+        <lg n="40"> 
             <l xml:id="L392">Pues que quieres peccador</l>
             <l xml:id="L393">sabes que querria yo</l>
             <l xml:id="L394">subir do Christo subio</l>
@@ -602,7 +592,7 @@
 
         </lg>
 
-        <lg n="37"> 
+        <lg n="41"> 
             <l xml:id="L402">Que quieres tu mas de Dios</l>
             <l xml:id="L403">que dezir Mira Chrisstiano</l>
             <l xml:id="L404">ves aqui un camino llano,</l>
@@ -616,7 +606,7 @@
 
         </lg>
 
-        <lg n="38"> 
+        <lg n="42"> 
             <l xml:id="L412">Haz tu como un perro hara</l>
             <l xml:id="L413">quando cazando se halla</l>
             <l xml:id="L414">que calla si el amo calla</l>

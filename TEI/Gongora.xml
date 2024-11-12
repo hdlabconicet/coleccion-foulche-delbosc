@@ -45,7 +45,7 @@
  <head>Sonetos Heroicos</head>
  <div type="poem"> 
            <head type="subtitulo">Sonetto 1</head>
-           <p>A Don <persName key="bacan">Alvaro Baçan</persName>, primer Marques de Santa Cruz</p>
+           <p>A Don <persName xml:id="bacan">Alvaro Baçan</persName>, primer Marques de Santa Cruz</p>
                  <lg n="1" met="4x11" rhyme="ABBA">
                     <l xml:id="L1">No en bronces, que caducan, mortal m<rhyme label="ano">áno</rhyme>,</l> 
                     <l xml:id="L2">Ò Cathólico sol de los Baç<rhyme label="anes">anes</rhyme>,</l>
@@ -58,12 +58,12 @@
                     <l xml:id="L7">I los bien reportados tafet<rhyme label="anes">anes</rhyme></l> 
                     <l xml:id="L8">De el Turco, de el Inglés, de el Lusit<rhyme label="ano">ano</rhyme>.</l>
             </lg>
-                 <lg n="3" met="3x11" rhyme="CDE">
+                 <lg n="3" met="3x11" rhyme="CDECED">
                     <l xml:id="L9">El un mar, de tus velas coron<rhyme label="ado">ado</rhyme>,</l> 
                     <l xml:id="L10">De tus remos, el otro encanec<rhyme label="ido">ido</rhyme></l> 
                     <l xml:id="L11">Tablas serán de cosas tan estr<rhyme label="añas">añas</rhyme>.</l> 
             </lg>
-                 <lg n="4" met="3x11" rhyme="CED"> 
+                 <lg n="4"> 
                     <l xml:id="L12">De la immortalidad, el no cans<rhyme label="ado">ado</rhyme></l>
                     <l xml:id="L13">Pinzel las lógre: i sean tus haç<rhyme label="añas">añas</rhyme></l>
                     <l xml:id="L14">Alma de el tiempo, <note xml:id="gongora2">escolta</note> de el olv<rhyme label="ido">ido</rhyme>.</l>
@@ -72,7 +72,7 @@
 <pb n="2"/>
       <div type="poem"> 
            <head type="subtitulo">Sonetto 2</head>
-           <p>A <persName key="mora">Don Christoval de Mora</persName>, Marques de Castel Rodrigo</p>
+           <p>A <persName xml:id="mora">Don Christoval de Mora</persName>, Marques de Castel Rodrigo</p>
                  <lg n="1" met="4x11" rhyme="ABBA">
                     <l xml:id="L15">Arbol, de cuios ramos fortun<rhyme label="ados">ados</rhyme></l> 
                     <l xml:id="L16">Las nobles Moras son Quinas Re<rhyme label="ales">àles</rhyme>,</l> 
