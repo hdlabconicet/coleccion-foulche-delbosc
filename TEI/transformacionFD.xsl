@@ -50,8 +50,8 @@
 
  <xsl:template match="//lg">
         <div class="estrofa">
-        <p class="info"><xsl:value-of select="concat('Esquema métrico: ', @met)"/></p>
-        <p class="info"><xsl:value-of select="concat('Esquema rimático: ', @rhyme)"/></p>
+        <!-- <p class="info"><xsl:value-of select="concat('Esquema métrico: ', @met)"/></p>
+        <p class="info"><xsl:value-of select="concat('Esquema rimático: ', @rhyme)"/></p> -->
             <xsl:apply-templates/>
         </div>
     </xsl:template>   
@@ -62,7 +62,7 @@
         </p>
     </xsl:template>
 
-        <xsl:template match="//l[@type='estribillo']">
+        <xsl:template match="//l[@rendition='estribillo']">
         <p class="estribillo">
             <xsl:apply-templates/>
         </p>
