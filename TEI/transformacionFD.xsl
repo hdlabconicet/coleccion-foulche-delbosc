@@ -56,8 +56,14 @@
         </div>
     </xsl:template>   
    
-    <xsl:template match="//lg//l">
+    <xsl:template match="//l">
         <p class="verso">
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+
+        <xsl:template match="//l[@type='estribillo']">
+        <p class="estribillo">
             <xsl:apply-templates/>
         </p>
     </xsl:template>

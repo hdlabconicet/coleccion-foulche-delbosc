@@ -49,7 +49,7 @@
 
     <text>    <!-- Texto codificado -->
         <body>    
-            <pb n="66r"></pb>
+            <note xml:id="cartas0n0"><pb n="66r"></pb></note>
                 <p>Carta Moral e Instructiva de Don Francisco de Quevedo. Escrita desde <placeName key="san_marcos">San Marcos de León</placeName> a un Amigo suyo. Pintandole por horas su prision y la vida que ella pasa</p>
             <note xml:id="cartas0n1"><pb n="66v"></pb></note>
             <pb n="67r"></pb> 
