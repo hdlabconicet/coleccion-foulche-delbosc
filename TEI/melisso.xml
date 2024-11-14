@@ -101,8 +101,8 @@ Guzman.
 
 <!--folio 6r -->
 <pb n="6r"/>
-<l>si no me engaño, s<rhyme label="eñas">eñas</rhyme></l> 
-<l>de luz veo en aquellas altas p<rhyme label="eñas">eñas</rhyme>,:</l>
+<l>si no me engaño, <note xml:id="melisson5" resp="editor">s<rhyme label="eñas">eñas</rhyme></note></l> 
+<l>de luz veo en aquellas altas <note xml:id="melisson4" resp="editor">p<rhyme label="eñas">eñas</rhyme></note>,:</l>
 <l>luz de alguna cav<rhyme label="aña">aña</rhyme>,</l>
 <l>de pastores, que alberga esta mon- <lb/>t<rhyme label="aña">aña</rhyme>,</l>
 
@@ -183,7 +183,7 @@ Guzman.
 <l>Demonio me parece en forma de h<rhyme label="ombre">ombre</rhyme>!</l>
 <l>Como en saberlo t<rhyme label="ardo">ardo</rhyme>?</l>
 <l>Mas si es éste <persName key="melisso">Melisso</persName>?, y de el agu<rhyme label="ardo">ardo</rhyme></l>
-<l>el mas cumplido aviso en mi priv<rhyme label="anza">anza</rhyme></l>
+<l>el mas cumplido aviso en mi <note xml:id="melisson6" resp="editor">priv<rhyme label="anza">anza</rhyme></note></l>
 <l>para reinar en ella sin mud<rhyme label="anza">anza</rhyme>?</l>
 <l>Padre, mal inform<rhyme label="ado">ado</rhyme></l>
 <l>le veo de mi nombre, y de mi est<rhyme label="ado">ado</rhyme>.</l>
@@ -253,13 +253,13 @@ Guzman.
 </sp>
 <sp who="melisso"><speaker>M:</speaker>
 <lg>
-<l><persName key="gaspar"><abbr>D<expan>o</expan>n</abbr>Gaspar</persName>, presto esp<rhyme label="ero">ero</rhyme></l>
+<l><persName key="gaspar"><abbr>D<expan>o</expan>n</abbr> Gaspar</persName>, presto esp<rhyme label="ero">ero</rhyme></l>
 <l>que has de ser de tu casa el hered<rhyme label="ero">ero</rhyme></l>
 <l>y luego levant<rhyme label="ado">ado</rhyme></l>
 <l>a suerte mas dichosa <del rend="overstrike">que el</del> <add place="left">aquel</add> cond<rhyme label="ado">ado</rhyme></l>
 <l><del rend="underlined">que el</del> <add place="left">del</add> principe venc<rhyme label="idos">idos</rhyme></l>
 <l>de tu trato y razones los sent<rhyme label="idos">idos</rhyme></l>
-<l>te hará de su alma du<rhyme label="eño">eño</rhyme><note xml:id="melisson3" resp="mano1">(3)</note></l>
+<l>te hará de su alma du<rhyme label="eño">eño</rhyme> <note xml:id="melisson3" resp="mano1">(3)</note></l>
 <l>y con sus gustos crecerá el emp<rhyme label="eño">eño</rhyme></l>
 <l>siendo de tal man<rhyme label="era">era</rhyme></l>
 <l>que á su padre y hermana te prefi<rhyme label="era">era</rhyme></l>
@@ -269,15 +269,15 @@ Guzman.
 
 <!-- folio 9v-->
 <pb n="9v"/>
-<l>muertro su caro p<rhyme label="adre">adre</rhyme>,</l>
+<l>Muerto su caro p<rhyme label="adre">adre</rhyme>,</l>
 <l>no hallará otro <del rend="underlined">maestro</del> <add place="left">Ministro</add> que le<lb/> qu<rhyme label="adre">adre</rhyme>,</l>
 <l>y por la simpat<rhyme label="ia">ia</rhyme></l>
 <l>te entregará su propia monarqu<rhyme label="ia">ia</rhyme>:</l>
 <l>tu en este caso empi<rhyme label="eza">eza</rhyme></l>
 <l>a asegurarte a fuerza de destr<rhyme label="eza">eza</rhyme>,</l>
 <l>y procura con m<rhyme label="aña">aña</rhyme></l>
-<l>que su restaurador te <del rend="underlined">llame</del> <add place="left">juzgue</add> <placeName key="españa">Esp<rhyme label="aña">aña</rhyme></placeName></l>
-<l>blasonando del z<rhyme label="elo">elo</rhyme></l>
+<l><note xml:id="melisson7" resp="editor">que su restaurador te <del rend="underlined">llame</del> <add place="left">juzgue</add> <placeName key="españa">Esp<rhyme label="aña">aña</rhyme></placeName></note></l>
+<l><note xml:id="melisson8" resp="editor">blasonando del z<rhyme label="elo">elo</rhyme></note></l>
 <l>conque busca su alivio tu desv<rhyme label="elo">elo</rhyme>,</l>
 <l>y ofrece tu pers<rhyme label="ona">ona</rhyme></l>
 <l>al beneficio de <del rend="underlined">la</del> <add place="left">su</add> Real cor<rhyme label="ona">ona</rhyme></l>
