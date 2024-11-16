@@ -32,14 +32,6 @@ especialistas de nuestro país. Posteriormente, se realizaron algunas digitaliza
 materiales del fondo. El seminario apunta entonces a recuperar críticamente estos procesos de
 descripción, valoración y gestión, así como trazar nuevos recorridos posibles en relación al conocimiento
 de esta colección bibliográfica y su difusión en el siglo XXI.</p>
-<p class="prosa">La metodología de trabajo que se propone en este seminario se basa en el enfoque pedagógico del
-aprendizaje por la práctica, “aprender haciendo” (learning by doing), a partir del cual se desarrollan
-competencias y habilidades vinculadas a las experiencias que permiten poner en práctica los
-conocimientos adquiridos teóricamente en las distintas carreras. Los procesos de enseñanza y aprendizaje
-se desarrollan tanto desde saberes en contextos específicos como basados en la observación, la reflexión
-metacognitiva y la conceptualización, que configuran así un terreno fértil para la puesta en acto de los
-estudios universitarios en un entorno concreto. La perspectiva multidisciplinar de este seminario apunta
-a emular equipos de trabajo e investigación que intervienen en la descripción, valoración y gestión de
-bienes culturales custodiados por una institución pública nacional.</p>
+¿
 
 
