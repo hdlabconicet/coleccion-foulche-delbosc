@@ -32,6 +32,6 @@ especialistas de nuestro país. Posteriormente, se realizaron algunas digitaliza
 materiales del fondo. El seminario apunta entonces a recuperar críticamente estos procesos de
 descripción, valoración y gestión, así como trazar nuevos recorridos posibles en relación al conocimiento
 de esta colección bibliográfica y su difusión en el siglo XXI.</p>
-¿
+
 
 
