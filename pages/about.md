@@ -29,9 +29,10 @@ de Cooperación Internacional para el Desarrollo (AECID), a cargo del Dr. Franci
 (Universidad Autónoma de Madrid). Estos procesos permitieron la elaboración de un catálogo
 electrónico, aunque parcial, de obras presentes en la colección. En este último proyecto colaboraron
 especialistas de nuestro país. Posteriormente, se realizaron algunas digitalizaciones de algunos de los
-materiales del fondo. El seminario apunta entonces a recuperar críticamente estos procesos de
+materiales del fondo. El seminario de Prácticas Socioeducativas Territorializadas <i>La colección Foulché-Delbosc, de la Historia del libro a las Humanidades Digitales</i>, que se dictó en la Escuela Nacional de Bibliotecarios de la BNMM desde el 15 de agosto al 21 de noviembre de 2024, apunta entonces a recuperar críticamente estos procesos de
 descripción, valoración y gestión, así como trazar nuevos recorridos posibles en relación al conocimiento
 de esta colección bibliográfica y su difusión en el siglo XXI.</p>
+<p>Programa completo del seminario <a href="https://artes.filo.uba.ar/sites/carreras.filo.uba.ar/files/2024-07/%5BPST%5D%20La%20coleccio%CC%81n%20Foulche%CC%81-Delbosc%2C%20de%20la%20historia%20del%20libro%20y%20la%20edicio%CC%81n%20a%20las%20humanidades%20digitales%20-%202024.pdf">aqui</a></p>
 
 
 
