@@ -132,7 +132,7 @@
 
         <xsl:template match="//head">
         <h4> 
-            -<xsl:apply-templates/>
+            <xsl:apply-templates/>
         </h4>
     </xsl:template>
 

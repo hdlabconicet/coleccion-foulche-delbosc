@@ -128,8 +128,7 @@ anotación de textos: Actas del I Congreso de Jóvenes Filólogos (A Coruña, 25
 
 ## Grupo 3
 
-
-**Edición XML-TEI de Viva el Gran Re Don Fernando**
+**Viva el Gran Re Don Fernando**
 
 **Integrantes:**<br/>
 *Tignanelli, Isabella*<br/>
@@ -192,7 +191,7 @@ República Argentina», en Filologia dei Texesti a Stampa (Area Iberica), ed. Pa
 Módena, Mucchi Editore, pp. 215-228.
 
 Massa, Pablo (2023), «Viua el gran Re Don Fernando (Historia Baetica, Carlo Verardi,
-Roma, 1493) o de la pragmática de la música impresa», en Revista de Cancioneros
+Roma, 1493) o de la pragmática de la música impresa», en Revista de Cancioneros.
 
 ## Grupo 4
 
