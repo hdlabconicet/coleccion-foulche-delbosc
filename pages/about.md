@@ -36,8 +36,7 @@ Programa completo del seminario <a href="https://artes.filo.uba.ar/sites/carrera
 
 ## Grupo 1
 
-**PROYECTO PARA EL SEMINARIO PST DE LA COLECCIÓN FOULCHÉ-DELBOSC,
-DE LA HISTORIA DEL LIBRO Y LA EDICIÓN DE LAS HUMANIDADES DIGITALES**
+**Cuaderno de varias poesías**
 
 **Integrantes:**<br/>
 *Aranda Iara*<br/>
