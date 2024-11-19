@@ -255,9 +255,7 @@ Revisión y control de calidad: Gabriela Santos Lopes Alencar se encargó de la 
 
 ## Grupo 5
 
-**Informe del proyecto realizado por el grupo 5 para el seminario-PST La
-colección Foulché-Delbosc, de la historia del libro y la edición a las
-humanidades digitales**
+**Carta moral e instructiva de Don Francisco de Quevedo. Escrita desde San Marcos de León a un amigo suyo. Pintándole por horas su prisión y la vida que ella pasa**
 
 **Integrantes:**<br/>
 *Martha Faiad*<br/>
@@ -281,7 +279,7 @@ lugares como Nápoles y, por supuesto, en San Marcos de León, donde fue encarce
 razones políticas.
 
 La copia material sobre la que trabajamos se encuentra en la sala del tesoro de la Biblioteca
-Nacional Mariano Moreno. Tras la subasta de Foulché Delbosc, se le colocó el número
+Nacional Mariano Moreno. Tras la subasta de la colección de Foulché Delbosc, se le colocó el número
 topográfico 269 FD. No fue hasta su redescubrimiento que se le asignó el número de
 inventario 000945 y número de sistema 000911144.
 

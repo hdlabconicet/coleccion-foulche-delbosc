@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://gabrielcalarco.github.io
+url: https://hdlab.space
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /coleccion-foulche-delbosc
 # location of code, the full url to your github repository
@@ -27,7 +27,7 @@ description: "Ediciones diplomáticas digitales desarrolladas por los grupos del
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: colecciones; ediciones; Foulché-Delbosc
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Gabriel Calarco
+# author:
 
 ##########
 # COLLECTION SETTINGS

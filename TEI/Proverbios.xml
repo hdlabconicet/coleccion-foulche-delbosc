@@ -539,7 +539,7 @@
 </lg>
 
 
-           <lg n="37" met="20x8" rhyme="abbabcddcefgefghiihi">
+           <lg n="37" met="10x8" rhyme="abbabcddce">
     <l xml:id="L352">Cuerpo si al audiencia fu<rhyme label="er">eres</rhyme></l>
     <l xml:id="L353">y un te va a demand<rhyme label="ar">ar</rhyme></l>
     <l xml:id="L354">no te puedes esus<rhyme label="ar">ar</rhyme></l>
@@ -550,11 +550,14 @@
     <l xml:id="L359">y te dizes hombre sin f<rhyme label="e">e</rhyme></l>
     <l xml:id="L360">tronosce que tu me dev<rhyme label="es">es</rhyme></l>
     <l xml:id="L361">yo mismo te pag<rhyme label="are">are</rhyme>.</l>
+    </lg>
+
+    <lg n="38" met="10x8" rhyme="abcacdeede">
     <l xml:id="L362">Y pues yo todo esto v<rhyme label="eo">eo</rhyme></l>
     <l xml:id="L363">y lo entiendo, y aun lo s<rhyme label="e">e</rhyme></l>
     <l xml:id="L364">porque no me apart<rhyme label="are">are</rhyme></l>
     <l xml:id="L365">porque: porque a mi des<rhyme label="eo">eo</rhyme></l>
-    <l xml:id="L366">le respondo. Yo lo har<rhyme label="e">e</rhyme>.</l>
+    <l xml:id="L366">le respondo. Yo lo h<rhyme label="are">are</rhyme>.</l>
     <l xml:id="L367">Pues di quando carnem<rhyme label="ia">ía</rhyme></l>
     <l xml:id="L368">iras por carrera ll<rhyme label="ana">ana</rhyme></l>
     <l xml:id="L369">ya que muestra tanta g<rhyme label="ana">ana</rhyme></l>
@@ -563,7 +566,7 @@
 </lg>
 
         
-        <lg n="38" met="10x8" rhyme="abbabcddcd"> 
+        <lg n="39" met="10x8" rhyme="abbabcddcd"> 
     <l xml:id="L372">Mira carne que oy no sab<rhyme label="es">es</rhyme></l>
     <l xml:id="L373">si mañana llegar<rhyme label="as">as</rhyme></l>
     <l xml:id="L374">sal del peccado en que est<rhyme label="as">as</rhyme></l>
@@ -591,7 +594,7 @@
 </lg>
 
 
-        <lg n="40" met="10x8" rhyme="acacdeede"> 
+        <lg n="41" met="10x8" rhyme="acacdeede"> 
     <l xml:id="L392">Pues que quieres peccad<rhyme label="or">or</rhyme></l>
     <l xml:id="L393">sabes que querria yo</l>
     <pb n="7"/>
@@ -606,7 +609,7 @@
 </lg>
 
 
-        <lg n="41" met="10x8" rhyme="abbabcddcd"> 
+        <lg n="42" met="10x8" rhyme="abbabcddcd"> 
     <l xml:id="L402">Que quieres tu mas de Di<rhyme label="os">os</rhyme></l>
     <l xml:id="L403">que dezir Mira <note xml:id="proverbiosn6">Christi<rhyme label="ano">ano</rhyme></note></l>
     <l xml:id="L404">ves aqui un camino ll<rhyme label="ano">ano</rhyme>,</l>
@@ -620,7 +623,7 @@
 </lg>
 
 
-        <lg n="42" met="10x8" rhyme="abbabcddcd">
+        <lg n="43" met="10x8" rhyme="abbabcddcd">
     <l xml:id="L412">Haz tu como un perro har<rhyme label="a">a</rhyme></l>
     <l xml:id="L413">quando caçando se h<rhyme label="alla">alla</rhyme></l>
     <l xml:id="L414">que calla si el amo c<rhyme label="alla">alla</rhyme></l>
