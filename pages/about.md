@@ -59,8 +59,7 @@ Cabe destacar la contribución de Iara Aranda por su trabajo al deducir e instru
 
 ## Grupo 2
 
-**Del Manuscrito a la Edición Digital: edición XML-TEI de La Cueva de
-Melisso en la Colección Foulché-Delbosc**
+**La Cueva de Melisso**
 
 **Integrantes:**<br/>
 *Azul Catriman*<br/>
@@ -122,7 +121,7 @@ Camila Salazar: Transcripción y etiquetado XML-TEI de los folios 8r y 8v.<br/>
 Equipo completo: Corrección cruzada del etiquetado y la transcripción de todos los folios.
 
 --------------------
-1 Vega Madroñero, M. de la F. (1998). Problemas en la edición de sátiras políticas en verso. En A. Chas Aguión,
+(1) Vega Madroñero, M. de la F. (1998). Problemas en la edición de sátiras políticas en verso. En A. Chas Aguión,
 M. Pampín Barral, N. Pena Sueiro, B. Campos, C. Parrilla García, & M. Campos Souto (Coords.), Edición y
 anotación de textos: Actas del I Congreso de Jóvenes Filólogos (A Coruña, 25-28 de septiembre de 1996) (Vol.
 2, pp. 731–739). A Coruña: Servicio de Publicacións da Universidade da Coruña.
