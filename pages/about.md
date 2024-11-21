@@ -44,7 +44,7 @@ Programa completo del seminario <a href="https://artes.filo.uba.ar/sites/carrera
 *Reynoso, Nicole*<br/>
 *Rodríguez, Milagros*<br/>
 
-En el transcurso de este cuatrimestre, en el seminario se trabajó sobre la edición y digitalización XML-TEI de un manuscrito del autor Luis de Góngora, titulado Cuaderno de varias poesías. Este manuscrito, que contiene una amplia variedad de sonetos, canciones, tercetos, decimas, quitillas y redondillas, pertenece al siglo XVII y cuenta con 130 hojas en excelente estado de conservación. Esta precedido por un índice detallado de las obras que lo componen y presenta una encuadernación hecha en piel marrón, con puntilla interior y cortes dorados realizados por René Kieffer.
+En el transcurso de este cuatrimestre, en el seminario se trabajó sobre la edición y digitalización XML-TEI de un manuscrito del autor Luis de Góngora, titulado *Cuaderno de varias poesías*. Este manuscrito, que contiene una amplia variedad de sonetos, canciones, tercetos, decimas, quitillas y redondillas, pertenece al siglo XVII y cuenta con 130 hojas en excelente estado de conservación. Esta precedido por un índice detallado de las obras que lo componen y presenta una encuadernación hecha en piel marrón, con puntilla interior y cortes dorados realizados por René Kieffer.
 Luis de Góngora, considerado el poeta más original e influyente del Siglo de Oro español, rompió con los moldes establecidos e inauguró un lenguaje innovador cuya virtualidad, aún insuperable, sigue marcando rumbos en la poesía contemporánea. Las investigaciones realizadas durante el seminario revelaron que algunos textos parecen ser sátiras, ingeniosas y humorísticas, dirigida a Francisco de Quevedo, con quien Góngora mantuvo una conocida rivalidad literaria. En dichos textos se observa el uso de la ironía y el juego de palabras, elementos característicos de la literatura barroca, que destacan tanto la agudeza crítica de Góngora como su habilidad para ridiculizar a su adversario.
 Aunque el material se encuentra en formato digital y microfilme, accesible para cualquier interesado a través de la web, la copia física encuentra en la Sala del Tesoro de la Biblioteca Nacional Mariano Moreno, como parte de la Colección Foulché-Delbosc, catalogada bajo el identificador 262 FD (N° de inventario 00000912). Originalmente, este ejemplar fue subastado en la categoría ‘Manuscritos’ como lote N°1515.
 
@@ -66,8 +66,8 @@ Cabe destacar la contribución de Iara Aranda por su trabajo al deducir e instru
 *Rocío Luciana Méndez*<br/>
 *Camila Salazar*<br/>
 
-Este trabajo presenta una edición digital XML-TEI del manuscrito titulado La Cueva de
-Melisso. Apología póstuma contra el tarquino español Conde Duque de Olivares, Don
+Este trabajo presenta una edición digital XML-TEI del manuscrito titulado *La Cueva de
+Melisso*. Apología póstuma contra el tarquino español Conde Duque de Olivares, Don
 Gaspar de Guzmán, atribuido tradicionalmente a Don Francisco de Quevedo y Villegas.
 La edición se llevó a cabo como parte del Seminario PTS: La Colección Foulché-Delbosc,
 de la historia del libro y la edición a las Humanidades Digitales.
@@ -121,8 +121,8 @@ Equipo completo: Corrección cruzada del etiquetado y la transcripción de todos
 
 --------------------
 (1) Vega Madroñero, M. de la F. (1998). Problemas en la edición de sátiras políticas en verso. En A. Chas Aguión,
-M. Pampín Barral, N. Pena Sueiro, B. Campos, C. Parrilla García, & M. Campos Souto (Coords.), Edición y
-anotación de textos: Actas del I Congreso de Jóvenes Filólogos (A Coruña, 25-28 de septiembre de 1996) (Vol.
+M. Pampín Barral, N. Pena Sueiro, B. Campos, C. Parrilla García, & M. Campos Souto (Coords.), *Edición y
+anotación de textos: Actas del I Congreso de Jóvenes Filólogos (A Coruña, 25-28 de septiembre de 1996)* (Vol.
 2, pp. 731–739). A Coruña: Servicio de Publicacións da Universidade da Coruña.
 
 ## Grupo 3
@@ -135,10 +135,10 @@ anotación de textos: Actas del I Congreso de Jóvenes Filólogos (A Coruña, 25
 *Erramouspe, Facundo*<br/>
 
 En el marco del seminario La colección Foulché-Delbosc, de la historia del libro y la edición
-a las humanidades digitales, seleccionamos la canción anónima Viva el Gran Re Don
-Fernando para realizar una edición digital a través del lenguaje de marcado XML-TEI.
+a las humanidades digitales, seleccionamos la canción anónima *Viva el Gran Re Don
+Fernando* para realizar una edición digital a través del lenguaje de marcado XML-TEI.
 Tanto la letra como la partitura de la canción está incluida en los últimos folios
-(39r-39v-40r-40v) de la primera edición de la Historia Baetica de Carlo Verardi, incunable
+(39r-39v-40r-40v) de la primera edición de la *Historia Baetica* de Carlo Verardi, incunable
 impreso en Roma por Eucharius Silber el 7 de marzo de 1493. Las investigaciones de
 especialistas como Marcos Marín (2005) y Massa (2023), consideran que la canción
 presente en esta edición es la primera impresión en la historia de una pieza polifónica
@@ -152,7 +152,7 @@ dicha institución, bajo la ficha FD 176 (número de inventario 00008268 y núme
 001115738), y además está disponible en microfilme y formato digital.
 
 Carlo Verardi (1440-1500) fue archidiácono de Cesena y secretario apostólico del papado.
-Su única obra, Historia Baetica, es un drama en latín acerca de la expulsión de los
+Su única obra, *Historia Baetica*, es un drama en latín acerca de la expulsión de los
 musulmanes de Granada en 1492 que celebra la victoria de los Reyes Católicos. Viva el
 Gran Re Don Fernando comparte la misma temática, sin embargo, sus versos están en
 italiano y en posteriores ediciones del drama la pieza no fue incluida (Massa, 2023). La
@@ -186,11 +186,11 @@ dedicación a la parte de los detalles editoriales que se asociaban a la obra y 
 **Bibliografía**<br/>
 
 Marcos Marín, Francisco (2005), «El Incunable FD 176 de la Biblioteca Nacional de la
-República Argentina», en Filologia dei Texesti a Stampa (Area Iberica), ed. Patrizia Botta,
+República Argentina», en *Filologia dei Texesti a Stampa* (Area Iberica), ed. Patrizia Botta,
 Módena, Mucchi Editore, pp. 215-228.
 
-Massa, Pablo (2023), «Viua el gran Re Don Fernando (Historia Baetica, Carlo Verardi,
-Roma, 1493) o de la pragmática de la música impresa», en Revista de Cancioneros.
+Massa, Pablo (2023), «Viua el gran Re Don Fernando (*Historia Baetica*, Carlo Verardi,
+Roma, 1493) o de la pragmática de la música impresa», en ¨*Revista de Cancioneros*.
 
 ## Grupo 4
 
@@ -204,10 +204,10 @@ Roma, 1493) o de la pragmática de la música impresa», en Revista de Cancioner
 
 Nacido en Toledo a comienzos del siglo XVI, Sebastián de Horozco fue un escritor del
 denominado Siglo de Oro español. Reconocido por su repertorio paremiológico, es autor de
-obras tales como Cancionero de Sebastián de Horozco, El libro de los proverbios glosados,
-Teatro universal de proverbios y Prouerbios y cōsejos que qualquier padre deue dar a su hijo.
-Se le atribuye, además, una gran cantidad de obras entre las que se encuentra El Lazarillo de
-Tormes. Se recibió de licenciado en Derecho en 1534 en la Universidad de Salamanca y ejerció
+obras tales como Cancionero de Sebastián de Horozco, *El libro de los proverbios glosados*,
+*Teatro universal de proverbios* y *Prouerbios y cōsejos que qualquier padre deue dar a su hijo*.
+Se le atribuye, además, una gran cantidad de obras entre las que se encuentra *El Lazarillo de
+Tormes*. Se recibió de licenciado en Derecho en 1534 en la Universidad de Salamanca y ejerció
 como abogado los cargos de consultor de la Santa Hermandad, del Santo Oficio y del
 Ayuntamiento de Toledo.
 
@@ -261,7 +261,7 @@ Revisión y control de calidad: Gabriela Santos Lopes Alencar se encargó de la 
 *Tomás Paolini*<br/>
 *Pedro Serrano*<br/>
 
-Durante el seminario, trabajamos en la Carta moral e instructiva de don Francisco de
+Durante el seminario, trabajamos en la *Carta moral e instructiva* de don Francisco de
 Quevedo a su amigo, escrita desde la cárcel de San Marcos de León. Este manuscrito es
 parte de la correspondencia que Quevedo mantuvo durante su encarcelamiento. Elegimos
 este texto porque contaba con un proceso previo de digitalización, y por la legibilidad de la
@@ -270,7 +270,7 @@ caligrafía.
 Don Francisco de Quevedo y Villegas, el autor de la carta, fue un escritor del Siglo de Oro
 español, nacido en 1580 y fallecido en 1645. Quevedo es conocido por su estilo mordaz y
 su capacidad para abordar temas filosóficos y satíricos. Entre sus obras más famosas se
-encuentran La vida del Buscón llamado Don Pablos, Los sueños y una amplia colección de
+encuentran *La vida del Buscón llamado Don Pablos*, *Los sueños* y una amplia colección de
 poesía y epigramas. Vivió principalmente en Madrid, aunque también pasó tiempo en otros
 lugares como Nápoles y, por supuesto, en San Marcos de León, donde fue encarcelado por
 razones políticas.
@@ -299,4 +299,4 @@ cargo de Pedro Serrano. La creación del XML-TEI fue realizada por todo el grupo
 dependiendo de quién tenía la computadora.
 
 Este esfuerzo conjunto permitió ejecutar la digitalización y edición de un documento
-histórico tan valioso como la Carta moral e instructiva de Quevedo.
+histórico tan valioso como la *Carta moral e instructiva* de Quevedo.
