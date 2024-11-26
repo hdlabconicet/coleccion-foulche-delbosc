@@ -9,4 +9,4 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Lugares
 
-Encuentra los documentos según el lugar desde el que fueron enviados.
+Encuentra los documentos según el lugar de impresión del libro.
