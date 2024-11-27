@@ -14,7 +14,7 @@ credits: true
 
 ## Sobre el seminario
 
-La colección bibliográfica reunida por el erudito Raymond Foulché-Delbosc (1864-1929) a lo largo de
+<p>La colección bibliográfica reunida por el erudito Raymond Foulché-Delbosc (1864-1929) a lo largo de
 décadas de trabajo intelectual fue subastada a su muerte y adquirida por la Biblioteca Nacional Mariano
 Moreno (BNMM) en 1936. Se trata de una de las colecciones más importantes de la Sala del Tesoro.
 Reúne 1281 obras, tanto impresas como manuscritas, de renombrados autores de la literatura española
@@ -26,13 +26,11 @@ consultaron ejemplares en la BNMM e identificaron estas obras como parte de la c
 Delbosc. A partir de ese "hallazgo", se propuso el relevamiento, microfilmación y temprana
 digitalización de una parte de la colección, en un proyecto bilateral financiado por la Agencia Española
 de Cooperación Internacional para el Desarrollo (AECID), a cargo del Dr. Francisco Marcos Marín
-(Universidad Autónoma de Madrid). Estos procesos permitieron la elaboración de un catálogo
-electrónico, aunque parcial, de obras presentes en la colección. En este último proyecto colaboraron
-especialistas de nuestro país. Posteriormente, se realizaron algunas digitalizaciones de algunos de los
-materiales del fondo. El seminario de Prácticas Socioeducativas Territorializadas de la Facultad de Filosofía y Letras de la UBA, <i>La colección Foulché-Delbosc, de la Historia del libro a las Humanidades Digitales</i>, que se dictó en la Escuela Nacional de Bibliotecarios de la BNMM desde el 15 de agosto al 21 de noviembre de 2024, apunta entonces a recuperar críticamente estos procesos de
-descripción, valoración y gestión, así como trazar nuevos recorridos posibles en relación al conocimiento
-de esta colección bibliográfica y su difusión en el siglo XXI.
-Programa completo del seminario <a href="https://artes.filo.uba.ar/sites/carreras.filo.uba.ar/files/2024-07/%5BPST%5D%20La%20coleccio%CC%81n%20Foulche%CC%81-Delbosc%2C%20de%20la%20historia%20del%20libro%20y%20la%20edicio%CC%81n%20a%20las%20humanidades%20digitales%20-%202024.pdf">aqui</a>
+(Universidad Autónoma de Madrid), del que participaron también investigadores de CONICET y personal de la BNMM. Estos procesos permitieron la elaboración de un catálogo electrónico, aunque parcial, de obras presentes en la colección. Posteriormente, se realizaron algunas digitalizaciones de algunos de los
+materiales del fondo. El seminario de Prácticas Socioeducativas Territorializadas de la Facultad de Filosofía y Letras de la UBA, <i>La colección Foulché-Delbosc, de la Historia del libro a las Humanidades Digitales</i>, que se dictó en la Escuela Nacional de Bibliotecarios de la BNMM desde el 15 de agosto al 21 de noviembre de 2024, apuntó a recuperar críticamente estos procesos de descripción, valoración y gestión, así como trazar nuevos recorridos posibles en relación al conocimiento de esta colección bibliográfica y su difusión en el siglo XXI.
+Programa completo del seminario <a href="https://artes.filo.uba.ar/sites/carreras.filo.uba.ar/files/2024-07/%5BPST%5D%20La%20coleccio%CC%81n%20Foulche%CC%81-Delbosc%2C%20de%20la%20historia%20del%20libro%20y%20la%20edicio%CC%81n%20a%20las%20humanidades%20digitales%20-%202024.pdf">aqui</a></p>
+
+<p>Agradecemos especialmente al Dr. Marcos Marin, a la Dra. Verónica Zumárraga y al Dr. Pablo Massa por su participación en la Jornada sobre el Catálogo electrónico que se llevó a cabo el día 26 de septiembre de 2024. Grabación de la sesión <a href="https://youtu.be/8tDagpNGgIk?si=BaQ7aBeGYRgQhgmn">aquí</a></p>.
 
 ## Grupo 1
 
