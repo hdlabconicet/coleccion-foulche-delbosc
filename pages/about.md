@@ -30,7 +30,7 @@ de Cooperación Internacional para el Desarrollo (AECID), a cargo del Dr. Franci
 materiales del fondo. El seminario de Prácticas Socioeducativas Territorializadas de la Facultad de Filosofía y Letras de la UBA, <i>La colección Foulché-Delbosc, de la Historia del libro a las Humanidades Digitales</i>, que se dictó en la Escuela Nacional de Bibliotecarios de la BNMM desde el 15 de agosto al 21 de noviembre de 2024, apuntó a recuperar críticamente estos procesos de descripción, valoración y gestión, así como trazar nuevos recorridos posibles en relación al conocimiento de esta colección bibliográfica y su difusión en el siglo XXI.
 Programa completo del seminario <a href="https://artes.filo.uba.ar/sites/carreras.filo.uba.ar/files/2024-07/%5BPST%5D%20La%20coleccio%CC%81n%20Foulche%CC%81-Delbosc%2C%20de%20la%20historia%20del%20libro%20y%20la%20edicio%CC%81n%20a%20las%20humanidades%20digitales%20-%202024.pdf">aqui</a></p>
 
-<p>Agradecemos especialmente al Dr. Marcos Marin, a la Dra. Verónica Zumárraga y al Dr. Pablo Massa por su participación en la Jornada sobre el Catálogo electrónico que se llevó a cabo el día 26 de septiembre de 2024. Grabación de la sesión <a href="https://youtu.be/8tDagpNGgIk?si=BaQ7aBeGYRgQhgmn">aquí</a></p>.
+<p>Agradecemos especialmente al Dr. Marcos Marin, a la Dra. Verónica Zumárraga y al Dr. Pablo Massa su participación en la Jornada sobre el Catálogo electrónico que se llevó a cabo el día 26 de septiembre de 2024. Grabación de la sesión <a href="https://youtu.be/8tDagpNGgIk?si=BaQ7aBeGYRgQhgmn">aquí</a></p>.
 
 ## Grupo 1
 
